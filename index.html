@@ -90,6 +90,17 @@
   .book-head{ display:flex; justify-content:space-between; font-family:var(--mono); font-size:10px; color:var(--ink-faint); text-transform:uppercase; padding:0 10px 6px; letter-spacing:0.05em; }
 
   /* --- Новини tab --- */
+  .news-calendar{ display:flex; align-items:center; gap:8px; margin-bottom:16px; }
+  .cal-nav{ background:var(--bg-panel); border:1px solid var(--line); color:var(--ink-dim); font-family:var(--mono); font-size:16px; width:32px; height:32px; border-radius:8px; cursor:pointer; flex-shrink:0; }
+  .cal-nav:hover{ color:var(--ink); border-color:#2a3242; }
+  .cal-nav:disabled{ opacity:0.3; cursor:default; }
+  .cal-days{ display:flex; gap:8px; overflow-x:auto; flex:1; }
+  .cal-day{ background:var(--bg-panel); border:1px solid var(--line); border-radius:10px; padding:8px 14px; text-align:center; cursor:pointer; flex-shrink:0; min-width:64px; transition:border-color .15s ease; }
+  .cal-day:hover{ border-color:#2a3242; }
+  .cal-day.active{ border-color:var(--accent); background:rgba(124,140,255,.08); }
+  .cal-day .wd{ font-family:var(--mono); font-size:9.5px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:.05em; }
+  .cal-day .dnum{ font-family:var(--mono); font-size:16px; font-weight:700; margin:2px 0; }
+  .cal-day .dcount{ font-family:var(--mono); font-size:9.5px; color:var(--accent); }
   .news-list{ display:flex; flex-direction:column; gap:10px; }
   .news-card{ background:var(--bg-card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; transition:border-color .15s ease; }
   .news-card:hover{ border-color:#2a3242; }
@@ -99,7 +110,15 @@
   .news-title{ font-size:14.5px; font-weight:600; line-height:1.4; margin-bottom:5px; }
   .news-title a{ color:var(--ink); text-decoration:none; }
   .news-title a:hover{ color:var(--accent); }
-  .news-snippet{ font-size:12.5px; color:var(--ink-dim); line-height:1.5; }
+  .news-snippet{ font-size:12.5px; color:var(--ink-dim); line-height:1.5; margin-bottom:10px; }
+  .news-analysis{ border-top:1px solid var(--line); padding-top:9px; display:flex; align-items:flex-start; gap:8px; }
+  .impact-badge{ font-family:var(--mono); font-size:9.5px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; padding:3px 7px; border-radius:5px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
+  .impact-badge.позитивний{ color:var(--long); background:rgba(62,231,176,.1); }
+  .impact-badge.негативний{ color:var(--short); background:rgba(255,93,122,.1); }
+  .impact-badge.нейтральний{ color:var(--ink-faint); background:rgba(122,132,150,.1); }
+  .news-note{ font-size:12px; color:var(--ink-dim); line-height:1.5; }
+  .news-coins{ display:flex; gap:5px; flex-wrap:wrap; margin-top:6px; }
+  .coin-chip{ font-family:var(--mono); font-size:9.5px; font-weight:700; padding:2px 6px; border-radius:4px; background:rgba(231,235,243,.06); color:var(--ink-dim); }
 
   footer{ margin-top:30px; font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); text-align:center; }
 </style>
@@ -122,9 +141,14 @@
 
   <!-- ============ НОВИНИ ============ -->
   <section class="tab-panel" id="tab-news">
+    <div class="news-calendar">
+      <button class="cal-nav" id="newsPrevWeek">‹</button>
+      <div class="cal-days" id="calDays"></div>
+      <button class="cal-nav" id="newsNextWeek">›</button>
+    </div>
     <div class="status-line" id="newsStatus">Завантаження…</div>
     <div class="news-list" id="newsList"></div>
-    <div class="disclaimer">⚠ Заголовки й короткі описи тягнуться з публічних RSS-стрічок (CoinDesk, Cointelegraph, Decrypt). Для повного тексту переходь за посиланням у джерело.</div>
+    <div class="disclaimer">⚠ Заголовки й короткі описи тягнуться з публічних RSS-стрічок (CoinDesk, Cointelegraph, Decrypt). Аналіз впливу під кожною новиною — простий евристичний розбір за ключовими словами (rule-based), не LLM і не професійна аналітика: він може помилятися чи пропускати нюанси. Для повного тексту переходь за посиланням у джерело.</div>
   </section>
 
   <!-- ============ ГРАФІКИ ============ -->
@@ -230,6 +254,11 @@ tabButtons.forEach(btn => {
 
 /* ================= НОВИНИ ================= */
 let newsLoaded = false;
+let newsIndexDates = [];   // всі дати, за якими є дані, відсортовані найновіші -> найстаріші
+let newsWeekOffset = 0;    // 0 = найновіший тиждень (7 дат), 1 = попередній тиждень, ...
+let newsSelectedDate = null;
+
+const WEEKDAYS_UA = ['НД','ПН','ВТ','СР','ЧТ','ПТ','СБ'];
 
 function timeAgo(iso){
   if(!iso) return '';
@@ -241,16 +270,65 @@ function timeAgo(iso){
   return `${Math.floor(hrs/24)} дн тому`;
 }
 
-async function loadNews(){
+function renderCalendar(){
+  const calDays = document.getElementById('calDays');
+  const start = newsWeekOffset * 7;
+  const weekDates = newsIndexDates.slice(start, start + 7);
+
+  if(weekDates.length === 0){
+    calDays.innerHTML = '<div class="err">Немає даних</div>';
+    return;
+  }
+
+  calDays.innerHTML = weekDates.map(d => {
+    const dateObj = new Date(d + 'T00:00:00Z');
+    const wd = WEEKDAYS_UA[dateObj.getUTCDay()];
+    const dnum = dateObj.getUTCDate();
+    const count = newsIndexAll[d] || 0;
+    const active = d === newsSelectedDate ? 'active' : '';
+    return `<div class="cal-day ${active}" data-date="${d}">
+      <div class="wd">${wd}</div>
+      <div class="dnum">${dnum}</div>
+      <div class="dcount">${count}</div>
+    </div>`;
+  }).join('');
+
+  calDays.querySelectorAll('.cal-day').forEach(el => {
+    el.addEventListener('click', () => {
+      newsSelectedDate = el.dataset.date;
+      renderCalendar();
+      loadDayNews(newsSelectedDate);
+    });
+  });
+
+  document.getElementById('newsPrevWeek').disabled = (start + 7) >= newsIndexDates.length;
+  document.getElementById('newsNextWeek').disabled = newsWeekOffset === 0;
+}
+
+function renderImpactBadge(item){
+  const coinsHtml = (item.coins && item.coins.length)
+    ? `<div class="news-coins">${item.coins.map(c => `<span class="coin-chip">${c}</span>`).join('')}</div>`
+    : '';
+  return `
+    <div class="news-analysis">
+      <span class="impact-badge ${item.impact}">${item.impact}</span>
+      <div>
+        <div class="news-note">${item.note}</div>
+        ${coinsHtml}
+      </div>
+    </div>`;
+}
+
+async function loadDayNews(date){
   const status = document.getElementById('newsStatus');
   const list = document.getElementById('newsList');
+  status.textContent = 'Завантаження…';
   try{
-    const res = await fetch('data/news/latest.json', {cache:'no-store'});
+    const res = await fetch(`data/news/history/${date}.json`, {cache:'no-store'});
     if(!res.ok) throw new Error('HTTP '+res.status);
     const data = await res.json();
-    newsLoaded = true;
     if(!data.items || data.items.length===0){
-      list.innerHTML = '<div class="err">Новин поки немає.</div>';
+      list.innerHTML = '<div class="err">Новин за цей день немає.</div>';
       status.textContent = 'Порожньо';
       return;
     }
@@ -262,14 +340,49 @@ async function loadNews(){
         </div>
         <div class="news-title"><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a></div>
         <div class="news-snippet">${it.snippet || ''}</div>
+        ${renderImpactBadge(it)}
       </div>
     `).join('');
-    status.textContent = `${data.items.length} новин · оновлено ${new Date(data.generated_at).toLocaleString('uk-UA')}`;
+    status.textContent = `${data.items.length} новин за ${date} · оновлено ${new Date(data.generated_at).toLocaleString('uk-UA')}`;
   }catch(e){
-    status.textContent = 'Не вдалося завантажити новини. Можливо, ще не було першого запуску Actions.';
+    status.textContent = 'Не вдалося завантажити новини за цей день.';
     console.error(e);
   }
 }
+
+let newsIndexAll = {};
+
+async function loadNews(){
+  const status = document.getElementById('newsStatus');
+  try{
+    const res = await fetch('data/news/index.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    newsIndexAll = await res.json();
+    newsIndexDates = Object.keys(newsIndexAll).sort().reverse();
+    newsLoaded = true;
+
+    if(newsIndexDates.length === 0){
+      status.textContent = 'Дані ще не згенеровано. Дочекайтесь першого запуску GitHub Actions.';
+      return;
+    }
+
+    newsWeekOffset = 0;
+    newsSelectedDate = newsIndexDates[0];
+    renderCalendar();
+    await loadDayNews(newsSelectedDate);
+  }catch(e){
+    status.textContent = 'Не вдалося завантажити data/news/index.json. Можливо, ще не було першого запуску Actions.';
+    console.error(e);
+  }
+}
+
+document.getElementById('newsPrevWeek').addEventListener('click', () => {
+  const start = newsWeekOffset * 7;
+  if(start + 7 < newsIndexDates.length){ newsWeekOffset++; renderCalendar(); }
+});
+document.getElementById('newsNextWeek').addEventListener('click', () => {
+  if(newsWeekOffset > 0){ newsWeekOffset--; renderCalendar(); }
+});
 
 /* ================= ГРАФІКИ ================= */
 let chartInitialized = false;

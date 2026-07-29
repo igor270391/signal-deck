@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
-Тягне заголовки новин з публічних RSS-фідів (без ключів і реєстрації),
-парсить title/link/дату/короткий опис і зберігає в data/news/latest.json.
+Тягне новини з публічних RSS (CoinDesk, Cointelegraph, Decrypt), додає до
+кожної новини простий евристичний аналіз впливу (ключові слова -- НЕ LLM,
+НЕ професійна аналітика), групує по даті публікації для календаря і зберігає:
 
-Джерела: CoinDesk, Cointelegraph, Decrypt -- усі мають стабільні публічні RSS.
-(В оригінальному дашборді фігурували CryptoFeed/CoinDesk/CryptoTimes, але
-CryptoFeed схожий на власний контент того блогера, а не публічний RSS, тож
-тут використано три перевірені джерела з реальними RSS-адресами.)
+  data/news/history/<YYYY-MM-DD>.json   -- усі новини за конкретний день
+  data/news/index.json                   -- {дата: кількість новин} для календаря
+  data/news/latest.json                  -- вказівник на останню дату з даними
+
+Дедуплікація між запусками -- по посиланню (link), тож той самий запуск
+щогодини не плодить дублікати однієї статті.
 """
 
 import json
@@ -22,6 +25,7 @@ from urllib import request, error
 
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = ROOT / "data" / "news"
+NEWS_HISTORY_DIR = NEWS_DIR / "history"
 
 FEEDS = [
     {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"},
@@ -30,8 +34,45 @@ FEEDS = [
 ]
 
 MAX_ITEMS_PER_FEED = 15
-MAX_TOTAL_ITEMS = 40
 SNIPPET_LEN = 200
+
+# -- монети, які розпізнаються в тексті новини --------------------------
+# full_names шукаються в тексті у нижньому регістрі (без ризику плутанини).
+# Для тікерів з високим ризиком колізії зі звичайними словами (LINK, DOT,
+# NEAR, SOL, ADA, BNB) повна назва -- основний спосіб розпізнавання; сам
+# тікер перевіряється лише як ОКРЕМЕ слово ВЕЛИКИМИ ЛІТЕРАМИ в оригінальному
+# (не lowercased) тексті, як зазвичай пишуть у заголовках ($BTC, BTC).
+COIN_FULLNAMES = {
+    "BTC": ["bitcoin"],
+    "ETH": ["ethereum", "ether"],
+    "SOL": ["solana"],
+    "XRP": ["ripple", "xrp"],
+    "BNB": ["binance coin", "binancecoin"],
+    "ADA": ["cardano"],
+    "DOGE": ["dogecoin"],
+    "AVAX": ["avalanche"],
+    "LINK": ["chainlink"],
+    "DOT": ["polkadot"],
+    "NEAR": ["near protocol"],
+    "ONDO": ["ondo finance", "ondo"],
+}
+
+POSITIVE_WORDS = [
+    "rally", "rallies", "surge", "surges", "soar", "soars", "adoption",
+    "approval", "approves", "approved", "partnership", "upgrade", "bullish",
+    "inflow", "inflows", "institutional", "record high", "all-time high",
+    "integrates", "integration", "launch", "launches", "expands",
+    "expansion", "rebound", "recovery", "breakthrough", "milestone",
+]
+
+NEGATIVE_WORDS = [
+    "hack", "hacked", "exploit", "exploited", "breach", "ban", "banned",
+    "lawsuit", "sues", "sued", "charges", "charged", "crash", "crashes",
+    "dump", "dumps", "bearish", "crackdown", "delist", "delisting",
+    "fraud", "scam", "outage", "collapse", "bankrupt", "bankruptcy",
+    "liquidation", "liquidated", "sell-off", "selloff", "plunge",
+    "plunges", "fine", "fined", "penalty", "stolen", "theft",
+]
 
 
 def strip_html(text: str) -> str:
@@ -53,6 +94,51 @@ def fetch_feed(url: str, retries: int = 3):
             last_err = e
             time.sleep(2 * (attempt + 1))
     raise RuntimeError(f"не вдалось отримати {url}: {last_err}")
+
+
+def find_coins(original_text: str, lower_text: str):
+    matches = []
+    for label, full_names in COIN_FULLNAMES.items():
+        found = any(name in lower_text for name in full_names)
+        if not found:
+            # окреме слово ВЕЛИКИМИ ЛІТЕРАМИ (тікер) або $TICKER в оригінальному тексті
+            found = bool(re.search(rf"(?<![A-Za-z]){label}(?![a-z])", original_text))
+        if found:
+            matches.append(label)
+    return matches
+
+
+def analyze_impact(title: str, snippet: str):
+    original = f"{title} {snippet}"
+    lower = original.lower()
+
+    coins = find_coins(original, lower)
+    pos_hits = [w for w in POSITIVE_WORDS if w in lower]
+    neg_hits = [w for w in NEGATIVE_WORDS if w in lower]
+
+    if len(neg_hits) > len(pos_hits):
+        impact = "негативний"
+    elif len(pos_hits) > len(neg_hits):
+        impact = "позитивний"
+    else:
+        impact = "нейтральний"
+
+    coins_str = ", ".join(coins) if coins else "загального ринку"
+    if impact == "позитивний":
+        note = f"Позитивний тон для {coins_str} за ключовими словами."
+    elif impact == "негативний":
+        note = f"Негативний тон для {coins_str} за ключовими словами -- варто звернути увагу."
+    else:
+        note = f"Нейтрально щодо {coins_str} -- прямого сигналу на ціну за ключовими словами не видно."
+
+    triggers = (pos_hits[:3] if impact == "позитивний" else neg_hits[:3] if impact == "негативний" else [])
+
+    return {
+        "impact": impact,
+        "coins": coins,
+        "note": note,
+        "triggers": triggers,
+    }
 
 
 def parse_items(root, source_name):
@@ -83,48 +169,81 @@ def parse_items(root, source_name):
         if not title or not link:
             continue
 
+        analysis = analyze_impact(title, desc)
+
         items.append({
             "source": source_name,
             "title": title,
             "link": link,
             "snippet": desc,
             "published_at": published_at,
+            **analysis,
         })
     return items
 
 
 def main():
+    now = datetime.now(timezone.utc)
+    today_str = now.strftime("%Y-%m-%d")
+
     all_items = []
     errors = []
-
     for feed in FEEDS:
         try:
             root = fetch_feed(feed["url"])
-            items = parse_items(root, feed["name"])
-            all_items.extend(items)
+            all_items.extend(parse_items(root, feed["name"]))
         except Exception as e:  # noqa: BLE001
             errors.append({"source": feed["name"], "error": str(e)})
             print(f"[WARN] {feed['name']}: {e}", file=sys.stderr)
 
     if not all_items:
-        print("Жодної новини не вдалось отримати — файл не оновлюємо.", file=sys.stderr)
+        print("Жодної новини не вдалось отримати — файли не оновлюємо.", file=sys.stderr)
         sys.exit(1)
 
-    all_items.sort(key=lambda x: x["published_at"] or "", reverse=True)
-    all_items = all_items[:MAX_TOTAL_ITEMS]
+    # групуємо по даті публікації (якщо дати немає -- відносимо на сьогодні)
+    by_date = {}
+    for item in all_items:
+        d = item["published_at"][:10] if item["published_at"] else today_str
+        by_date.setdefault(d, []).append(item)
 
-    snapshot = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "count": len(all_items),
-        "items": all_items,
-        "errors": errors,
-    }
+    NEWS_HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 
-    NEWS_DIR.mkdir(parents=True, exist_ok=True)
+    index_path = NEWS_DIR / "index.json"
+    index = {}
+    if index_path.exists():
+        with open(index_path, "r", encoding="utf-8") as f:
+            index = json.load(f)
+
+    for date_str, items in by_date.items():
+        day_file = NEWS_HISTORY_DIR / f"{date_str}.json"
+        existing_items = []
+        if day_file.exists():
+            with open(day_file, "r", encoding="utf-8") as f:
+                existing_items = json.load(f).get("items", [])
+
+        merged = {it["link"]: it for it in existing_items}
+        for it in items:
+            merged[it["link"]] = it  # свіжі дані перекривають старі (той самий лінк)
+        merged_list = sorted(merged.values(), key=lambda x: x["published_at"] or "", reverse=True)
+
+        with open(day_file, "w", encoding="utf-8") as f:
+            json.dump({
+                "date": date_str,
+                "generated_at": now.isoformat(),
+                "count": len(merged_list),
+                "items": merged_list,
+            }, f, ensure_ascii=False, indent=2)
+
+        index[date_str] = len(merged_list)
+
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+
+    latest_date = max(index.keys())
     with open(NEWS_DIR / "latest.json", "w", encoding="utf-8") as f:
-        json.dump(snapshot, f, ensure_ascii=False, indent=2)
+        json.dump({"date": latest_date, "generated_at": now.isoformat()}, f, ensure_ascii=False, indent=2)
 
-    print(f"OK: збережено {len(all_items)} новин ({len(errors)} помилок джерел)")
+    print(f"OK: оброблено {len(all_items)} новин за {len(by_date)} днів ({len(errors)} помилок джерел)")
 
 
 if __name__ == "__main__":
