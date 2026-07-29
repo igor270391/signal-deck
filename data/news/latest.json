@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-07-29T15:18:10.139710+00:00",
+  "generated_at": "2026-07-29T16:28:37.013521+00:00",
   "count": 40,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
+      "link": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
+      "snippet": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
+      "published_at": "2026-07-29T16:16:43+00:00"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+      "link": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
+      "snippet": "Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.",
+      "published_at": "2026-07-29T16:09:34+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "link": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
+      "snippet": "Tokenization and 24/7 markets are reshaping finance, making always-on banking a reality.",
+      "published_at": "2026-07-29T16:09:32+00:00"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cost to insure AI debt reaches record high amid Asian semiconductor tumble",
+      "link": "https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest the AI trade’s leverage is starting to bite — in equities and in bonds.",
+      "published_at": "2026-07-29T16:04:22+00:00"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "link": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+      "snippet": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, Brale CEO Ben Milne said in an interview.",
+      "published_at": "2026-07-29T15:27:30+00:00"
+    },
     {
       "source": "CoinDesk",
       "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
@@ -192,20 +227,6 @@
       "published_at": "2026-07-29T07:11:27+00:00"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin attempts to hold $64,000 ahead of Fed as AI favorites fall again",
-      "link": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
-      "snippet": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
-      "published_at": "2026-07-29T06:25:21+00:00"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-      "link": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-      "snippet": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
-      "published_at": "2026-07-29T06:03:28+00:00"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
       "link": "https://cointelegraph.com/markets/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -234,13 +255,6 @@
       "published_at": "2026-07-29T03:26:44+00:00"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
-      "link": "https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
-      "published_at": "2026-07-29T02:50:51+00:00"
-    },
-    {
       "source": "Decrypt",
       "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
       "link": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
@@ -267,20 +281,6 @@
       "link": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
       "snippet": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
       "published_at": "2026-07-28T20:08:48+00:00"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
-      "link": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
-      "snippet": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
-      "published_at": "2026-07-28T19:36:03+00:00"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-      "link": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
-      "snippet": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
-      "published_at": "2026-07-28T19:14:14+00:00"
     }
   ],
   "errors": []
