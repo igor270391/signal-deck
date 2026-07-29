@@ -1,0 +1,81 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-29T17:23:29.810354+00:00",
+  "count": 6,
+  "items": [
+    {
+      "source": "Decrypt",
+      "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
+      "link": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
+      "snippet": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
+      "published_at": "2026-07-28T22:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+      "link": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
+      "snippet": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
+      "published_at": "2026-07-28T22:08:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
+      "link": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+      "snippet": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
+      "published_at": "2026-07-28T20:45:38+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
+      "link": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
+      "snippet": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
+      "published_at": "2026-07-28T20:08:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
+      "link": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
+      "snippet": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
+      "published_at": "2026-07-28T19:36:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+      "link": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
+      "snippet": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
+      "published_at": "2026-07-28T19:14:14+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH",
+        "SOL"
+      ],
+      "note": "Позитивний тон для ETH, SOL за ключовими словами.",
+      "triggers": [
+        "launch",
+        "expands"
+      ]
+    }
+  ]
+}
