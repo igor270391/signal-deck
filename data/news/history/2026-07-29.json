@@ -1,8 +1,57 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T18:13:39.693736+00:00",
-  "count": 41,
+  "generated_at": "2026-07-29T20:16:14.129930+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+      "link": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
+      "snippet": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
+      "published_at": "2026-07-29T20:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
+      "link": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A White House crypto adviser said that the proposed changes to the CLARITY Act were “not even close” to the administration’s position, signaling another fight over the bill.",
+      "published_at": "2026-07-29T19:43:29+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
+      "link": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
+      "snippet": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
+      "published_at": "2026-07-29T19:31:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+      "link": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
+      "snippet": "Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.",
+      "published_at": "2026-07-29T18:43:45+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
