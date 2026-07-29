@@ -1,8 +1,36 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T17:23:29.810354+00:00",
-  "count": 39,
+  "generated_at": "2026-07-29T18:13:39.693736+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+      "link": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
+      "snippet": "Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.",
+      "published_at": "2026-07-29T18:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
+      "link": "https://www.coindesk.com/markets/2026/07/29/fomc-hold-fed-holds-rates-steady-extending-pause-as-markets-await-warsh-s-policy-roadmap",
+      "snippet": "For the first time in several years, markets were somewhat split on whether the U.S. central bank would hike rates.",
+      "published_at": "2026-07-29T17:58:33+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
