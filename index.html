@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIGNAL DECK — крипто-сигнали</title>
+<style>
+  :root{
+    --bg:#0a0c12; --bg-panel:#10141d; --bg-card:#12161f; --line:#1e2530;
+    --ink:#e7ebf3; --ink-dim:#7b8496; --ink-faint:#4a5364;
+    --long:#3ee7b0; --short:#ff5d7a; --neutral:#f4b942; --accent:#7c8cff;
+    --mono:'JetBrains Mono','SF Mono',Consolas,monospace; --sans:'Inter',-apple-system,sans-serif;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{ background:radial-gradient(ellipse 120% 80% at 50% -10%, #151a26 0%, var(--bg) 55%); color:var(--ink); font-family:var(--sans); min-height:100vh; padding:28px 20px 60px; }
+  .wrap{ max-width:1180px; margin:0 auto; }
+  header{ display:flex; align-items:flex-end; justify-content:space-between; gap:20px; flex-wrap:wrap; border-bottom:1px solid var(--line); padding-bottom:18px; margin-bottom:18px; }
+  .brand{ display:flex; align-items:center; gap:12px; }
+  .brand-mark{ width:34px; height:34px; border-radius:9px; background:linear-gradient(135deg,var(--accent),#4a56c9); display:flex; align-items:center; justify-content:center; font-family:var(--mono); font-weight:700; font-size:15px; color:#0a0c12; flex-shrink:0; }
+  .brand h1{ font-size:19px; letter-spacing:0.02em; font-weight:700; }
+  .brand p{ font-size:11.5px; color:var(--ink-dim); font-family:var(--mono); margin-top:1px; }
+
+  /* calendar / time selector */
+  .picker{ background:var(--bg-panel); border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin-bottom:18px; display:flex; align-items:center; gap:16px; flex-wrap:wrap; }
+  .picker label{ font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em; display:block; margin-bottom:5px; }
+  select{ background:var(--bg-card); border:1px solid var(--line); color:var(--ink); font-family:var(--mono); font-size:13px; padding:7px 10px; border-radius:7px; }
+  .picker .meta{ font-family:var(--mono); font-size:11.5px; color:var(--ink-faint); margin-left:auto; }
+
+  .gauge-panel{ background:var(--bg-panel); border:1px solid var(--line); border-radius:14px; padding:20px 24px; margin-bottom:22px; display:flex; align-items:center; gap:28px; flex-wrap:wrap; }
+  .gauge-label{ font-family:var(--mono); font-size:11px; color:var(--ink-faint); letter-spacing:0.08em; text-transform:uppercase; margin-bottom:6px; }
+  .gauge-value{ font-family:var(--mono); font-size:34px; font-weight:700; line-height:1; }
+  .gauge-bar-track{ flex:1 1 320px; min-width:240px; height:8px; border-radius:5px; background:var(--line); position:relative; overflow:hidden; }
+  .gauge-bar-fill{ position:absolute; top:0; left:0; height:100%; border-radius:5px; transition:width 0.6s ease; }
+  .gauge-ticks{ display:flex; justify-content:space-between; font-family:var(--mono); font-size:10px; color:var(--ink-faint); margin-top:6px; }
+  .gauge-counts{ display:flex; gap:18px; font-family:var(--mono); font-size:12px; }
+  .gauge-counts span b{ font-size:15px; }
+  .c-long b{ color:var(--long); } .c-neutral b{ color:var(--neutral); } .c-short b{ color:var(--short); }
+
+  .status-line{ font-family:var(--mono); font-size:11.5px; color:var(--ink-faint); margin-bottom:16px; min-height:16px; }
+  .disclaimer{ font-size:11.5px; color:var(--ink-faint); font-family:var(--mono); border-left:2px solid var(--line); padding-left:10px; margin-bottom:24px; line-height:1.6; }
+
+  .grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(255px,1fr)); gap:14px; }
+  .card{ background:var(--bg-card); border:1px solid var(--line); border-radius:12px; padding:16px 16px 14px; border-top:2px solid var(--line); transition:transform .15s ease, border-color .15s ease; }
+  .card:hover{ transform:translateY(-2px); border-color:#2a3242; }
+  .card.long{ border-top-color:var(--long); } .card.short{ border-top-color:var(--short); } .card.neutral{ border-top-color:var(--neutral); }
+  .card-top{ display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:10px; }
+  .sym{ font-family:var(--mono); font-weight:700; font-size:15px; }
+  .price-row{ font-family:var(--mono); font-size:12.5px; color:var(--ink-dim); margin-top:2px; }
+  .chg{ font-weight:600; } .chg.pos{ color:var(--long); } .chg.neg{ color:var(--short); }
+  .badge{ font-family:var(--mono); font-size:10px; font-weight:700; letter-spacing:.06em; padding:3px 8px; border-radius:5px; text-transform:uppercase; white-space:nowrap; }
+  .badge.long{ color:var(--long); background:rgba(62,231,176,.1); } .badge.short{ color:var(--short); background:rgba(255,93,122,.1); } .badge.neutral{ color:var(--neutral); background:rgba(244,185,66,.1); }
+  .meter-track{ height:5px; background:var(--line); border-radius:3px; overflow:hidden; margin:10px 0 12px; }
+  .meter-fill{ height:100%; border-radius:3px; } .meter-fill.long{ background:var(--long); } .meter-fill.short{ background:var(--short); } .meter-fill.neutral{ background:var(--neutral); }
+  .stat-grid{ display:grid; grid-template-columns:1fr 1fr; gap:8px 10px; margin-bottom:10px; }
+  .stat .k{ color:var(--ink-faint); font-family:var(--mono); font-size:9.5px; text-transform:uppercase; letter-spacing:.05em; display:block; margin-bottom:2px; }
+  .stat .v{ font-family:var(--mono); font-size:12.5px; font-weight:600; } .stat .v.up{ color:var(--long); } .stat .v.down{ color:var(--short); }
+  .levels{ border-top:1px solid var(--line); padding-top:10px; display:grid; grid-template-columns:1fr 1fr; gap:6px 10px; font-family:var(--mono); font-size:11px; }
+  .levels .lv{ display:flex; justify-content:space-between; } .levels .lv .k{ color:var(--ink-faint); }
+  .levels .resist .v{ color:var(--short); } .levels .support .v{ color:var(--long); }
+  .err{ color:var(--short); font-family:var(--mono); font-size:11px; padding:20px; text-align:center; grid-column:1/-1; }
+  footer{ margin-top:30px; font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); text-align:center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <div class="brand-mark">SD</div>
+      <div><h1>SIGNAL DECK</h1><p>bybit spot · денні свічки · авто-теханаліз RSI / EMA / ATR</p></div>
+    </div>
+  </header>
+
+  <div class="picker">
+    <div>
+      <label>Дата</label>
+      <select id="dateSelect"></select>
+    </div>
+    <div>
+      <label>Час знімку (UTC)</label>
+      <select id="timeSelect"></select>
+    </div>
+    <div class="meta" id="metaInfo">—</div>
+  </div>
+
+  <div class="gauge-panel">
+    <div>
+      <div class="gauge-label">Загальний настрій ринку</div>
+      <div class="gauge-value" id="gaugeValue" style="color:var(--ink-dim)">—</div>
+    </div>
+    <div style="flex:1 1 320px; min-width:240px;">
+      <div class="gauge-bar-track"><div class="gauge-bar-fill" id="gaugeFill" style="width:50%; background:var(--ink-faint);"></div></div>
+      <div class="gauge-ticks"><span>ШОРТ</span><span>НЕЙТРАЛ</span><span>ЛОНГ</span></div>
+    </div>
+    <div class="gauge-counts">
+      <span class="c-long">ЛОНГ <b id="cntLong">0</b></span>
+      <span class="c-neutral">НЕЙТРАЛ <b id="cntNeutral">0</b></span>
+      <span class="c-short">ШОРТ <b id="cntShort">0</b></span>
+    </div>
+  </div>
+
+  <div class="status-line" id="statusLine">Завантаження…</div>
+  <div class="grid" id="grid"></div>
+
+  <div class="disclaimer">
+    ⚠ Все на цій сторінці — автоматичний технічний розрахунок за публічними даними Bybit (денні свічки),
+    що оновлюється щогодини через GitHub Actions. Це не фінансова порада та не гарантія результату.
+    Приймайте рішення на власний ризик і перевіряйте дані у декількох джерелах.
+  </div>
+
+  <footer>дані: scripts/fetch_signals.py → data/*.json · оновлення: .github/workflows/update.yml (щогодини)</footer>
+</div>
+
+<script>
+function fmtPrice(p){
+  if(p>=1000) return "$"+p.toLocaleString("en-US",{maximumFractionDigits:0});
+  if(p>=1) return "$"+p.toLocaleString("en-US",{maximumFractionDigits:2});
+  if(p>=0.01) return "$"+p.toFixed(4);
+  return "$"+p.toFixed(6);
+}
+function labelClass(l){ return l==="ЛОНГ"?"long": l==="ШОРТ"?"short":"neutral"; }
+
+function renderCard(a){
+  const cls = labelClass(a.label);
+  const chgClass = a.change_7d>=0 ? "pos":"neg";
+  return `
+  <div class="card ${cls}">
+    <div class="card-top">
+      <div>
+        <div class="sym">${a.name}</div>
+        <div class="price-row">${fmtPrice(a.price)} <span class="chg ${chgClass}">${a.change_7d>=0?'▲':'▼'} ${Math.abs(a.change_7d).toFixed(1)}%</span></div>
+      </div>
+      <span class="badge ${cls}">${a.label}</span>
+    </div>
+    <div class="meter-track"><div class="meter-fill ${cls}" style="width:${a.score}%"></div></div>
+    <div class="stat-grid">
+      <div class="stat"><span class="k">RSI 14</span><span class="v">${a.rsi14}</span></div>
+      <div class="stat"><span class="k">Тренд EMA</span><span class="v ${a.trend_up?'up':'down'}">${a.trend_up?'↑ Бичачий':'↓ Ведмежий'}</span></div>
+      <div class="stat"><span class="k">30 днів</span><span class="v ${a.change_30d>=0?'up':'down'}">${a.change_30d>=0?'+':''}${a.change_30d.toFixed(1)}%</span></div>
+      <div class="stat"><span class="k">Сигнал</span><span class="v">${a.score}/100</span></div>
+    </div>
+    <div class="levels">
+      <div class="lv resist"><span class="k">Опір</span><span class="v">${fmtPrice(a.resistance)}</span></div>
+      <div class="lv support"><span class="k">Підтримка</span><span class="v">${fmtPrice(a.support)}</span></div>
+      <div class="lv"><span class="k">Ціль</span><span class="v">${fmtPrice(a.target)}</span></div>
+      <div class="lv"><span class="k">Стоп</span><span class="v">${fmtPrice(a.stop)}</span></div>
+    </div>
+  </div>`;
+}
+
+function renderSnapshot(snap){
+  const grid = document.getElementById('grid');
+  const statusLine = document.getElementById('statusLine');
+  const metaInfo = document.getElementById('metaInfo');
+
+  if(!snap || !snap.assets || snap.assets.length===0){
+    grid.innerHTML = '<div class="err">Немає даних для цього знімку.</div>';
+    statusLine.textContent = "Порожньо";
+    return;
+  }
+
+  grid.innerHTML = snap.assets.map(renderCard).join('');
+  statusLine.textContent = `${snap.assets.length} активів · знімок ${snap.date} ${snap.time} UTC`;
+  metaInfo.textContent = `згенеровано: ${snap.generated_at}`;
+
+  const longCount = snap.assets.filter(a=>a.label==="ЛОНГ").length;
+  const shortCount = snap.assets.filter(a=>a.label==="ШОРТ").length;
+  const neutralCount = snap.assets.length - longCount - shortCount;
+  document.getElementById('cntLong').textContent = longCount;
+  document.getElementById('cntShort').textContent = shortCount;
+  document.getElementById('cntNeutral').textContent = neutralCount;
+
+  const avgScore = Math.round(snap.assets.reduce((a,r)=>a+r.score,0)/snap.assets.length);
+  const gaugeValue = document.getElementById('gaugeValue');
+  const gaugeFill = document.getElementById('gaugeFill');
+  let gLabel="НЕЙТРАЛЬНИЙ", gColor="var(--neutral)";
+  if(avgScore>=60){ gLabel="БИЧАЧИЙ"; gColor="var(--long)"; }
+  else if(avgScore<=40){ gLabel="ВЕДМЕЖИЙ"; gColor="var(--short)"; }
+  gaugeValue.textContent = `${avgScore}/100 · ${gLabel}`;
+  gaugeValue.style.color = gColor;
+  gaugeFill.style.width = avgScore + "%";
+  gaugeFill.style.background = gColor;
+}
+
+async function loadSnapshot(date, time){
+  const res = await fetch(`data/history/${date}/${time}.json`, {cache:"no-store"});
+  if(!res.ok) throw new Error("HTTP "+res.status);
+  return res.json();
+}
+
+async function populateTimeSelect(date, preselect){
+  const idx = await fetch('data/index.json', {cache:"no-store"}).then(r=>r.json());
+  const times = (idx[date] || []).slice().sort().reverse();
+  const timeSelect = document.getElementById('timeSelect');
+  timeSelect.innerHTML = times.map(t => `<option value="${t}">${t.replace('-',':')}</option>`).join('');
+  if(preselect && times.includes(preselect)) timeSelect.value = preselect;
+  return times;
+}
+
+async function init(){
+  const statusLine = document.getElementById('statusLine');
+  try{
+    const idx = await fetch('data/index.json', {cache:"no-store"}).then(r=>r.json());
+    const dates = Object.keys(idx).sort().reverse();
+    const dateSelect = document.getElementById('dateSelect');
+    dateSelect.innerHTML = dates.map(d => `<option value="${d}">${d}</option>`).join('');
+
+    if(dates.length === 0){
+      statusLine.textContent = "Дані ще не згенеровано. Запустіть scripts/fetch_signals.py або дочекайтесь першого запуску GitHub Actions.";
+      return;
+    }
+
+    const latestDate = dates[0];
+    dateSelect.value = latestDate;
+    const times = await populateTimeSelect(latestDate);
+
+    async function reload(){
+      const d = dateSelect.value, t = document.getElementById('timeSelect').value;
+      if(!d || !t) return;
+      statusLine.textContent = "Завантаження…";
+      try{
+        const snap = await loadSnapshot(d, t);
+        renderSnapshot(snap);
+      }catch(e){
+        statusLine.textContent = "Помилка завантаження знімку: " + e.message;
+      }
+    }
+
+    dateSelect.addEventListener('change', async () => { await populateTimeSelect(dateSelect.value); reload(); });
+    document.getElementById('timeSelect').addEventListener('change', reload);
+
+    if(times.length){ await reload(); }
+    else { statusLine.textContent = "Немає знімків на цю дату."; }
+  }catch(e){
+    statusLine.textContent = "Не вдалося завантажити data/index.json. Перевірте, що файл існує (запустіть скрипт хоч раз).";
+    console.error(e);
+  }
+}
+
+init();
+</script>
+</body>
+</html>
