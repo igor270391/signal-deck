@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
-Тягне денні свічки з публічного Bybit API, рахує RSI14 / EMA20 / EMA50 / ATR14,
-рахує сигнал (ЛОНГ / НЕЙТРАЛ / ШОРТ) по кожній монеті і зберігає результат у:
+Тягне денні ціни закриття з публічного CoinGecko API (без ключа), рахує
+RSI14 / EMA20 / EMA50 та псевдо-ATR (на основі close-to-close руху, бо
+безкоштовний market_chart-ендпоінт не дає high/low), рахує сигнал
+(ЛОНГ / НЕЙТРАЛ / ШОРТ) по кожній монеті і зберігає результат у:
 
   data/history/<YYYY-MM-DD>/<HH-MM>.json   -- знімок на конкретний момент
   data/latest.json                          -- останній знімок (для фронтенду за замовч.)
@@ -11,7 +13,6 @@
 """
 
 import json
-import os
 import sys
 import time
 from datetime import datetime, timezone
@@ -22,54 +23,50 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 HISTORY_DIR = DATA_DIR / "history"
 
+# id -- це офіційний CoinGecko coin id (не тикер), він потрібен для URL.
 SYMBOLS = [
-    {"fsym": "BTC", "label": "BTC"},
-    {"fsym": "ETH", "label": "ETH"},
-    {"fsym": "SOL", "label": "SOL"},
-    {"fsym": "XRP", "label": "XRP"},
-    {"fsym": "BNB", "label": "BNB"},
-    {"fsym": "ADA", "label": "ADA"},
-    {"fsym": "DOGE", "label": "DOGE"},
-    {"fsym": "AVAX", "label": "AVAX"},
-    {"fsym": "LINK", "label": "LINK"},
-    {"fsym": "DOT", "label": "DOT"},
-    {"fsym": "NEAR", "label": "NEAR"},
-    {"fsym": "ONDO", "label": "ONDO"},
+    {"id": "bitcoin", "label": "BTC"},
+    {"id": "ethereum", "label": "ETH"},
+    {"id": "solana", "label": "SOL"},
+    {"id": "ripple", "label": "XRP"},
+    {"id": "binancecoin", "label": "BNB"},
+    {"id": "cardano", "label": "ADA"},
+    {"id": "dogecoin", "label": "DOGE"},
+    {"id": "avalanche-2", "label": "AVAX"},
+    {"id": "chainlink", "label": "LINK"},
+    {"id": "polkadot", "label": "DOT"},
+    {"id": "near", "label": "NEAR"},
+    {"id": "ondo-finance", "label": "ONDO"},
 ]
 
-# CryptoCompare: безкоштовне публічне API, без ключа, не блокує запити з
-# дата-центрів/CI (на відміну від Bybit чи Binance, які часто дають 403/451
-# саме на IP-адресах GitHub Actions, AWS, Azure тощо).
-CRYPTOCOMPARE_URL = "https://min-api.cryptocompare.com/data/v2/histoday?fsym={fsym}&tsym=USD&limit=150"
+COINGECKO_URL = (
+    "https://api.coingecko.com/api/v3/coins/{id}/market_chart"
+    "?vs_currency=usd&days=100&interval=daily"
+)
 
 
-def fetch_klines(fsym: str, retries: int = 3):
-    url = CRYPTOCOMPARE_URL.format(fsym=fsym)
+def fetch_closes(coin_id: str, retries: int = 4):
+    url = COINGECKO_URL.format(id=coin_id)
     last_err = None
     for attempt in range(retries):
         try:
             req = request.Request(url, headers={"User-Agent": "signal-deck/1.0"})
-            with request.urlopen(req, timeout=15) as resp:
+            with request.urlopen(req, timeout=20) as resp:
                 payload = json.loads(resp.read().decode("utf-8"))
-            if payload.get("Response") != "Success":
-                raise RuntimeError(payload.get("Message", "cryptocompare error"))
-            rows = payload["Data"]["Data"]
-            candles = [
-                {
-                    "time": int(r["time"]),
-                    "open": float(r["open"]),
-                    "high": float(r["high"]),
-                    "low": float(r["low"]),
-                    "close": float(r["close"]),
-                }
-                for r in rows
-                if r["close"] > 0  # cryptocompare нулями заповнює дні до лістингу монети
-            ]
-            return candles
-        except (error.URLError, error.HTTPError, RuntimeError, KeyError) as e:
+            prices = payload.get("prices")
+            if not prices:
+                raise RuntimeError("порожня відповідь (немає 'prices')")
+            closes = [p[1] for p in prices if p[1] and p[1] > 0]
+            return closes
+        except error.HTTPError as e:
             last_err = e
-            time.sleep(1.5 * (attempt + 1))
-    raise RuntimeError(f"не вдалось отримати {fsym}: {last_err}")
+            # 429 = забагато запитів -- чекаємо довше і пробуємо ще раз
+            wait = 8 if e.code == 429 else 2 * (attempt + 1)
+            time.sleep(wait)
+        except (error.URLError, RuntimeError, KeyError) as e:
+            last_err = e
+            time.sleep(2 * (attempt + 1))
+    raise RuntimeError(f"не вдалось отримати {coin_id}: {last_err}")
 
 
 def ema(values, period):
@@ -104,38 +101,26 @@ def rsi(closes, period=14):
     return out
 
 
-def atr(highs, lows, closes, period=14):
-    trs = []
-    for i in range(1, len(closes)):
-        tr = max(
-            highs[i] - lows[i],
-            abs(highs[i] - closes[i - 1]),
-            abs(lows[i] - closes[i - 1]),
-        )
-        trs.append(tr)
-    out = [None] * (len(trs) + 1)
-    prev = sum(trs[:period]) / period
-    out[period] = prev
-    for i in range(period, len(trs)):
-        prev = (prev * (period - 1) + trs[i]) / period
-        out[i + 1] = prev
-    return out
+def pseudo_atr(closes, period=14):
+    """ATR-подібна волатильність на основі close-to-close руху (немає high/low
+    у безкоштовному market_chart-ендпоінті)."""
+    diffs = [abs(closes[i] - closes[i - 1]) for i in range(1, len(closes))]
+    if len(diffs) < period:
+        return None
+    window = diffs[-period:]
+    return sum(window) / len(window)
 
 
 def clamp(v, lo, hi):
     return max(lo, min(hi, v))
 
 
-def compute_signal(candles):
-    closes = [c["close"] for c in candles]
-    highs = [c["high"] for c in candles]
-    lows = [c["low"] for c in candles]
+def compute_signal(closes):
     n = len(closes)
 
     rsi_arr = rsi(closes, 14)
     ema_fast = ema(closes, 20)
     ema_slow = ema(closes, 50)
-    atr_arr = atr(highs, lows, closes, 14)
 
     last_close = closes[-1]
     last_rsi = rsi_arr[-1] or 50
@@ -146,9 +131,9 @@ def compute_signal(candles):
     change30 = (last_close - closes[idx30]) / closes[idx30] * 100
     change7 = (last_close - closes[idx7]) / closes[idx7] * 100
 
-    window = candles[max(0, n - 20):]
-    resistance = max(c["high"] for c in window)
-    support = min(c["low"] for c in window)
+    window = closes[max(0, n - 20):]
+    resistance = max(window)
+    support = min(window)
 
     score = 50
     score += 18 if trend_up else -18
@@ -165,6 +150,8 @@ def compute_signal(candles):
     target = last_close + (resistance - last_close) * 0.6 if label == "ЛОНГ" else resistance
     stop = support * 0.985 if label == "ЛОНГ" else resistance * 1.015
 
+    atr_val = pseudo_atr(closes, 14)
+
     return {
         "price": round(last_close, 8),
         "rsi14": round(last_rsi, 1),
@@ -175,7 +162,7 @@ def compute_signal(candles):
         "support": round(support, 8),
         "target": round(target, 8),
         "stop": round(stop, 8),
-        "atr14": round(atr_arr[-1], 8) if atr_arr[-1] else None,
+        "atr14": round(atr_val, 8) if atr_val else None,
         "score": score,
         "label": label,
     }
@@ -188,16 +175,19 @@ def main():
 
     results = []
     errors = []
-    for s in SYMBOLS:
+    for i, s in enumerate(SYMBOLS):
         try:
-            candles = fetch_klines(s["fsym"])
-            if len(candles) < 55:
-                raise RuntimeError("недостатньо свічок")
-            sig = compute_signal(candles)
-            results.append({"symbol": f"{s['fsym']}USD", "name": s["label"], **sig})
+            closes = fetch_closes(s["id"])
+            if len(closes) < 55:
+                raise RuntimeError(f"недостатньо даних ({len(closes)} точок)")
+            sig = compute_signal(closes)
+            results.append({"symbol": s["id"], "name": s["label"], **sig})
         except Exception as e:  # noqa: BLE001
-            errors.append({"symbol": s["fsym"], "error": str(e)})
-            print(f"[WARN] {s['fsym']}: {e}", file=sys.stderr)
+            errors.append({"symbol": s["id"], "error": str(e)})
+            print(f"[WARN] {s['label']}: {e}", file=sys.stderr)
+        # невелика пауза між запитами, щоб не впертися в rate limit CoinGecko
+        if i < len(SYMBOLS) - 1:
+            time.sleep(1.5)
 
     if not results:
         print("Жодного активу не вдалось обробити — знімок не зберігаємо.", file=sys.stderr)
@@ -220,7 +210,6 @@ def main():
     with open(DATA_DIR / "latest.json", "w", encoding="utf-8") as f:
         json.dump(snapshot, f, ensure_ascii=False, indent=2)
 
-    # update index of available date -> [times]
     index_path = DATA_DIR / "index.json"
     index = {}
     if index_path.exists():
