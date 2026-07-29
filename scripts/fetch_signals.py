@@ -37,6 +37,18 @@ SYMBOLS = [
     {"id": "polkadot", "label": "DOT"},
     {"id": "near", "label": "NEAR"},
     {"id": "ondo-finance", "label": "ONDO"},
+    {"id": "uniswap", "label": "UNI"},
+    {"id": "aster-2", "label": "ASTER"},
+    {"id": "cosmos", "label": "ATOM"},
+    {"id": "aave", "label": "AAVE"},
+    {"id": "aptos", "label": "APT"},
+    {"id": "layerzero", "label": "ZRO"},
+    {"id": "fartcoin", "label": "FARTCOIN"},
+    {"id": "pippin", "label": "PIPPIN"},
+    {"id": "pudgy-penguins", "label": "PENGU"},
+    {"id": "maple-finance", "label": "SYRUP"},
+    {"id": "moo-deng", "label": "MOODENG"},
+    {"id": "pump-fun", "label": "PUMP"},
 ]
 
 COINGECKO_URL = (
@@ -227,7 +239,7 @@ def main():
             print(f"[WARN] {s['label']}: {e}", file=sys.stderr)
         # невелика пауза між запитами, щоб не впертися в rate limit CoinGecko
         if i < len(SYMBOLS) - 1:
-            time.sleep(1.5)
+            time.sleep(2.0)
 
     if not results:
         print("Жодного активу не вдалось обробити — знімок не зберігаємо.", file=sys.stderr)
