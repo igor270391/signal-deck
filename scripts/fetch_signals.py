@@ -23,49 +23,53 @@ DATA_DIR = ROOT / "data"
 HISTORY_DIR = DATA_DIR / "history"
 
 SYMBOLS = [
-    {"sym": "BTCUSDT", "label": "BTC"},
-    {"sym": "ETHUSDT", "label": "ETH"},
-    {"sym": "SOLUSDT", "label": "SOL"},
-    {"sym": "XRPUSDT", "label": "XRP"},
-    {"sym": "BNBUSDT", "label": "BNB"},
-    {"sym": "ADAUSDT", "label": "ADA"},
-    {"sym": "DOGEUSDT", "label": "DOGE"},
-    {"sym": "AVAXUSDT", "label": "AVAX"},
-    {"sym": "LINKUSDT", "label": "LINK"},
-    {"sym": "DOTUSDT", "label": "DOT"},
-    {"sym": "NEARUSDT", "label": "NEAR"},
-    {"sym": "ONDOUSDT", "label": "ONDO"},
+    {"fsym": "BTC", "label": "BTC"},
+    {"fsym": "ETH", "label": "ETH"},
+    {"fsym": "SOL", "label": "SOL"},
+    {"fsym": "XRP", "label": "XRP"},
+    {"fsym": "BNB", "label": "BNB"},
+    {"fsym": "ADA", "label": "ADA"},
+    {"fsym": "DOGE", "label": "DOGE"},
+    {"fsym": "AVAX", "label": "AVAX"},
+    {"fsym": "LINK", "label": "LINK"},
+    {"fsym": "DOT", "label": "DOT"},
+    {"fsym": "NEAR", "label": "NEAR"},
+    {"fsym": "ONDO", "label": "ONDO"},
 ]
 
-BYBIT_URL = "https://api.bybit.com/v5/market/kline?category=spot&symbol={sym}&interval=D&limit=150"
+# CryptoCompare: безкоштовне публічне API, без ключа, не блокує запити з
+# дата-центрів/CI (на відміну від Bybit чи Binance, які часто дають 403/451
+# саме на IP-адресах GitHub Actions, AWS, Azure тощо).
+CRYPTOCOMPARE_URL = "https://min-api.cryptocompare.com/data/v2/histoday?fsym={fsym}&tsym=USD&limit=150"
 
 
-def fetch_klines(sym: str, retries: int = 3):
-    url = BYBIT_URL.format(sym=sym)
+def fetch_klines(fsym: str, retries: int = 3):
+    url = CRYPTOCOMPARE_URL.format(fsym=fsym)
     last_err = None
     for attempt in range(retries):
         try:
             req = request.Request(url, headers={"User-Agent": "signal-deck/1.0"})
             with request.urlopen(req, timeout=15) as resp:
                 payload = json.loads(resp.read().decode("utf-8"))
-            if payload.get("retCode") != 0:
-                raise RuntimeError(payload.get("retMsg", "bybit error"))
-            rows = list(reversed(payload["result"]["list"]))
+            if payload.get("Response") != "Success":
+                raise RuntimeError(payload.get("Message", "cryptocompare error"))
+            rows = payload["Data"]["Data"]
             candles = [
                 {
-                    "time": int(r[0]),
-                    "open": float(r[1]),
-                    "high": float(r[2]),
-                    "low": float(r[3]),
-                    "close": float(r[4]),
+                    "time": int(r["time"]),
+                    "open": float(r["open"]),
+                    "high": float(r["high"]),
+                    "low": float(r["low"]),
+                    "close": float(r["close"]),
                 }
                 for r in rows
+                if r["close"] > 0  # cryptocompare нулями заповнює дні до лістингу монети
             ]
             return candles
         except (error.URLError, error.HTTPError, RuntimeError, KeyError) as e:
             last_err = e
             time.sleep(1.5 * (attempt + 1))
-    raise RuntimeError(f"не вдалось отримати {sym}: {last_err}")
+    raise RuntimeError(f"не вдалось отримати {fsym}: {last_err}")
 
 
 def ema(values, period):
@@ -186,14 +190,14 @@ def main():
     errors = []
     for s in SYMBOLS:
         try:
-            candles = fetch_klines(s["sym"])
+            candles = fetch_klines(s["fsym"])
             if len(candles) < 55:
                 raise RuntimeError("недостатньо свічок")
             sig = compute_signal(candles)
-            results.append({"symbol": s["sym"], "name": s["label"], **sig})
+            results.append({"symbol": f"{s['fsym']}USD", "name": s["label"], **sig})
         except Exception as e:  # noqa: BLE001
-            errors.append({"symbol": s["sym"], "error": str(e)})
-            print(f"[WARN] {s['sym']}: {e}", file=sys.stderr)
+            errors.append({"symbol": s["fsym"], "error": str(e)})
+            print(f"[WARN] {s['fsym']}: {e}", file=sys.stderr)
 
     if not results:
         print("Жодного активу не вдалось обробити — знімок не зберігаємо.", file=sys.stderr)
