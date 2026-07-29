@@ -21,8 +21,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch signals from Bybit
+      - name: Fetch signals from CoinGecko
         run: python scripts/fetch_signals.py
+
+      - name: Fetch news from RSS feeds
+        run: python scripts/fetch_news.py
+        continue-on-error: true
 
       - name: Commit updated data
         run: |

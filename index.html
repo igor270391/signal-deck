@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SIGNAL DECK — крипто-сигнали</title>
+<title>SIGNAL DECK — крипто-дашборд</title>
 <style>
   :root{
     --bg:#0a0c12; --bg-panel:#10141d; --bg-card:#12161f; --line:#1e2530;
@@ -14,18 +14,37 @@
   *{box-sizing:border-box; margin:0; padding:0;}
   body{ background:radial-gradient(ellipse 120% 80% at 50% -10%, #151a26 0%, var(--bg) 55%); color:var(--ink); font-family:var(--sans); min-height:100vh; padding:28px 20px 60px; }
   .wrap{ max-width:1180px; margin:0 auto; }
-  header{ display:flex; align-items:flex-end; justify-content:space-between; gap:20px; flex-wrap:wrap; border-bottom:1px solid var(--line); padding-bottom:18px; margin-bottom:18px; }
+  header{ display:flex; align-items:flex-end; justify-content:space-between; gap:20px; flex-wrap:wrap; border-bottom:1px solid var(--line); padding-bottom:18px; margin-bottom:0; }
   .brand{ display:flex; align-items:center; gap:12px; }
   .brand-mark{ width:34px; height:34px; border-radius:9px; background:linear-gradient(135deg,var(--accent),#4a56c9); display:flex; align-items:center; justify-content:center; font-family:var(--mono); font-weight:700; font-size:15px; color:#0a0c12; flex-shrink:0; }
   .brand h1{ font-size:19px; letter-spacing:0.02em; font-weight:700; }
   .brand p{ font-size:11.5px; color:var(--ink-dim); font-family:var(--mono); margin-top:1px; }
 
-  /* calendar / time selector */
+  /* tabs */
+  .tabs{ display:flex; gap:2px; margin:0 0 22px; border-bottom:1px solid var(--line); }
+  .tab-btn{
+    background:none; border:none; color:var(--ink-faint); font-family:var(--mono); font-size:12.5px;
+    letter-spacing:0.04em; text-transform:uppercase; padding:13px 18px; cursor:pointer;
+    border-bottom:2px solid transparent; transition:color .15s ease, border-color .15s ease;
+  }
+  .tab-btn:hover{ color:var(--ink-dim); }
+  .tab-btn.active{ color:var(--ink); border-bottom-color:var(--accent); }
+  .tab-panel{ display:none; }
+  .tab-panel.active{ display:block; }
+
+  /* shared bits */
+  select{ background:var(--bg-card); border:1px solid var(--line); color:var(--ink); font-family:var(--mono); font-size:13px; padding:7px 10px; border-radius:7px; }
+  .toolbar{ display:flex; align-items:center; gap:14px; margin-bottom:16px; flex-wrap:wrap; }
+  .toolbar label{ font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em; margin-right:8px; }
+  .panel{ background:var(--bg-panel); border:1px solid var(--line); border-radius:14px; padding:18px; }
+  .status-line{ font-family:var(--mono); font-size:11.5px; color:var(--ink-faint); margin-bottom:16px; min-height:16px; }
+  .disclaimer{ font-size:11.5px; color:var(--ink-faint); font-family:var(--mono); border-left:2px solid var(--line); padding-left:10px; margin:20px 0; line-height:1.6; }
+  .err{ color:var(--short); font-family:var(--mono); font-size:11px; padding:20px; text-align:center; }
+
+  /* --- Прогнози (forecast) tab --- */
   .picker{ background:var(--bg-panel); border:1px solid var(--line); border-radius:14px; padding:16px 18px; margin-bottom:18px; display:flex; align-items:center; gap:16px; flex-wrap:wrap; }
   .picker label{ font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em; display:block; margin-bottom:5px; }
-  select{ background:var(--bg-card); border:1px solid var(--line); color:var(--ink); font-family:var(--mono); font-size:13px; padding:7px 10px; border-radius:7px; }
   .picker .meta{ font-family:var(--mono); font-size:11.5px; color:var(--ink-faint); margin-left:auto; }
-
   .gauge-panel{ background:var(--bg-panel); border:1px solid var(--line); border-radius:14px; padding:20px 24px; margin-bottom:22px; display:flex; align-items:center; gap:28px; flex-wrap:wrap; }
   .gauge-label{ font-family:var(--mono); font-size:11px; color:var(--ink-faint); letter-spacing:0.08em; text-transform:uppercase; margin-bottom:6px; }
   .gauge-value{ font-family:var(--mono); font-size:34px; font-weight:700; line-height:1; }
@@ -35,9 +54,6 @@
   .gauge-counts{ display:flex; gap:18px; font-family:var(--mono); font-size:12px; }
   .gauge-counts span b{ font-size:15px; }
   .c-long b{ color:var(--long); } .c-neutral b{ color:var(--neutral); } .c-short b{ color:var(--short); }
-
-  .status-line{ font-family:var(--mono); font-size:11.5px; color:var(--ink-faint); margin-bottom:16px; min-height:16px; }
-  .disclaimer{ font-size:11.5px; color:var(--ink-faint); font-family:var(--mono); border-left:2px solid var(--line); padding-left:10px; margin-bottom:24px; line-height:1.6; }
 
   .grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(255px,1fr)); gap:14px; }
   .card{ background:var(--bg-card); border:1px solid var(--line); border-radius:12px; padding:16px 16px 14px; border-top:2px solid var(--line); transition:transform .15s ease, border-color .15s ease; }
@@ -57,7 +73,34 @@
   .levels{ border-top:1px solid var(--line); padding-top:10px; display:grid; grid-template-columns:1fr 1fr; gap:6px 10px; font-family:var(--mono); font-size:11px; }
   .levels .lv{ display:flex; justify-content:space-between; } .levels .lv .k{ color:var(--ink-faint); }
   .levels .resist .v{ color:var(--short); } .levels .support .v{ color:var(--long); }
-  .err{ color:var(--short); font-family:var(--mono); font-size:11px; padding:20px; text-align:center; grid-column:1/-1; }
+
+  /* --- Графіки tab --- */
+  #tv_chart{ width:100%; height:520px; }
+
+  /* --- Стакан tab --- */
+  .book-wrap{ display:grid; grid-template-columns:1fr; gap:0; max-width:520px; }
+  .book-side{ font-family:var(--mono); font-size:12.5px; }
+  .book-row{ position:relative; display:flex; justify-content:space-between; padding:4px 10px; z-index:1; }
+  .book-row .bar{ position:absolute; top:0; bottom:0; right:0; z-index:-1; opacity:0.16; }
+  .book-row.ask .bar{ background:var(--short); }
+  .book-row.bid .bar{ background:var(--long); }
+  .book-row.ask .price{ color:var(--short); }
+  .book-row.bid .price{ color:var(--long); }
+  .book-spread{ text-align:center; font-family:var(--mono); font-size:11px; color:var(--ink-faint); padding:8px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); margin:4px 0; }
+  .book-head{ display:flex; justify-content:space-between; font-family:var(--mono); font-size:10px; color:var(--ink-faint); text-transform:uppercase; padding:0 10px 6px; letter-spacing:0.05em; }
+
+  /* --- Новини tab --- */
+  .news-list{ display:flex; flex-direction:column; gap:10px; }
+  .news-card{ background:var(--bg-card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; transition:border-color .15s ease; }
+  .news-card:hover{ border-color:#2a3242; }
+  .news-top{ display:flex; align-items:center; gap:10px; margin-bottom:6px; }
+  .news-source{ font-family:var(--mono); font-size:10px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--accent); background:rgba(124,140,255,.1); padding:3px 8px; border-radius:5px; }
+  .news-time{ font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); }
+  .news-title{ font-size:14.5px; font-weight:600; line-height:1.4; margin-bottom:5px; }
+  .news-title a{ color:var(--ink); text-decoration:none; }
+  .news-title a:hover{ color:var(--accent); }
+  .news-snippet{ font-size:12.5px; color:var(--ink-dim); line-height:1.5; }
+
   footer{ margin-top:30px; font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); text-align:center; }
 </style>
 </head>
@@ -66,51 +109,286 @@
   <header>
     <div class="brand">
       <div class="brand-mark">SD</div>
-      <div><h1>SIGNAL DECK</h1><p>bybit spot · денні свічки · авто-теханаліз RSI / EMA / ATR</p></div>
+      <div><h1>SIGNAL DECK</h1><p>крипто-дашборд · новини · графіки · стакан · прогнози</p></div>
     </div>
   </header>
 
-  <div class="picker">
-    <div>
-      <label>Дата</label>
-      <select id="dateSelect"></select>
-    </div>
-    <div>
-      <label>Час знімку (UTC)</label>
-      <select id="timeSelect"></select>
-    </div>
-    <div class="meta" id="metaInfo">—</div>
-  </div>
+  <nav class="tabs">
+    <button class="tab-btn" data-tab="news">Новини</button>
+    <button class="tab-btn" data-tab="charts">Графіки</button>
+    <button class="tab-btn" data-tab="orderbook">Стакан</button>
+    <button class="tab-btn active" data-tab="forecast">Прогнози</button>
+  </nav>
 
-  <div class="gauge-panel">
-    <div>
-      <div class="gauge-label">Загальний настрій ринку</div>
-      <div class="gauge-value" id="gaugeValue" style="color:var(--ink-dim)">—</div>
-    </div>
-    <div style="flex:1 1 320px; min-width:240px;">
-      <div class="gauge-bar-track"><div class="gauge-bar-fill" id="gaugeFill" style="width:50%; background:var(--ink-faint);"></div></div>
-      <div class="gauge-ticks"><span>ШОРТ</span><span>НЕЙТРАЛ</span><span>ЛОНГ</span></div>
-    </div>
-    <div class="gauge-counts">
-      <span class="c-long">ЛОНГ <b id="cntLong">0</b></span>
-      <span class="c-neutral">НЕЙТРАЛ <b id="cntNeutral">0</b></span>
-      <span class="c-short">ШОРТ <b id="cntShort">0</b></span>
-    </div>
-  </div>
+  <!-- ============ НОВИНИ ============ -->
+  <section class="tab-panel" id="tab-news">
+    <div class="status-line" id="newsStatus">Завантаження…</div>
+    <div class="news-list" id="newsList"></div>
+    <div class="disclaimer">⚠ Заголовки й короткі описи тягнуться з публічних RSS-стрічок (CoinDesk, Cointelegraph, Decrypt). Для повного тексту переходь за посиланням у джерело.</div>
+  </section>
 
-  <div class="status-line" id="statusLine">Завантаження…</div>
-  <div class="grid" id="grid"></div>
+  <!-- ============ ГРАФІКИ ============ -->
+  <section class="tab-panel" id="tab-charts">
+    <div class="toolbar">
+      <div><label>Актив</label><select id="chartSymbol"></select></div>
+    </div>
+    <div class="panel"><div id="tv_chart"></div></div>
+  </section>
 
-  <div class="disclaimer">
-    ⚠ Все на цій сторінці — автоматичний технічний розрахунок за публічними даними Bybit (денні свічки),
-    що оновлюється щогодини через GitHub Actions. Це не фінансова порада та не гарантія результату.
-    Приймайте рішення на власний ризик і перевіряйте дані у декількох джерелах.
-  </div>
+  <!-- ============ СТАКАН ============ -->
+  <section class="tab-panel" id="tab-orderbook">
+    <div class="toolbar">
+      <div><label>Актив</label><select id="bookSymbol"></select></div>
+      <div class="status-line" id="bookStatus" style="margin:0;">З'єднання…</div>
+    </div>
+    <div class="panel">
+      <div class="book-wrap">
+        <div class="book-head"><span>Ціна (USDT)</span><span>Обсяг</span></div>
+        <div class="book-side" id="bookAsks"></div>
+        <div class="book-spread" id="bookSpread">—</div>
+        <div class="book-side" id="bookBids"></div>
+      </div>
+    </div>
+    <div class="disclaimer">⚠ Дані в реальному часі напряму з публічного WebSocket Binance (топ-20 рівнів bid/ask). З'єднання встановлює твій браузер, не сервер.</div>
+  </section>
 
-  <footer>дані: scripts/fetch_signals.py → data/*.json · оновлення: .github/workflows/update.yml (щогодини)</footer>
+  <!-- ============ ПРОГНОЗИ ============ -->
+  <section class="tab-panel active" id="tab-forecast">
+    <div class="picker">
+      <div><label>Дата</label><select id="dateSelect"></select></div>
+      <div><label>Час знімку (UTC)</label><select id="timeSelect"></select></div>
+      <div class="meta" id="metaInfo">—</div>
+    </div>
+
+    <div class="gauge-panel">
+      <div>
+        <div class="gauge-label">Загальний настрій ринку</div>
+        <div class="gauge-value" id="gaugeValue" style="color:var(--ink-dim)">—</div>
+      </div>
+      <div style="flex:1 1 320px; min-width:240px;">
+        <div class="gauge-bar-track"><div class="gauge-bar-fill" id="gaugeFill" style="width:50%; background:var(--ink-faint);"></div></div>
+        <div class="gauge-ticks"><span>ШОРТ</span><span>НЕЙТРАЛ</span><span>ЛОНГ</span></div>
+      </div>
+      <div class="gauge-counts">
+        <span class="c-long">ЛОНГ <b id="cntLong">0</b></span>
+        <span class="c-neutral">НЕЙТРАЛ <b id="cntNeutral">0</b></span>
+        <span class="c-short">ШОРТ <b id="cntShort">0</b></span>
+      </div>
+    </div>
+
+    <div class="status-line" id="statusLine">Завантаження…</div>
+    <div class="grid" id="grid"></div>
+
+    <div class="disclaimer">
+      ⚠ Все на цій сторінці — автоматичний технічний розрахунок за публічними даними (CoinGecko),
+      що оновлюється щогодини через GitHub Actions. Це не фінансова порада та не гарантія результату.
+      Приймайте рішення на власний ризик і перевіряйте дані у декількох джерелах.
+    </div>
+  </section>
+
+  <footer>дані: scripts/*.py → data/*.json · оновлення: .github/workflows/update.yml (щогодини)</footer>
 </div>
 
 <script>
+const ASSETS = [
+  {label:"BTC",  binance:"BTCUSDT"},
+  {label:"ETH",  binance:"ETHUSDT"},
+  {label:"SOL",  binance:"SOLUSDT"},
+  {label:"XRP",  binance:"XRPUSDT"},
+  {label:"BNB",  binance:"BNBUSDT"},
+  {label:"ADA",  binance:"ADAUSDT"},
+  {label:"DOGE", binance:"DOGEUSDT"},
+  {label:"AVAX", binance:"AVAXUSDT"},
+  {label:"LINK", binance:"LINKUSDT"},
+  {label:"DOT",  binance:"DOTUSDT"},
+  {label:"NEAR", binance:"NEARUSDT"},
+  {label:"ONDO", binance:"ONDOUSDT"},
+];
+
+/* ---------------- TAB SWITCHING ---------------- */
+const tabButtons = document.querySelectorAll('.tab-btn');
+const tabPanels = { news:'tab-news', charts:'tab-charts', orderbook:'tab-orderbook', forecast:'tab-forecast' };
+let activeTab = 'forecast';
+
+tabButtons.forEach(btn => {
+  btn.addEventListener('click', () => {
+    const tab = btn.dataset.tab;
+    if(tab === activeTab) return;
+    tabButtons.forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
+    Object.entries(tabPanels).forEach(([key, id]) => {
+      document.getElementById(id).classList.toggle('active', key === tab);
+    });
+    const prevTab = activeTab;
+    activeTab = tab;
+
+    if(tab === 'news' && !newsLoaded) loadNews();
+    if(tab === 'charts' && !chartInitialized) initChartTab();
+    if(tab === 'orderbook') connectOrderBook(document.getElementById('bookSymbol').value);
+    if(prevTab === 'orderbook' && tab !== 'orderbook') disconnectOrderBook();
+  });
+});
+
+/* ================= НОВИНИ ================= */
+let newsLoaded = false;
+
+function timeAgo(iso){
+  if(!iso) return '';
+  const diffMs = Date.now() - new Date(iso).getTime();
+  const mins = Math.floor(diffMs/60000);
+  if(mins < 60) return `${mins} хв тому`;
+  const hrs = Math.floor(mins/60);
+  if(hrs < 24) return `${hrs} год тому`;
+  return `${Math.floor(hrs/24)} дн тому`;
+}
+
+async function loadNews(){
+  const status = document.getElementById('newsStatus');
+  const list = document.getElementById('newsList');
+  try{
+    const res = await fetch('data/news/latest.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const data = await res.json();
+    newsLoaded = true;
+    if(!data.items || data.items.length===0){
+      list.innerHTML = '<div class="err">Новин поки немає.</div>';
+      status.textContent = 'Порожньо';
+      return;
+    }
+    list.innerHTML = data.items.map(it => `
+      <div class="news-card">
+        <div class="news-top">
+          <span class="news-source">${it.source}</span>
+          <span class="news-time">${timeAgo(it.published_at)}</span>
+        </div>
+        <div class="news-title"><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a></div>
+        <div class="news-snippet">${it.snippet || ''}</div>
+      </div>
+    `).join('');
+    status.textContent = `${data.items.length} новин · оновлено ${new Date(data.generated_at).toLocaleString('uk-UA')}`;
+  }catch(e){
+    status.textContent = 'Не вдалося завантажити новини. Можливо, ще не було першого запуску Actions.';
+    console.error(e);
+  }
+}
+
+/* ================= ГРАФІКИ ================= */
+let chartInitialized = false;
+let tvScriptLoading = null;
+
+function loadTvScript(){
+  if(tvScriptLoading) return tvScriptLoading;
+  tvScriptLoading = new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = 'https://s3.tradingview.com/tv.js';
+    s.onload = resolve;
+    s.onerror = reject;
+    document.head.appendChild(s);
+  });
+  return tvScriptLoading;
+}
+
+function renderChart(binanceSymbol){
+  const container = document.getElementById('tv_chart');
+  container.innerHTML = '';
+  new TradingView.widget({
+    autosize: true,
+    symbol: "BINANCE:" + binanceSymbol,
+    interval: "D",
+    timezone: "Etc/UTC",
+    theme: "dark",
+    style: "1",
+    locale: "uk",
+    toolbar_bg: "#10141d",
+    enable_publishing: false,
+    hide_top_toolbar: false,
+    save_image: false,
+    container_id: "tv_chart",
+  });
+}
+
+async function initChartTab(){
+  const select = document.getElementById('chartSymbol');
+  select.innerHTML = ASSETS.map(a => `<option value="${a.binance}">${a.label}</option>`).join('');
+  select.addEventListener('change', () => renderChart(select.value));
+  try{
+    await loadTvScript();
+    chartInitialized = true;
+    renderChart(select.value);
+  }catch(e){
+    document.getElementById('tv_chart').innerHTML = '<div class="err">Не вдалося завантажити TradingView.</div>';
+  }
+}
+
+/* ================= СТАКАН ================= */
+let bookSocket = null;
+let bookReconnectTimer = null;
+
+function disconnectOrderBook(){
+  if(bookReconnectTimer){ clearTimeout(bookReconnectTimer); bookReconnectTimer = null; }
+  if(bookSocket){ bookSocket.onclose = null; bookSocket.close(); bookSocket = null; }
+}
+
+function renderOrderBook(data){
+  const asks = data.asks.slice(0,12).map(([p,q]) => [parseFloat(p), parseFloat(q)]);
+  const bids = data.bids.slice(0,12).map(([p,q]) => [parseFloat(p), parseFloat(q)]);
+  const maxQty = Math.max(...asks.map(a=>a[1]), ...bids.map(b=>b[1]), 0.0001);
+
+  const asksSorted = asks.slice().sort((a,b)=> b[0]-a[0]); // найдорожчі зверху, найкращий ask (найдешевший) внизу біля спреду
+  const bidsSorted = bids.slice().sort((a,b)=> b[0]-a[0]); // найкращий bid (найдорожчий) зверху
+
+  document.getElementById('bookAsks').innerHTML = asksSorted.map(([p,q]) => `
+    <div class="book-row ask"><div class="bar" style="width:${(q/maxQty*100).toFixed(1)}%"></div><span class="price">${p.toFixed(2)}</span><span>${q.toFixed(3)}</span></div>
+  `).join('');
+
+  document.getElementById('bookBids').innerHTML = bidsSorted.map(([p,q]) => `
+    <div class="book-row bid"><div class="bar" style="width:${(q/maxQty*100).toFixed(1)}%"></div><span class="price">${p.toFixed(2)}</span><span>${q.toFixed(3)}</span></div>
+  `).join('');
+
+  const bestAsk = asksSorted[asksSorted.length-1]?.[0];
+  const bestBid = bidsSorted[0]?.[0];
+  if(bestAsk && bestBid){
+    const spread = bestAsk - bestBid;
+    document.getElementById('bookSpread').textContent = `спред ${spread.toFixed(2)} USDT`;
+  }
+}
+
+function connectOrderBook(binanceSymbol){
+  disconnectOrderBook();
+  const status = document.getElementById('bookStatus');
+  status.textContent = "З'єднання…";
+  const streamSymbol = binanceSymbol.toLowerCase();
+  const url = `wss://stream.binance.com:9443/ws/${streamSymbol}@depth20@100ms`;
+
+  try{
+    bookSocket = new WebSocket(url);
+  }catch(e){
+    status.textContent = 'Не вдалося відкрити з\'єднання.';
+    return;
+  }
+
+  bookSocket.onopen = () => { status.textContent = `Наживо · ${binanceSymbol}`; };
+  bookSocket.onmessage = (ev) => {
+    try{
+      const data = JSON.parse(ev.data);
+      if(data.asks && data.bids) renderOrderBook(data);
+    }catch(e){ /* ignore malformed frame */ }
+  };
+  bookSocket.onerror = () => { status.textContent = 'Помилка з\'єднання, перепідключення…'; };
+  bookSocket.onclose = () => {
+    if(activeTab === 'orderbook'){
+      bookReconnectTimer = setTimeout(() => connectOrderBook(binanceSymbol), 3000);
+    }
+  };
+}
+
+function initOrderBookTab(){
+  const select = document.getElementById('bookSymbol');
+  select.innerHTML = ASSETS.map(a => `<option value="${a.binance}">${a.label}</option>`).join('');
+  select.addEventListener('change', () => connectOrderBook(select.value));
+}
+initOrderBookTab();
+
+/* ================= ПРОГНОЗИ ================= */
 function fmtPrice(p){
   if(p>=1000) return "$"+p.toLocaleString("en-US",{maximumFractionDigits:0});
   if(p>=1) return "$"+p.toLocaleString("en-US",{maximumFractionDigits:2});
@@ -122,6 +400,7 @@ function labelClass(l){ return l==="ЛОНГ"?"long": l==="ШОРТ"?"short":"ne
 function renderCard(a){
   const cls = labelClass(a.label);
   const chgClass = a.change_7d>=0 ? "pos":"neg";
+  const trendClass = a.trend_up ? "up":"down";
   return `
   <div class="card ${cls}">
     <div class="card-top">
@@ -134,9 +413,11 @@ function renderCard(a){
     <div class="meter-track"><div class="meter-fill ${cls}" style="width:${a.score}%"></div></div>
     <div class="stat-grid">
       <div class="stat"><span class="k">RSI 14</span><span class="v">${a.rsi14}</span></div>
-      <div class="stat"><span class="k">Тренд EMA</span><span class="v ${a.trend_up?'up':'down'}">${a.trend_up?'↑ Бичачий':'↓ Ведмежий'}</span></div>
+      <div class="stat"><span class="k">Тренд EMA</span><span class="v ${trendClass}">${a.trend_up?'↑ Бичачий':'↓ Ведмежий'}</span></div>
       <div class="stat"><span class="k">30 днів</span><span class="v ${a.change_30d>=0?'up':'down'}">${a.change_30d>=0?'+':''}${a.change_30d.toFixed(1)}%</span></div>
       <div class="stat"><span class="k">Сигнал</span><span class="v">${a.score}/100</span></div>
+      <div class="stat"><span class="k">Сила тренду</span><span class="v">${Math.round((a.trend_strength ?? 0.5)*100)}%</span></div>
+      <div class="stat"><span class="k">Режим RSI</span><span class="v">${a.rsi_mode ?? '—'}</span></div>
     </div>
     <div class="levels">
       <div class="lv resist"><span class="k">Опір</span><span class="v">${fmtPrice(a.resistance)}</span></div>
@@ -196,7 +477,7 @@ async function populateTimeSelect(date, preselect){
   return times;
 }
 
-async function init(){
+async function initForecastTab(){
   const statusLine = document.getElementById('statusLine');
   try{
     const idx = await fetch('data/index.json', {cache:"no-store"}).then(r=>r.json());
@@ -236,7 +517,7 @@ async function init(){
   }
 }
 
-init();
+initForecastTab();
 </script>
 </body>
 </html>

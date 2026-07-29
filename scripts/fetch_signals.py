@@ -111,6 +111,26 @@ def pseudo_atr(closes, period=14):
     return sum(window) / len(window)
 
 
+def efficiency_ratio(closes, period=14):
+    """Kaufman Efficiency Ratio -- заміна ADX для close-only даних (без high/low).
+
+    ER = |чистий рух ціни за period| / (сума абсолютних денних рухів за period)
+
+    ER -> 1  : ціна йшла прямо в один бік -- сильний тренд.
+    ER -> 0  : ціна тупцювала туди-сюди -- флет/рейндж.
+    Використовується, щоб вирішити, як інтерпретувати RSI: momentum (тренд)
+    чи contrarian / перекупленість-перепроданість (флет).
+    """
+    if len(closes) < period + 1:
+        return 0.5  # недостатньо даних -- нейтральне значення
+    window = closes[-(period + 1):]
+    net_change = abs(window[-1] - window[0])
+    volatility = sum(abs(window[i] - window[i - 1]) for i in range(1, len(window)))
+    if volatility == 0:
+        return 0.5
+    return clamp(net_change / volatility, 0.0, 1.0)
+
+
 def clamp(v, lo, hi):
     return max(lo, min(hi, v))
 
@@ -135,9 +155,27 @@ def compute_signal(closes):
     resistance = max(window)
     support = min(window)
 
+    # ADX-подібний компонент (Kaufman Efficiency Ratio): наскільки ринок
+    # трендовий (1.0) чи флетовий/рейнджовий (0.0). Гейтить, як інтерпретувати RSI:
+    #   er > 0.5 -> momentum (сильний RSI підтверджує тренд, тягне score в той самий бік)
+    #   er < 0.5 -> contrarian (сильний RSI = перекупленість/перепроданість, тягне score НАЗАД)
+    #   er = 0.5 -> RSI-компонент гаситься до нуля (жоден підхід не надійний у цій зоні)
+    # довше вікно (30 днів), ніж у RSI (14) -- навмисно, щоб ER показував
+    # "загальну картину" тренду, не корелюючи 1-в-1 з коротким RSI-моментумом
+    er = efficiency_ratio(closes, 30)
+    rsi_base = clamp((last_rsi - 50) * 0.55, -20, 20)
+    rsi_component = rsi_base * (2 * er - 1)
+
+    if er >= 0.55:
+        rsi_mode = "МОМЕНТУМ"
+    elif er <= 0.45:
+        rsi_mode = "КОНТР-ТРЕНД"
+    else:
+        rsi_mode = "ЗМІШАНИЙ"
+
     score = 50
     score += 18 if trend_up else -18
-    score += clamp((last_rsi - 50) * 0.55, -20, 20)
+    score += rsi_component
     score += clamp(change30 * 0.35, -14, 14)
     score = int(clamp(round(score), 2, 98))
 
@@ -156,6 +194,8 @@ def compute_signal(closes):
         "price": round(last_close, 8),
         "rsi14": round(last_rsi, 1),
         "trend_up": trend_up,
+        "trend_strength": round(er, 2),
+        "rsi_mode": rsi_mode,
         "change_7d": round(change7, 2),
         "change_30d": round(change30, 2),
         "resistance": round(resistance, 8),
