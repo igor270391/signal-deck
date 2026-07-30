@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-30T06:38:56.674532+00:00",
-  "count": 54,
+  "generated_at": "2026-07-30T09:39:37.904233+00:00",
+  "count": 55,
   "items": [
     {
       "source": "CoinDesk",
@@ -42,6 +42,17 @@
       "source": "Cointelegraph",
       "title": "Robinhood posts record quarter as crypto revenue slides 38%",
       "link": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
+      "published_at": "2026-07-29T21:53:35+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood posts record quarter as crypto revenue slides 38%",
+      "link": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
       "published_at": "2026-07-29T21:53:35+00:00",
       "impact": "нейтральний",
