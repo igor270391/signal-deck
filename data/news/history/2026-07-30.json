@@ -1,8 +1,80 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T20:23:53.496216+00:00",
-  "count": 55,
+  "generated_at": "2026-07-30T22:17:29.717163+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
+      "link": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The window to pass a comprehensive crypto market structure bill before the Senate breaks for a month-long recess is closing, with ethics a dividing issue for many lawmakers.",
+      "published_at": "2026-07-30T21:54:38+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
+      "link": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Bitcoin treasury company said it has built a $3.75 billion cash reserve to support preferred stock payouts following the launch of its BTC monetization program.",
+      "published_at": "2026-07-30T21:36:39+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
+      "link": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
+      "snippet": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
+      "published_at": "2026-07-30T21:19:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
+      "link": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets.",
+      "published_at": "2026-07-30T21:04:59+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+      "link": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance.",
+      "published_at": "2026-07-30T20:47:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+      "link": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+      "snippet": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.",
+      "published_at": "2026-07-30T20:32:13+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
@@ -367,6 +439,17 @@
       "link": "https://decrypt.co/374705/completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
       "snippet": "Activist Samuel Tunick said his prosecution is meant to set a precedent against privacy and \"intimidate people.\"",
       "published_at": "2026-07-30T13:25:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Everything is becoming a perp",
+      "link": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
+      "snippet": "The perpetual — the 24/7, leveraged contract that crypto invented and then perfected — is no longer just a way to trade crypto, says Katana Network’s Matthew Fisher. It’s becoming the way to trade…",
+      "published_at": "2026-07-30T13:00:00+00:00",
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
