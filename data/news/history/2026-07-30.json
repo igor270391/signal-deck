@@ -1,8 +1,143 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T14:24:52.733437+00:00",
-  "count": 33,
+  "generated_at": "2026-07-30T16:45:48.853575+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
+      "link": "https://decrypt.co/374736/ftc-sues-hims-hers-sexual-wellness-health-data-sharing-meta",
+      "snippet": "Regulators accuse the telehealth company of sharing sensitive health information with advertising platforms including Meta and Snap despite promising users privacy.",
+      "published_at": "2026-07-30T16:44:11+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
+      "link": "https://decrypt.co/374738/cathie-wood-ark-invest-sells-bitmine-adds-coinbase-circle",
+      "snippet": "Ark Invest sold shares of Bitmine, Robinhood, Bullish, and Block during Wednesday's pullback in crypto equities, while continuing to add to Coinbase and Circle.",
+      "published_at": "2026-07-30T16:35:26+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
+      "link": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.",
+      "published_at": "2026-07-30T16:17:29+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ondo Finance weighs acquisition worth up to $500 million",
+      "link": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+      "snippet": "The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.",
+      "published_at": "2026-07-30T16:04:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
+      "link": "https://cointelegraph.com/news/hyperscale-data-taps-bitcoin-treasury-btc-backed-credit-to-fund-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Bitcoin miner is using part of its treasury and a BTC-backed credit facility to fund an AI campus tied to a potential multi-billion-dollar infrastructure contract.",
+      "published_at": "2026-07-30T15:53:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
+      "link": "https://cointelegraph.com/news/tokenized-gold-defi-stress-test-collateral-adoption-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A RedStone report found tokenized bullion held up during gold’s sharp sell-off, but DeFi lending adoption remains limited despite surging market growth and trading volumes.",
+      "published_at": "2026-07-30T15:48:37+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
+      "link": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
+      "snippet": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal—and wants a federal court to stop it before Saturday.",
+      "published_at": "2026-07-30T15:42:17+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
+      "link": "https://decrypt.co/374725/australia-sues-telegram-for-38m-over-pro-terror-videos",
+      "snippet": "The eSafety Commissioner accused the social media platform of failing to detect material relating to the Christchurch and Buffalo attacks.",
+      "published_at": "2026-07-30T15:22:50+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Is the Clarity Act dead?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
+      "snippet": "",
+      "published_at": "2026-07-30T15:00:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
+      "link": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
+      "snippet": "CME CEO Terry Duffy said a court battle over whether perpetual futures are swaps or futures could eventually affect how the IRS taxes the contracts. Independent legal experts say the issue remains…",
+      "published_at": "2026-07-30T14:33:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
+      "link": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
+      "snippet": "A governance proposal would shut deployments on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, and retire 50 asset markets elsewhere. Deposits on some have fallen more than 90%.",
+      "published_at": "2026-07-30T14:25:41+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "South Korean crypto trading surges amid stock market plunge",
@@ -72,6 +207,21 @@
       ],
       "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
+      "link": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
+      "snippet": "Seoul police say the amount of the scam might rise to nearly $20 million. Two alleged scammers were detained and a third remains at-large.",
+      "published_at": "2026-07-30T13:35:51+00:00",
+      "impact": "негативний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Негативний тон для XRP за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
     },
     {
       "source": "Cointelegraph",
