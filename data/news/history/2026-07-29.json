@@ -1,8 +1,32 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T22:30:06.147270+00:00",
-  "count": 52,
+  "generated_at": "2026-07-30T00:09:43.824990+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits",
+      "link": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
+      "snippet": "Insiders say that the bipartisan Senate duo revamping the bill's Trump-approved ethics section have come up with something they hope wins sufficient yes votes.",
+      "published_at": "2026-07-29T23:12:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
+      "link": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
+      "snippet": "A new OneDrive Photos app is appearing on some Windows 11 PCs through OneDrive and Windows updates, adding AI-powered search and an optional facial grouping feature.",
+      "published_at": "2026-07-29T22:31:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
