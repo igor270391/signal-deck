@@ -1,8 +1,56 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T19:48:59.546540+00:00",
-  "count": 50,
+  "generated_at": "2026-07-31T21:17:54.761730+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+      "snippet": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
+      "published_at": "2026-07-31T20:50:58+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+      "link": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
+      "snippet": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
+      "published_at": "2026-07-31T20:32:50+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+      "link": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.",
+      "published_at": "2026-07-31T20:10:21+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Music Company Suno Loses Copyright Case in Germany",
+      "link": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+      "snippet": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
+      "published_at": "2026-07-31T20:03:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "US Is Banning Foreign Robots—Even Roombas",
@@ -18,7 +66,7 @@
       "source": "Cointelegraph",
       "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
       "link": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to said the company growing too quickly.",
+      "snippet": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.",
       "published_at": "2026-07-31T19:16:19+00:00",
       "impact": "нейтральний",
       "coins": [],
