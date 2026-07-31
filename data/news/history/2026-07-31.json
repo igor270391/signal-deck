@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T04:33:27.790064+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+      "link": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
+      "published_at": "2026-07-31T02:38:09+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
+      "link": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.",
+      "published_at": "2026-07-31T00:31:21+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
