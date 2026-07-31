@@ -1,8 +1,141 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T10:51:08.833197+00:00",
-  "count": 15,
+  "generated_at": "2026-07-31T13:05:47.504111+00:00",
+  "count": 25,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "RWA perps will outpace tokenization",
+      "link": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
+      "snippet": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.",
+      "published_at": "2026-07-31T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
+      "link": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
+      "snippet": "Shelbit allegedly sent hundreds of millions of dollars to major crypto exchanges, including Binance, as it linked gambling sites and sanctioned Iranian entities to global crypto markets.",
+      "published_at": "2026-07-31T12:28:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
+      "link": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
+      "snippet": "Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages",
+      "published_at": "2026-07-31T12:11:17+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
+      "link": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
+      "snippet": "Markets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).",
+      "published_at": "2026-07-31T12:00:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
+      "link": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
+      "snippet": "The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.",
+      "published_at": "2026-07-31T11:58:33+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august",
+      "snippet": "Your day-ahead look for July 31, 2026",
+      "published_at": "2026-07-31T11:36:45+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Citadel buys bulk of Situational Awareness stock portfolio after AI rout: Reports",
+      "link": "https://cointelegraph.com/markets/citadel-situational-awareness-stock-portfolio-ai-rout-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Situational Awareness retained about $10 billion in assets, including its Anthropic stake, after reportedly selling leveraged public stock positions to Ken Griffin’s Citadel.",
+      "published_at": "2026-07-31T11:35:33+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
+      "link": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
+      "snippet": "Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.",
+      "published_at": "2026-07-31T11:13:58+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "scam"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
+      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
+      "snippet": "BTC fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 index is set to post its biggest gain since July 2025.",
+      "published_at": "2026-07-31T11:07:52+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BIS Project Agorá settles $1 million in tokenized cross-border payment trials",
+      "link": "https://cointelegraph.com/news/bis-project-agor-tokenized-cross-border-payment-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Twenty-eight financial institutions and central banks completed real-value settlements across six currencies using tokenized central bank reserves and commercial bank deposits.",
+      "published_at": "2026-07-31T11:02:24+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
@@ -108,9 +241,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
+      "title": "Live updates: 'Worst hit in Bitcoin history' – longtime Bitcoiners react to Coincard flaw",
       "link": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
-      "snippet": "The Bank of Japan left its benchmark at 1% and Governor Ueda's hawkish signals landed softly, since markets had already priced an October hike. Bitcoin held near $64,000.",
+      "snippet": "The Bank of Japan left its benchmark at 1% and Governor Ueda's hawkish signals landed softly, since markets had already priced an October hike.",
       "published_at": "2026-07-31T07:46:10+00:00",
       "impact": "негативний",
       "coins": [
@@ -154,7 +287,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+      "title": "Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep",
       "link": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
       "snippet": "A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.",
       "published_at": "2026-07-31T05:12:55+00:00",
