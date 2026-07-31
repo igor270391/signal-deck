@@ -1,8 +1,111 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T08:00:29.583391+00:00",
-  "count": 7,
+  "generated_at": "2026-07-31T10:51:08.833197+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
+      "link": "https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
+      "snippet": "The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.",
+      "published_at": "2026-07-31T10:12:16+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "New York sues Kalshi over alleged illegal gambling operation",
+      "link": "https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The lawsuit adds to a growing clash between New York and the CFTC over whether federally regulated prediction markets are subject to state gambling laws.",
+      "published_at": "2026-07-31T10:05:01+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit",
+        "sues"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
+      "link": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
+      "snippet": "The suit wants to bar the company from operating what it says is an unlicensed gambling business and seeks financial redress.",
+      "published_at": "2026-07-31T09:55:47+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
+      "link": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+      "snippet": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
+      "published_at": "2026-07-31T09:02:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+      "link": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "DeFi risk management service LlamaRisk recommended that Aave wind down every reserve on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, but action against most of those instances was already taken.",
+      "published_at": "2026-07-31T08:57:53+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+      "link": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
+      "snippet": "The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.",
+      "published_at": "2026-07-31T08:57:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+      "link": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+      "snippet": "Bitcoin’s daily price swings have tightened to their narrowest since January, making clean trades harder to find. Here's what could happen next.",
+      "published_at": "2026-07-31T08:30:31+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
+      "link": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "RWA perpetual futures reached 99.2% of Bitcoin perpetual volume on Hyperliquid and Binance as tokenized equities led trading.",
+      "published_at": "2026-07-31T08:29:51+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
