@@ -1,8 +1,162 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T13:05:47.504111+00:00",
-  "count": 25,
+  "generated_at": "2026-07-31T15:29:45.092260+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
+      "link": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
+      "snippet": "OFAC sanctioned two Iranian firms including Hormuz Safe, which “accepts payment in Bitcoin and other digital assets.”",
+      "published_at": "2026-07-31T15:05:43+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
+      "link": "https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
+      "snippet": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
+      "published_at": "2026-07-31T15:01:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
+      "link": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
+      "snippet": "Institutional options selling, AI and delayed U.S. crypto regulation are weighing on bitcoin, according to STS Digital CEO Maxime Seiler.",
+      "published_at": "2026-07-31T15:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB says digital euro app will exceed EU accessibility standards",
+      "link": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services.",
+      "published_at": "2026-07-31T14:05:25+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
+      "link": "https://decrypt.co/374764/ai-company-sues-town-data-center-national-park",
+      "snippet": "A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.",
+      "published_at": "2026-07-31T14:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AMLBot launches AI Tracer for self-service blockchain investigations",
+      "link": "https://cointelegraph.com/news/crypto-forensics-firm-launches-ai-tracing-service-track-your-stolen-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto forensics company AMLBot launched an AI-enabled tool allowing users with no specialist knowledge to trace their digital assets, even after they are stolen.",
+      "published_at": "2026-07-31T13:59:56+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
+      "link": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
+      "snippet": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
+      "published_at": "2026-07-31T13:47:54+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-07-31T13:43:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
+      "link": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
+      "snippet": "The approval lets the USDC issuer offer fiduciary and custody services under New York banking law.",
+      "published_at": "2026-07-31T13:35:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle receives New York trust charter for subsidiary",
+      "link": "https://cointelegraph.com/news/circle-receives-new-york-trust-charter-for-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The New York trust charter allows Circle’s subsidiary to provide fiduciary and custody services under state banking law.",
+      "published_at": "2026-07-31T13:27:10+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
+      "link": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
+      "snippet": "Most analysts blamed a weak crypto market for Coinbase's earnings miss, though opinions diverged on when trading activity will recover.",
+      "published_at": "2026-07-31T13:20:45+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "recovery"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BOJ intervenes to defend yen near 160, holds rates steady",
+      "link": "https://cointelegraph.com/markets/boj-intervenes-to-defend-yen-near-160-holds-rates-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Japanese yen crosses a key psychological level after the country’s central bank reportedly conducted a major currency intervention.",
+      "published_at": "2026-07-31T13:13:46+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "RWA perps will outpace tokenization",
