@@ -1,8 +1,30 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T21:06:56.188071+00:00",
-  "count": 17,
+  "generated_at": "2026-08-01T22:07:53.097265+00:00",
+  "count": 19,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Strategy holds STRC dividend at 12%",
+      "link": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "snippet": "Customarily, Michael Saylor and team have lifted the STRC dividend when it trades sizably below par, but not this month.",
+      "published_at": "2026-08-01T22:01:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
+      "published_at": "2026-08-01T21:14:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
