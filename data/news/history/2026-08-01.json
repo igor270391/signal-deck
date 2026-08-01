@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T06:40:54.224720+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+      "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+      "snippet": "The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed…",
+      "published_at": "2026-08-01T06:09:51+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+      "snippet": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the…",
+      "published_at": "2026-08-01T05:55:46+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
