@@ -1,8 +1,21 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T19:23:54.684055+00:00",
-  "count": 16,
+  "generated_at": "2026-08-01T21:06:56.188071+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "snippet": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
+      "published_at": "2026-08-01T20:10:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
