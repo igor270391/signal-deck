@@ -1,8 +1,19 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T13:47:11.054127+00:00",
-  "count": 8,
+  "generated_at": "2026-08-01T15:11:28.122521+00:00",
+  "count": 9,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "The More Americans Know About AI, the Less They Like It: Gallup",
+      "link": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
+      "snippet": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
+      "published_at": "2026-08-01T15:01:09+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
