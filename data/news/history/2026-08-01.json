@@ -1,8 +1,32 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T09:15:56.243997+00:00",
-  "count": 4,
+  "generated_at": "2026-08-01T11:27:45.394203+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Russia expands crypto mining ban to Moscow through 2032",
+      "link": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
+      "published_at": "2026-08-01T10:23:41+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+      "link": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
+      "published_at": "2026-08-01T09:23:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
