@@ -1,8 +1,37 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T06:40:54.224720+00:00",
-  "count": 2,
+  "generated_at": "2026-08-01T09:15:56.243997+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "snippet": "Binance founder Changpeng Zhao says hardware wallets can still have bugs and suggests spreading funds across multiple wallets after the major Coldcard security failure.",
+      "published_at": "2026-08-01T09:01:08+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs end July in the green despite late-month selling",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
+      "published_at": "2026-08-01T07:23:07+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
