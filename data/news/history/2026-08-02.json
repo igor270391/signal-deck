@@ -1,8 +1,21 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T10:08:27.774540+00:00",
-  "count": 2,
+  "generated_at": "2026-08-02T11:29:10.986804+00:00",
+  "count": 3,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+      "link": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the company says it did not authorize or endorse.",
+      "published_at": "2026-08-02T11:20:06+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BNB"
+      ],
+      "note": "Нейтрально щодо BNB -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
