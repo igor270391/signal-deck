@@ -1,8 +1,35 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T17:12:24.148575+00:00",
-  "count": 10,
+  "generated_at": "2026-08-02T19:24:26.968531+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Counting down the days: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "snippet": "The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities.",
+      "published_at": "2026-08-02T18:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+      "snippet": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+      "published_at": "2026-08-02T17:18:51+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "theft"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
@@ -32,7 +59,7 @@
       "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
       "link": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Investors have previously benefited from a payout boost when the preferred STRC shares traded well below their $100 par value for a month.",
-      "published_at": "2026-08-02T15:23:33+00:00",
+      "published_at": "2026-08-02T15:24:00+00:00",
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
