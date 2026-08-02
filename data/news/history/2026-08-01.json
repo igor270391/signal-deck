@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-02T19:24:26.968531+00:00",
+  "generated_at": "2026-08-02T21:06:09.516136+00:00",
   "count": 19,
   "items": [
     {
@@ -107,6 +107,17 @@
       "triggers": []
     },
     {
+      "source": "Cointelegraph",
+      "title": "Crypto PAC pours another $1M into Michigan House race",
+      "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic challengers is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
+      "published_at": "2026-08-01T15:49:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
       "source": "CoinDesk",
       "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
       "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
@@ -120,17 +131,6 @@
       "triggers": [
         "approval"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto PAC pours another $1M into Michigan House race",
-      "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
-      "published_at": "2026-08-01T15:44:02+00:00",
-      "impact": "нейтральний",
-      "coins": [],
-      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Decrypt",
