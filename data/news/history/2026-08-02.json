@@ -1,8 +1,21 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T13:46:45.588354+00:00",
-  "count": 6,
+  "generated_at": "2026-08-02T15:12:37.166304+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+      "link": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+      "snippet": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
+      "published_at": "2026-08-02T15:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "The reverse bridge: Crypto meets Wall Street using perps",
@@ -47,8 +60,8 @@
       "source": "Cointelegraph",
       "title": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
       "link": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the company says it did not authorize or endorse.",
-      "published_at": "2026-08-02T11:20:06+00:00",
+      "snippet": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the blockchain ecosystem says it did not authorize or endorse.",
+      "published_at": "2026-08-02T11:24:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BNB"
@@ -61,7 +74,7 @@
       "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
       "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
-      "published_at": "2026-08-02T09:29:15+00:00",
+      "published_at": "2026-08-02T09:31:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
@@ -74,7 +87,7 @@
       "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
       "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active.",
-      "published_at": "2026-08-02T08:04:56+00:00",
+      "published_at": "2026-08-02T08:07:00+00:00",
       "impact": "негативний",
       "coins": [
         "BTC"
