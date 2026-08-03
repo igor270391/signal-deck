@@ -1,8 +1,21 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T23:07:58.862796+00:00",
-  "count": 12,
+  "generated_at": "2026-08-03T00:12:01.898061+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
+      "link": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The “sickening” loss of $90 million of Bitcoin from cold storage weighs heavily on sentiment, as the Clarity Act stalls with just five days left to hold a Senate vote.",
+      "published_at": "2026-08-02T23:44:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
