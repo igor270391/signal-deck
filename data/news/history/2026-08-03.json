@@ -1,8 +1,36 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T18:02:17.152077+00:00",
-  "count": 47,
+  "generated_at": "2026-08-03T19:52:03.900319+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
+      "link": "https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "According to Bloomberg, the digital asset prime broker is refocusing its Singapore strategy and withdrawing its local license application as crypto companies continue to trim costs.",
+      "published_at": "2026-08-03T19:44:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+      "link": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+      "snippet": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
+      "published_at": "2026-08-03T19:17:37+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH",
+        "SOL"
+      ],
+      "note": "Позитивний тон для ETH, SOL за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
