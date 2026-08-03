@@ -1,8 +1,88 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T15:52:24.091786+00:00",
-  "count": 41,
+  "generated_at": "2026-08-03T18:02:17.152077+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+      "link": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+      "snippet": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+      "published_at": "2026-08-03T17:51:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "note": "Позитивний тон для ETH, XRP за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
+      "link": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
+      "snippet": "Authoritarian oppression, corporate treasuries and “wrench attacks” make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
+      "published_at": "2026-08-03T17:31:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
+      "link": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
+      "snippet": "CKPool's developer put the winner's hashrate at a “wildly variable” peak of 100 PH, noting that it was probably rented.",
+      "published_at": "2026-08-03T17:12:08+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
+      "link": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A new digital verification platform aims to reduce forged certificates by allowing employers and universities to authenticate academic records onchain.",
+      "published_at": "2026-08-03T16:46:22+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "AVAX"
+      ],
+      "note": "Нейтрально щодо AVAX -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
+      "link": "https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
+      "snippet": "The Hut 8 subsidiary increased its Bitcoin holdings by 14% in the second quarter even as Bitcoin’s price fell.",
+      "published_at": "2026-08-03T16:29:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.",
+      "published_at": "2026-08-03T16:13:12+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback",
