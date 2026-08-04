@@ -1,8 +1,47 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T21:23:54.556912+00:00",
-  "count": 61,
+  "generated_at": "2026-08-04T23:14:03.794599+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+      "link": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+      "snippet": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
+      "published_at": "2026-08-04T22:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
+      "link": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+      "snippet": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+      "published_at": "2026-08-04T22:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+      "link": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+      "snippet": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
+      "published_at": "2026-08-04T21:46:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit",
+        "dump",
+        "dumps"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
