@@ -1,8 +1,120 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T15:33:20.749092+00:00",
-  "count": 45,
+  "generated_at": "2026-08-04T18:00:36.744266+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "link": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "snippet": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.",
+      "published_at": "2026-08-04T17:55:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
+      "link": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
+      "snippet": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
+      "published_at": "2026-08-04T17:16:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+      "link": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "snippet": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.",
+      "published_at": "2026-08-04T17:14:13+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BNY to offer institutional crypto staking through Galaxy partnership",
+      "link": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The custody giant is expanding beyond safekeeping by adding staking services, allowing eligible institutional clients to earn yield on proof-of-stake assets.",
+      "published_at": "2026-08-04T17:10:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "partnership",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
+      "link": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
+      "snippet": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
+      "published_at": "2026-08-04T16:43:46+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
+      "link": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traffic sent the S&P 500 index to a record $70 trillion market cap.",
+      "published_at": "2026-08-04T16:38:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+      "snippet": "Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.",
+      "published_at": "2026-08-04T16:21:59+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
+      "link": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
+      "published_at": "2026-08-04T15:50:20+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+      "link": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+      "snippet": "Payments will run on the bank’s proprietary blockchain and be routed automatically through its existing client interface.",
+      "published_at": "2026-08-04T15:47:05+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
