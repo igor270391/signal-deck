@@ -1,14 +1,60 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T09:46:56.010390+00:00",
-  "count": 19,
+  "generated_at": "2026-08-04T12:10:25.991154+00:00",
+  "count": 32,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Coldcard urges users to move bitcoin as active wallet exploit continues",
+      "link": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
+      "snippet": "The maker confirmed the flaw behind roughly $114 million in losses remains live, with specific models and firmware still exposed.",
+      "published_at": "2026-08-04T12:00:25+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
       "source": "Cointelegraph",
-      "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
-      "link": "https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "The first US-Japan joint yen intervention in 28 years came amid record bond yields and worries about the yen carry trade.",
-      "published_at": "2026-08-04T09:20:17+00:00",
+      "title": "Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares",
+      "link": "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position to $7.1 million while reducing its holdings in two spot Bitcoin ETFs.",
+      "published_at": "2026-08-04T11:55:19+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
+      "link": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
+      "snippet": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
+      "published_at": "2026-08-04T11:40:44+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The bitcoin market has plenty of reasons to freak out, yet calm pervades",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
+      "snippet": "Your day-ahead look for Aug. 4, 2026",
+      "published_at": "2026-08-04T11:23:33+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
@@ -18,7 +64,142 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin at $63,600 as rare US-Japan yen action tests carry-trade fears",
+      "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
+      "link": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+      "snippet": "A draft rulebook proposes that sending crypto offshore must be conducted through an authorized provider and be reported to the central bank’s FinSurv.",
+      "published_at": "2026-08-04T10:59:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
+      "link": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
+      "snippet": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
+      "published_at": "2026-08-04T10:52:57+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
+      "link": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
+      "snippet": "Bitcoin advanced as the market settled down following the weekend’s hack of Coldcard wallets and sales by Strategy even as sentiment remained in “extreme fear.”",
+      "published_at": "2026-08-04T10:51:11+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ADA"
+      ],
+      "note": "Негативний тон для BTC, ADA за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
+      "link": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
+      "published_at": "2026-08-04T10:47:39+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Former FBI supervisor admits guilt in $1M crypto theft",
+      "link": "https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A former FBI supervisory agent pleaded guilty to stealing about $1 million worth of digital assets from an adversarial country and forfeited about $925,000 in funds to government-controlled wallets.",
+      "published_at": "2026-08-04T10:30:56+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+      "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+      "snippet": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
+      "published_at": "2026-08-04T10:03:24+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
+      "link": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+      "snippet": "Hashdex's DEFI, the smallest of the funds, held $14.7 million under management, compared with $47.08 billion for BlackRock’s IBIT.",
+      "published_at": "2026-08-04T09:54:02+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
+      "link": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
+      "snippet": "Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.",
+      "published_at": "2026-08-04T09:46:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy’s STRC retakes $90 after 24% rebound from June closing low",
+      "link": "https://cointelegraph.com/markets/strategy-strc-stock-above-90-june-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The preferred shares have recovered nearly 24% from their June closing low as Strategy builds its cash reserve and repurchases STRC.",
+      "published_at": "2026-08-04T09:42:36+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
+      "link": "https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The first US-Japan joint yen intervention in 28 years came amid record bond yields and worries about the yen carry trade.",
+      "published_at": "2026-08-04T09:22:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes",
       "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
       "snippet": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without…",
       "published_at": "2026-08-04T08:41:00+00:00",
