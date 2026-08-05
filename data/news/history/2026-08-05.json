@@ -1,8 +1,30 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T16:51:36.907741+00:00",
-  "count": 50,
+  "generated_at": "2026-08-05T18:31:18.683492+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+      "link": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
+      "snippet": "The leading industry PAC, Fairshake, put $2 million into a Detroit Democratic primary but came up short, even as several PAC-backed candidates won elsewhere.",
+      "published_at": "2026-08-05T18:15:21+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
+      "link": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A Midwest Democratic primary that raised accusations of payback from the cryptocurrency industry ended with the unseating of two-term incumbent Shri Thanedar.",
+      "published_at": "2026-08-05T16:51:54+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
@@ -71,7 +93,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+      "title": "Gold hits 6-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
       "link": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Gold and US stocks stole the limelight on Wednesday as Bitcoin failed to gain significantly beyond $64,000.",
       "published_at": "2026-08-05T15:02:16+00:00",
