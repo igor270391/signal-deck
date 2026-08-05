@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T03:19:41.695933+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum researchers want to rein in staking, critics say it could backfire",
+      "link": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
+      "published_at": "2026-08-05T02:30:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
