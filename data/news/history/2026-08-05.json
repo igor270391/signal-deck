@@ -1,8 +1,57 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T20:41:03.616078+00:00",
-  "count": 59,
+  "generated_at": "2026-08-05T22:21:30.033329+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+      "link": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+      "snippet": "Binance alleged RedotPay poached customers from the crypto exchange in a lawsuit filed in Hong Kong.",
+      "published_at": "2026-08-05T21:40:33+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+      "link": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
+      "snippet": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes—but on the benchmarks that matter, it lags behind.",
+      "published_at": "2026-08-05T21:24:06+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "crashes"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
+      "link": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The lawmaker reportedly sent a letter to the Commerce Secretary demanding answers about the administration’s treatment of the UAE following investments in the Trump family’s crypto company.",
+      "published_at": "2026-08-05T21:15:37+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
+      "link": "https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
+      "snippet": "The release targets developers building autonomous apps and workflows on Cloudflare's edge—a clear bet on agent infrastructure.",
+      "published_at": "2026-08-05T20:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
