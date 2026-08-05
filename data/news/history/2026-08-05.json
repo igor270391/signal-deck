@@ -1,14 +1,134 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T09:46:20.314822+00:00",
-  "count": 20,
+  "generated_at": "2026-08-05T12:08:41.041435+00:00",
+  "count": 29,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Circle Q2 revenue falls short of Wall Street estimates",
+      "link": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 million.",
+      "published_at": "2026-08-05T11:48:38+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
+      "link": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
+      "snippet": "The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
+      "published_at": "2026-08-05T11:29:23+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
+      "snippet": "Your day-ahead look for Aug. 5, 2026",
+      "published_at": "2026-08-05T11:20:58+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
+      "link": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+      "snippet": "Shares jumped 10% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc.",
+      "published_at": "2026-08-05T11:13:17+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption",
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
+      "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+      "snippet": "Derivatives data show subdued activity in bitcoin and ether but aggressive positioning in select altcoins.",
+      "published_at": "2026-08-05T11:01:15+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "record high"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy’s Bitcoin ETF returning to gains as the Coldcard incident renewed custody concerns.",
+      "published_at": "2026-08-05T10:43:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
+      "link": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
+      "published_at": "2026-08-05T10:40:43+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+      "link": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+      "snippet": "The attack exposed a five-year-old firmware flaw. The industry’s rapid response is accelerating the adoption of collaborative multisig security.",
+      "published_at": "2026-08-05T09:55:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
+      "link": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
+      "snippet": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
+      "published_at": "2026-08-05T09:52:42+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
       "link": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
-      "published_at": "2026-08-05T09:34:41+00:00",
+      "published_at": "2026-08-05T09:40:00+00:00",
       "impact": "негативний",
       "coins": [
         "BTC"
