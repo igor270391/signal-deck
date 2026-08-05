@@ -1,11 +1,102 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T03:19:41.695933+00:00",
-  "count": 1,
+  "generated_at": "2026-08-05T06:39:20.443968+00:00",
+  "count": 8,
   "items": [
     {
       "source": "Cointelegraph",
-      "title": "Ethereum researchers want to rein in staking, critics say it could backfire",
+      "title": "AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes",
+      "link": "https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Hayes likened the debt-fueled AI infrastructure boom to the 2008 credit bubble, but evidence suggests financial strain is uneven across Big Tech.",
+      "published_at": "2026-08-05T06:27:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-05T05:56:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+      "link": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+      "snippet": "The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.",
+      "published_at": "2026-08-05T05:49:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY or not, crypto isn’t going back in the bottle: Bitwise",
+      "link": "https://cointelegraph.com/news/clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Matt Hougan argues that regulatory guidance from the SEC and CFTC would keep the industry moving even if Congress fails to pass landmark market structure legislation this year.",
+      "published_at": "2026-08-05T05:47:42+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
+      "link": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
+      "snippet": "A wallet holding $36 million in stolen bitcoin has become an unlikely public message board, as hack victims and opportunists pay to leave permanent notes for the thief.",
+      "published_at": "2026-08-05T05:12:46+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
+      "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+      "snippet": "BTC held near $64,000 as MSCI's world index set another peak and Brent fell toward a Hormuz deal. Ether is the only major down on the week.",
+      "published_at": "2026-08-05T04:32:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bybit’s EU payments arm secures Austrian e-money license",
+      "link": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bybit’s Austrian payments subsidiary gained regulatory approval to develop card, merchant, open-banking and person-to-person payment services.",
+      "published_at": "2026-08-05T04:03:16+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum researchers want to rein in staking; critics say it could backfire",
       "link": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
       "published_at": "2026-08-05T02:30:07+00:00",
