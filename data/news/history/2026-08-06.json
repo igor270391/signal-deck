@@ -1,8 +1,145 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T12:11:10.380247+00:00",
-  "count": 32,
+  "generated_at": "2026-08-06T15:25:26.089554+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
+      "snippet": "You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.",
+      "published_at": "2026-08-06T15:07:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Step App winds down after four years as FITFI token sinks",
+      "link": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
+      "published_at": "2026-08-06T13:52:36+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "all-time high"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "snippet": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+      "published_at": "2026-08-06T13:34:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "10 weirdest things ever tokenized... including farts",
+      "link": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
+      "published_at": "2026-08-06T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-06T13:02:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+      "link": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.",
+      "published_at": "2026-08-06T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
+      "link": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
+      "published_at": "2026-08-06T12:55:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
+      "link": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
+      "snippet": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
+      "published_at": "2026-08-06T12:46:42+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+      "link": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+      "snippet": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
+      "published_at": "2026-08-06T12:46:19+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud",
+        "scam"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+      "link": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+      "snippet": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
+      "published_at": "2026-08-06T12:28:46+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+      "link": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
+      "published_at": "2026-08-06T12:11:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
@@ -217,7 +354,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: BTC trades near $65,000; SpaceX rises ahead of $100 billion unlock",
+      "title": "Live updates: BTC holding just above $64,000 ahead of Friday's key jobs data",
       "link": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
       "snippet": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar…",
       "published_at": "2026-08-06T07:26:23+00:00",
@@ -259,7 +396,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+      "title": "S&P 500 added all of crypto's $2 trillion market cap in a month while bitcoin barely moved. Here's why",
       "link": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
       "snippet": "The S&P 500 just added roughly the entire crypto market's value this month. Bitcoin has barely moved, and the reasons go beyond the obvious.",
       "published_at": "2026-08-06T06:10:43+00:00",
@@ -282,19 +419,6 @@
       "triggers": [
         "scam"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-06T06:00:00+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
