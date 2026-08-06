@@ -1,8 +1,134 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T03:34:28.554363+00:00",
-  "count": 3,
+  "generated_at": "2026-08-06T06:42:19.016433+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+      "link": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
+      "snippet": "The S&P 500 just added roughly the entire crypto market's value this month. Bitcoin has barely moved, and the reasons go beyond the obvious.",
+      "published_at": "2026-08-06T06:10:43+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
+      "link": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Criminals are reportedly using fake websites and falsified documents to target customers searching for licensed crypto providers.",
+      "published_at": "2026-08-06T06:07:14+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-06T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed’s Cook says she’d support rate hike if disinflation stalls",
+      "link": "https://cointelegraph.com/markets/feds-cook-warns-persistent-inflation-could-prompt-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Federal Reserve Governor Lisa Cook said she is “prepared to act” if inflation remains too high above the Fed’s target rate.",
+      "published_at": "2026-08-06T05:44:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ElizaOS token sinks 19% to record low after founder declares it ‘dead’",
+      "link": "https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Eliza Labs founder Shaw Walters said the project transferred its remaining treasury to settle a tokenholder lawsuit and will continue building Eliza without an associated cryptocurrency.",
+      "published_at": "2026-08-06T05:08:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+      "link": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+      "snippet": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
+      "published_at": "2026-08-06T04:59:11+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+      "link": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+      "snippet": "CryptoQuant said large XRP spot orders point to \"quiet accumulation\" rather than a breakout, while ether’s price below realized value leaves holders underwater and gives it the strongest valuation…",
+      "published_at": "2026-08-06T04:46:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо ETH, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
+      "link": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
+      "snippet": "The memecoin that defined the chain's debut has recovered to an $86 million cap. Tokenized assets, the chain's stated purpose, sit at $27.6 million.",
+      "published_at": "2026-08-06T04:31:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine",
+        "fined"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Meta latest AI firm to see model go rogue during testing",
+      "link": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The incident reportedly stemmed from a misconfigured testing environment, adding Meta to a growing list of AI firms whose models have escaped evaluation sandboxes.",
+      "published_at": "2026-08-06T04:28:47+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here are the possible outcomes for Clarity right now",
+      "link": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
+      "snippet": "The Senate has not yet indicated if it will advance the Digital Asset Market Clarity Act, and with its summer recess looming, here are the possible outcomes.",
+      "published_at": "2026-08-06T03:49:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
