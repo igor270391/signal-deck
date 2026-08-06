@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T03:34:28.554363+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
+      "link": "https://cointelegraph.com/markets/block-raises-2026-outlook-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Cash App and Square drove better-than-expected results, while the company said it expanded its use of AI across software engineering.",
+      "published_at": "2026-08-06T01:33:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
+      "link": "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Mysten Labs’ co-founder Sam Blackshear said he is joining Anthropic as AI shifts the balance between attackers and defenders.",
+      "published_at": "2026-08-06T01:31:35+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin Red Team reports 5K findings in sweeping security audit",
+      "link": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "“There’s a lot of chaos right now in the ecosystem. We absolutely understand that many people are being bombarded with security issues right now,” said Bitcoin developer Calle.",
+      "published_at": "2026-08-06T01:09:06+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    }
+  ]
+}
