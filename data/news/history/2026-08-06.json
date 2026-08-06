@@ -1,8 +1,144 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T09:48:54.911592+00:00",
-  "count": 21,
+  "generated_at": "2026-08-06T12:11:10.380247+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
+      "link": "https://decrypt.co/375014/crypto-wrench-attacks-30m-stolen-2026-chainalysis",
+      "snippet": "The blockchain analytics firm says home invasions are becoming more common, France has emerged as the leading hotspot, and some attackers are using increasingly sophisticated laundering techniques.",
+      "published_at": "2026-08-06T12:01:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "stolen"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
+      "link": "https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "While only 12 of 46 documented attempts resulted in payment, data leaks and attacks on relatives are widening the physical risks facing crypto holders.",
+      "published_at": "2026-08-06T12:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin treasury trade ‘breaking’ and fund holdings drop 10%: Analysis",
+      "link": "https://cointelegraph.com/markets/bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Doubts emerge over the Bitcoin corporate treasury model as institutional BTC investment vehicles cut holdings.",
+      "published_at": "2026-08-06T11:48:37+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
+      "snippet": "Your day-ahead look for Aug. 6, 2026",
+      "published_at": "2026-08-06T11:37:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Free Markets and Innovation, Sort Of",
+      "link": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
+      "snippet": "The Journal’s editorial board rejects crypto competition and instead misinterprets Clarity, a pro-innovation, pro-competition, and pro-consumer bill, argues the Blockchain Association's Summer…",
+      "published_at": "2026-08-06T11:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers",
+      "link": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Hackers behind the Coldcard exploit transferred millions in digital assets to cryptocurrency mixers, while most stolen funds remained traceable in attacker-controlled wallets.",
+      "published_at": "2026-08-06T11:26:00+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit",
+        "stolen"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
+      "link": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
+      "snippet": "Strong earnings from SanDisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.",
+      "published_at": "2026-08-06T11:14:47+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
+      "link": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
+      "snippet": "The investment brings the company’s total raised to $106 million across seven funding rounds since November 2021.",
+      "published_at": "2026-08-06T10:53:09+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
+      "link": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
+      "snippet": "The two largest cryptocurrencies are the only CoinDesk 20 members in positive territory as altcoins fall out of favor.",
+      "published_at": "2026-08-06T10:43:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Situational Awareness returns with $400M investment after nearly collapsing: Report",
+      "link": "https://cointelegraph.com/markets/situational-awareness-400m-investment-nearly-collapsing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Situational Awareness reportedly made a $400 million investment in an undisclosed company, days after the hedge fund nearly collapsed following July’s AI stock crash.",
+      "published_at": "2026-08-06T10:41:49+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "collapse"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
@@ -17,6 +153,17 @@
       "triggers": [
         "sues"
       ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russian president signs crypto law, core rules take effect in 2026",
+      "link": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Russian President Vladimir Putin signed a crypto law establishing market rules for exchanges, custodians and investors, with core provisions taking effect in September 2026.",
+      "published_at": "2026-08-06T09:38:54+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Cointelegraph",
@@ -70,7 +217,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Coinbase lets UK users trade U.S. equities. BTC trades near $65,000",
+      "title": "Live updates: BTC trades near $65,000; SpaceX rises ahead of $100 billion unlock",
       "link": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
       "snippet": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar…",
       "published_at": "2026-08-06T07:26:23+00:00",
