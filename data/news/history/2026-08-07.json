@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T05:50:41.384037+00:00",
+  "generated_at": "2026-08-07T07:31:37.347687+00:00",
   "count": 11,
   "items": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
+      "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
       "link": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
       "snippet": "Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch closely. But it isn't confirmed, and one key level will decide if it plays out.",
       "published_at": "2026-08-07T04:28:17+00:00",
@@ -66,7 +66,7 @@
       ],
       "note": "Позитивний тон для BTC за ключовими словами.",
       "triggers": [
-        "surge",
+        "soar",
         "bullish"
       ]
     },
