@@ -1,8 +1,106 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T11:55:30.797228+00:00",
-  "count": 24,
+  "generated_at": "2026-08-07T13:22:27.752275+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+      "link": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Dice entropy may become the new gold standard after the Coldcard hack",
+      "published_at": "2026-08-07T13:00:01+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+      "link": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+      "snippet": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
+      "published_at": "2026-08-07T12:37:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
+      "link": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+      "snippet": "The chances of a Federal Reserve rate hike at its next meeting in September have slipped below 50% in the aftermath of the report.",
+      "published_at": "2026-08-07T12:31:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
+      "link": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
+      "published_at": "2026-08-07T12:28:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
+      "link": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
+      "published_at": "2026-08-07T12:13:40+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
+      "link": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
+      "snippet": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
+      "published_at": "2026-08-07T12:00:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "After a Clarity Act funeral, the crypto world would keep turning",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+      "snippet": "With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.",
+      "published_at": "2026-08-07T12:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
+      "link": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
+      "snippet": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.",
+      "published_at": "2026-08-07T11:45:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
@@ -162,9 +260,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data",
+      "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
       "link": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "snippet": "Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.",
+      "snippet": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
       "published_at": "2026-08-07T07:44:57+00:00",
       "impact": "нейтральний",
       "coins": [
