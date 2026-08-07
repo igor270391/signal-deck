@@ -1,8 +1,85 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T09:11:36.156263+00:00",
-  "count": 16,
+  "generated_at": "2026-08-07T11:04:05.587284+00:00",
+  "count": 22,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
+      "link": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
+      "snippet": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
+      "published_at": "2026-08-07T10:37:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine",
+        "fined"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
+      "link": "https://www.coindesk.com/markets/2026/08/07/cmt",
+      "snippet": "Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.",
+      "published_at": "2026-08-07T10:36:14+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
+      "link": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
+      "snippet": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
+      "published_at": "2026-08-07T09:26:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
+      "link": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street’s consensus estimate.",
+      "published_at": "2026-08-07T09:25:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+      "link": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
+      "snippet": "Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling",
+      "published_at": "2026-08-07T09:24:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
+      "link": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated providers under the bloc’s crypto framework.",
+      "published_at": "2026-08-07T09:14:17+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
