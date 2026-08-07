@@ -1,8 +1,82 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T15:04:28.541378+00:00",
-  "count": 37,
+  "generated_at": "2026-08-07T16:04:33.269744+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+      "link": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+      "snippet": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
+      "published_at": "2026-08-07T16:03:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
+      "link": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
+      "snippet": "A Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.",
+      "published_at": "2026-08-07T15:27:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data.",
+      "published_at": "2026-08-07T15:23:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
+      "link": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
+      "snippet": "The OKX executive says Democrats have little incentive to hand Republicans a crypto victory before the midterms.",
+      "published_at": "2026-08-07T15:22:44+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a five-second trick let traders drain millions from Polymarket",
+      "link": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+      "snippet": "After months of public warnings from onchain analysts, the prediction market is moving to time-weighted prices to make artificial price pushes too costly.",
+      "published_at": "2026-08-07T15:09:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
+      "link": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
+      "published_at": "2026-08-07T15:07:49+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
@@ -326,16 +400,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
+      "title": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
       "link": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
       "snippet": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
       "published_at": "2026-08-07T07:44:57+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
     },
     {
       "source": "CoinDesk",
