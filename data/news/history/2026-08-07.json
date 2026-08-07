@@ -1,8 +1,64 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T16:04:33.269744+00:00",
-  "count": 43,
+  "generated_at": "2026-08-07T17:04:29.881368+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "link": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "snippet": "Potential buyers, including Exodus, passed on BitMEX amid concerns over founder ownership and its shrinking business, according to a source familiar.",
+      "published_at": "2026-08-07T16:53:56+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+      "link": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+      "snippet": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
+      "published_at": "2026-08-07T16:36:59+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BNB"
+      ],
+      "note": "Негативний тон для BNB за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "link": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+      "snippet": "The exchange has secured a preliminary injunction freezing stolen assets.",
+      "published_at": "2026-08-07T16:32:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "sues",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
+      "link": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds",
+      "snippet": "A soft July payrolls print pulled September rate-hike odds down. It gives investors in risk assets hope, but Bitcoin remains in bear territory.",
+      "published_at": "2026-08-07T16:07:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
