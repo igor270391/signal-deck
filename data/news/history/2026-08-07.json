@@ -1,8 +1,46 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T17:04:29.881368+00:00",
-  "count": 47,
+  "generated_at": "2026-08-07T17:57:24.021440+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "link": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expands across major blockchain ecosystems.",
+      "published_at": "2026-08-07T17:36:45+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "expands"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
+      "link": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
+      "snippet": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
+      "published_at": "2026-08-07T17:36:41+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
+      "link": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "As the chairman of the Reform UK calls for an investigation into a FTX-linked political donation, the party’s leader prepares to face voters amid his own crypto-related scandal.",
+      "published_at": "2026-08-07T17:03:50+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
