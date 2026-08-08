@@ -1,8 +1,19 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T05:56:56.832847+00:00",
-  "count": 3,
+  "generated_at": "2026-08-08T07:08:32.235139+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
+      "link": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
+      "published_at": "2026-08-08T06:21:08+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
