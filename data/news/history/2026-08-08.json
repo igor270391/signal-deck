@@ -1,8 +1,21 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T03:45:27.724603+00:00",
-  "count": 2,
+  "generated_at": "2026-08-08T05:09:30.052255+00:00",
+  "count": 3,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
+      "link": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Expedited discovery allows the exchange to seek account identities, balances and transaction histories from platforms with US operations.",
+      "published_at": "2026-08-08T04:11:53+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
