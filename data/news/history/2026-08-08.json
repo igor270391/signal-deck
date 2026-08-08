@@ -1,8 +1,21 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T19:40:44.234265+00:00",
-  "count": 17,
+  "generated_at": "2026-08-08T20:41:56.435705+00:00",
+  "count": 18,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "snippet": "The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.",
+      "published_at": "2026-08-08T20:06:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
