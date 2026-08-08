@@ -1,8 +1,36 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T15:40:56.852593+00:00",
-  "count": 12,
+  "generated_at": "2026-08-08T16:46:28.121570+00:00",
+  "count": 14,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
+      "link": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+      "snippet": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
+      "published_at": "2026-08-08T16:33:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+      "link": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
+      "published_at": "2026-08-08T16:20:17+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows",
+        "institutional"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
