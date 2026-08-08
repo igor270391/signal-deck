@@ -1,8 +1,23 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T07:08:32.235139+00:00",
-  "count": 4,
+  "generated_at": "2026-08-08T07:59:41.650040+00:00",
+  "count": 5,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+      "snippet": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+      "published_at": "2026-08-08T07:46:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
