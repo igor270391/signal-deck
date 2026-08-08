@@ -1,8 +1,19 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T11:39:44.764840+00:00",
-  "count": 6,
+  "generated_at": "2026-08-08T13:06:09.192430+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+      "snippet": "The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.",
+      "published_at": "2026-08-08T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
