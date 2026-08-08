@@ -1,8 +1,34 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T13:56:03.345847+00:00",
-  "count": 8,
+  "generated_at": "2026-08-08T14:43:01.724005+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
+      "link": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+      "snippet": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
+      "published_at": "2026-08-08T14:01:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "snippet": "The digital asset manager's CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.",
+      "published_at": "2026-08-08T14:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin will never fall below $60K again: Nansen founder",
