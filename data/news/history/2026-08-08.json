@@ -1,8 +1,24 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T20:41:56.435705+00:00",
-  "count": 18,
+  "generated_at": "2026-08-08T21:41:30.532967+00:00",
+  "count": 19,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+      "link": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
+      "published_at": "2026-08-08T21:17:08+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "milestone"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
