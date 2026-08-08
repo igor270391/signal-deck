@@ -1,8 +1,19 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T08:55:08.484780+00:00",
-  "count": 5,
+  "generated_at": "2026-08-08T09:49:33.507485+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "snippet": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
+      "published_at": "2026-08-08T09:07:24+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
