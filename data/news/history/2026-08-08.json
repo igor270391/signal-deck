@@ -1,8 +1,19 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T17:41:21.832202+00:00",
-  "count": 16,
+  "generated_at": "2026-08-08T18:51:52.836045+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "link": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+      "snippet": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.",
+      "published_at": "2026-08-08T17:48:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
