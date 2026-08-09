@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T05:55:23.812708+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "snippet": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
+      "published_at": "2026-08-09T05:08:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
