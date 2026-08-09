@@ -1,8 +1,19 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T17:41:33.864562+00:00",
-  "count": 7,
+  "generated_at": "2026-08-09T18:55:51.392026+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+      "snippet": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
+      "published_at": "2026-08-09T18:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
