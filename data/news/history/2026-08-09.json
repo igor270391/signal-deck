@@ -1,8 +1,19 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T11:40:54.351696+00:00",
-  "count": 4,
+  "generated_at": "2026-08-09T13:08:50.739386+00:00",
+  "count": 5,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "snippet": "An industry-wide reckoning is weeding out unsustainable startups, leaving behind only the protocols with real cash flow and actual users.",
+      "published_at": "2026-08-09T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
