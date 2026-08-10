@@ -1,8 +1,87 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T08:49:33.666144+00:00",
-  "count": 13,
+  "generated_at": "2026-08-10T10:28:31.530112+00:00",
+  "count": 19,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
+      "link": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
+      "snippet": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
+      "published_at": "2026-08-10T10:19:06+00:00",
+      "impact": "негативний",
+      "coins": [
+        "LINK"
+      ],
+      "note": "Негативний тон для LINK за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal",
+      "link": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Sweden’s H100 more than tripled its Bitcoin holdings to 3,506 BTC after completing an acquisition involving 2,455 BTC.",
+      "published_at": "2026-08-10T10:14:30+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+      "snippet": "Bitcoin’s BVIV volatility index hit the lowest level since 2025 as option demand collapsed. Still, overwriting surged and downside protection stayed pricey.",
+      "published_at": "2026-08-10T10:13:58+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+      "link": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+      "snippet": "CME leveraged funds turn net long as weak futures yields undermine the once-popular basis trade.",
+      "published_at": "2026-08-10T09:09:32+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
+      "link": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
+      "snippet": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
+      "published_at": "2026-08-10T09:04:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "sues"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
+      "snippet": "Your look at what's coming in the week starting Aug. 10",
+      "published_at": "2026-08-10T08:57:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
