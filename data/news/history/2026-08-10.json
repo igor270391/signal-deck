@@ -1,8 +1,70 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T06:19:35.222810+00:00",
-  "count": 8,
+  "generated_at": "2026-08-10T08:49:33.666144+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
+      "link": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
+      "snippet": "Early BVNK investor Concentric shares a fascinating inside view on the stablecoin startup’s journey and the eventual Mastercard deal.",
+      "published_at": "2026-08-10T07:52:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK regulators to prepare tokenized gold framework: Report",
+      "link": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold and how these products may be used as collateral assets in wholesale markets.",
+      "published_at": "2026-08-10T07:25:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "link": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+      "snippet": "The trading firm is also introducing “Robinhood Cortex Digests for Crypto,” a generative AI-powered widget that analyses breaking news and other data.",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+      "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+      "snippet": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
+      "published_at": "2026-08-10T06:56:50+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+      "snippet": "Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for…",
+      "published_at": "2026-08-10T06:25:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -31,7 +93,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin tops $65,000 with US inflation data due this week",
+      "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
       "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
       "snippet": "Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.",
       "published_at": "2026-08-10T04:39:37+00:00",
