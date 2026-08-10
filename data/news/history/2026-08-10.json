@@ -1,11 +1,52 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T20:56:30.262368+00:00",
-  "count": 54,
+  "generated_at": "2026-08-10T21:53:22.888867+00:00",
+  "count": 57,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
+      "link": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+      "snippet": "Ethereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.",
+      "published_at": "2026-08-10T21:48:22+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+      "link": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+      "snippet": "The Truth Social parent held 9,477 BTC worth $557 million at the end of June, while its Cronos position also suffered a steep drop in value.",
+      "published_at": "2026-08-10T21:12:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
+      "link": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
+      "snippet": "AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
+      "published_at": "2026-08-10T21:02:43+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crackdown"
+      ]
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Judge stays CFTC’s case against US solider over prediction market bets",
+      "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
       "link": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
       "published_at": "2026-08-10T20:50:59+00:00",
