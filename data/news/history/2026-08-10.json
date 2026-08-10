@@ -1,8 +1,35 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T17:59:08.010645+00:00",
-  "count": 45,
+  "generated_at": "2026-08-10T19:09:53.123323+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Coinsbuy offers $100K reward after Sunday security breach",
+      "link": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9 million was stolen.",
+      "published_at": "2026-08-10T18:43:26+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
+      "link": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
+      "snippet": "Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
+      "published_at": "2026-08-10T18:31:06+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
