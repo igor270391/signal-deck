@@ -1,8 +1,93 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T11:58:09.746687+00:00",
-  "count": 25,
+  "generated_at": "2026-08-10T13:27:33.456163+00:00",
+  "count": 31,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
+      "link": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitdeer mined 2,694 BTC in Q2, but ended the quarter holding just 150 BTC after liquidating its treasury earlier this year.",
+      "published_at": "2026-08-10T13:07:42+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
+      "link": "https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve rose to $4.65 billion and its Bitcoin holdings fell to 840,447 BTC.",
+      "published_at": "2026-08-10T12:36:32+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
+      "link": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
+      "snippet": "And the ETH inflows were even bigger, when factoring in market cap.",
+      "published_at": "2026-08-10T12:32:19+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B",
+      "link": "https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b",
+      "snippet": "All of the proceeds went into a $109 million STRC buyback, while the company sold six times as much again in its own stock.",
+      "published_at": "2026-08-10T12:24:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
+      "link": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
+      "snippet": "Daily totals shrank as the week wore on, and analysts are split on whether the return of institutional money marks a genuine turn.",
+      "published_at": "2026-08-10T12:14:57+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "link": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "snippet": "The company increased its USD reserve to $4.65 billion while reducing its bitcoin holdings to 840,447 BTC",
+      "published_at": "2026-08-10T12:09:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
@@ -18,7 +103,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered",
+      "title": "Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered",
       "link": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The LINK token may see a 25-fold increase to $200 by the end of 2030, as the growing real world asset market increases demand for the industry’s largest oracle services provider, according to…",
       "published_at": "2026-08-10T11:39:39+00:00",
@@ -195,7 +280,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+      "title": "Live updates: Bitcoin steady above $65,100 as Strategy reports 1,690 BTC sale",
       "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
       "snippet": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
       "published_at": "2026-08-10T06:56:50+00:00",
