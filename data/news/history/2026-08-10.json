@@ -1,8 +1,88 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T13:27:33.456163+00:00",
-  "count": 31,
+  "generated_at": "2026-08-10T15:10:37.330095+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+      "link": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
+      "snippet": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
+      "published_at": "2026-08-10T15:03:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+      "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+      "snippet": "The asset manager said it no longer intends to proceed with the offerings. None became effective, and no securities were issued or sold.",
+      "published_at": "2026-08-10T15:02:14+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ADA",
+        "DOT"
+      ],
+      "note": "Негативний тон для ADA, DOT за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
+      "link": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
+      "snippet": "The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.",
+      "published_at": "2026-08-10T14:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH",
+        "SOL"
+      ],
+      "note": "Нейтрально щодо ETH, SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
+      "link": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
+      "snippet": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
+      "published_at": "2026-08-10T14:12:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
+      "link": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
+      "snippet": "Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.",
+      "published_at": "2026-08-10T13:50:51+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana gets its first Strategy STRC product through Solstice Finance",
+      "link": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
+      "snippet": "The Solana vault splits income from Strategy’s preferred stock into a lower-risk senior token and a higher-risk junior token.",
+      "published_at": "2026-08-10T13:26:36+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
@@ -280,7 +360,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steady above $65,100 as Strategy reports 1,690 BTC sale",
+      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $65,000",
       "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
       "snippet": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
       "published_at": "2026-08-10T06:56:50+00:00",
@@ -295,11 +375,11 @@
       ]
     },
     {
-      "source": "CoinDesk",
-      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-      "snippet": "Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for…",
-      "published_at": "2026-08-10T06:25:17+00:00",
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-10T06:30:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
@@ -308,11 +388,11 @@
       "triggers": []
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-10T06:00:00+00:00",
+      "source": "CoinDesk",
+      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+      "snippet": "Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for…",
+      "published_at": "2026-08-10T06:25:17+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
