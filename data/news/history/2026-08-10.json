@@ -1,8 +1,43 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T20:01:57.923657+00:00",
-  "count": 50,
+  "generated_at": "2026-08-10T20:56:30.262368+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Judge stays CFTC’s case against US solider over prediction market bets",
+      "link": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
+      "published_at": "2026-08-10T20:50:59+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+      "snippet": "Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.",
+      "published_at": "2026-08-10T20:20:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+      "link": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
+      "snippet": "Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.",
+      "published_at": "2026-08-10T20:03:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
@@ -13,6 +48,19 @@
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+      "link": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
+      "published_at": "2026-08-10T19:47:01+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "all-time high"
+      ]
     },
     {
       "source": "Cointelegraph",
