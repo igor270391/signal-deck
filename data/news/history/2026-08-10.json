@@ -1,8 +1,43 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T19:09:53.123323+00:00",
-  "count": 47,
+  "generated_at": "2026-08-10T20:01:57.923657+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
+      "link": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
+      "snippet": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
+      "published_at": "2026-08-10T19:56:50+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
+      "link": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.",
+      "published_at": "2026-08-10T19:35:19+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
+      "link": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
+      "snippet": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
+      "published_at": "2026-08-10T19:13:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Coinsbuy offers $100K reward after Sunday security breach",
