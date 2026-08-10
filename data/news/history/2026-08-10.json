@@ -1,8 +1,84 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T16:11:47.777134+00:00",
-  "count": 39,
+  "generated_at": "2026-08-10T17:59:08.010645+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
+      "link": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
+      "snippet": "A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
+      "published_at": "2026-08-10T17:51:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Rally Fades—Where Does Price Go Next?",
+      "link": "https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market",
+      "snippet": "The price of Bitcoin is up on the seven-day chart, today bouncing to a high of $65,000. But bearish market pressure persists.",
+      "published_at": "2026-08-10T17:18:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
+      "link": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Following a procedural delay in the US Senate, lawmakers are expected to address a major crypto market structure bill after they return from a month-long recess, which met with industry criticism.",
+      "published_at": "2026-08-10T17:08:34+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
+      "link": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
+      "snippet": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
+      "published_at": "2026-08-10T16:25:28+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
+      "link": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the Strait of Hormuz oil route, while analysis praised “exceptionally strong” institutional BTC inflows.",
+      "published_at": "2026-08-10T16:14:58+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge",
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
+      "link": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
+      "snippet": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
+      "published_at": "2026-08-10T16:11:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
@@ -230,13 +306,15 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+      "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
       "link": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-      "snippet": "The FCA is expected to announce progress on drafting new rules for tokenized digital assets within the next few months.",
+      "snippet": "The FCA said it will 'have more to say on' their approach to tokenization, as it draws up rules to put assets on the blockchain.",
       "published_at": "2026-08-10T11:38:33+00:00",
       "impact": "нейтральний",
-      "coins": [],
-      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
@@ -392,7 +470,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $65,000",
+      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
       "link": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
       "snippet": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
       "published_at": "2026-08-10T06:56:50+00:00",
