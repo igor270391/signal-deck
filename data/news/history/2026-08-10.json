@@ -1,8 +1,40 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T15:10:37.330095+00:00",
-  "count": 37,
+  "generated_at": "2026-08-10T16:11:47.777134+00:00",
+  "count": 39,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
+      "link": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin allocation through the firm’s Canadian iShares Bitcoin ETF.",
+      "published_at": "2026-08-10T15:59:06+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
+      "link": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
+      "snippet": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
+      "published_at": "2026-08-10T15:56:30+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
