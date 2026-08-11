@@ -1,8 +1,84 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T11:00:54.605751+00:00",
-  "count": 26,
+  "generated_at": "2026-08-11T11:54:25.330268+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+      "link": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+      "snippet": "The regulator cited missing transaction reports and the company’s failure to respond to an information request.",
+      "published_at": "2026-08-11T11:45:47+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+      "link": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+      "snippet": "Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments made since then at…",
+      "published_at": "2026-08-11T11:24:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+      "link": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+      "snippet": "The crypto exchange said it secured regulatory approval to offer tokenized securities from Abu Dhabi as the emirate deepens its push into onchain finance.",
+      "published_at": "2026-08-11T11:23:25+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
+      "snippet": "Your day-ahead look for Aug. 11 2026",
+      "published_at": "2026-08-11T11:13:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
+      "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
+      "snippet": "Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.",
+      "published_at": "2026-08-11T11:04:28+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
+      "published_at": "2026-08-11T10:55:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
@@ -77,7 +153,7 @@
       "source": "Cointelegraph",
       "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
       "link": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and on-chain analysis that produce varying estimates.",
+      "snippet": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.",
       "published_at": "2026-08-11T10:14:39+00:00",
       "impact": "негативний",
       "coins": [
