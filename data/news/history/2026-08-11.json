@@ -1,8 +1,64 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T04:29:58.346921+00:00",
-  "count": 5,
+  "generated_at": "2026-08-11T06:01:45.345112+00:00",
+  "count": 9,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-11T05:39:31+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+      "link": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+      "snippet": "The breakaway chain has produced two blocks since splitting off on Saturday. Bitcoin has produced more than 300 in the same stretch.",
+      "published_at": "2026-08-11T05:26:37+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
+      "link": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Luke Dashjr lost his BIP editor privileges after developers raised concerns over his role in BIP 110 and its stalled minority fork.",
+      "published_at": "2026-08-11T04:54:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+      "link": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+      "snippet": "Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflation worries before Wednesday's U.S. price data.",
+      "published_at": "2026-08-11T04:50:23+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "XRP"
+      ],
+      "note": "Позитивний тон для BTC, ETH, XRP за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "White House vows to get CLARITY across ‘finish line’ in September",
