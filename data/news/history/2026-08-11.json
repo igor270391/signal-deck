@@ -1,8 +1,19 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T22:01:05.890393+00:00",
-  "count": 70,
+  "generated_at": "2026-08-11T22:56:01.245798+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+      "link": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
+      "snippet": "The former operating chief is starting a new venture following several departures across the ChatGPT developer’s leadership and safety teams.",
+      "published_at": "2026-08-11T22:04:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
