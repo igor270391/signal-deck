@@ -1,8 +1,60 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T18:04:20.353921+00:00",
-  "count": 57,
+  "generated_at": "2026-08-11T19:15:54.743130+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
+      "link": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
+      "snippet": "Itaú Unibanco said it teamed up with tokenization specialist OpenAssets to test tokenized bonds and funds in a pilot run by Brazil's financial watchdog ANBIMA.",
+      "published_at": "2026-08-11T19:06:23+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+      "link": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
+      "snippet": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
+      "published_at": "2026-08-11T18:56:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit",
+        "exploited"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
+      "link": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
+      "snippet": "Falling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
+      "published_at": "2026-08-11T18:25:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
+      "link": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The company has bought roughly 25 times more BTC than it has sold this year, despite recent sales that challenged its long-standing accumulation strategy.",
+      "published_at": "2026-08-11T18:03:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "ARP Digital secures Dubai VARA broker-dealer license",
