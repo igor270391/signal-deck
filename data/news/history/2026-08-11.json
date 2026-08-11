@@ -1,8 +1,105 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T11:54:25.330268+00:00",
-  "count": 32,
+  "generated_at": "2026-08-11T13:24:18.503289+00:00",
+  "count": 39,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
+      "link": "https://cointelegraph.com/news/sharplink-reports-394m-q2-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "SharpLink reported a net loss of $394 million in the second quarter of 2026, largely driven by Ether’s 23% decline during the quarter.",
+      "published_at": "2026-08-11T13:13:10+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
+      "link": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
+      "snippet": "Collectors are spending millions on trading cards, while blockchain startups are turning physical Pokémon cards into digital assets. The harder task is creating enough liquidity to compete with…",
+      "published_at": "2026-08-11T13:06:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
+      "link": "https://cointelegraph.com/news/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.",
+      "published_at": "2026-08-11T12:25:41+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "expansion"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
+      "link": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
+      "snippet": "Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?",
+      "published_at": "2026-08-11T12:22:13+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "dump"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+      "link": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin last week.",
+      "published_at": "2026-08-11T12:09:38+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
+      "link": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
+      "snippet": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
+      "published_at": "2026-08-11T12:02:42+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam",
+        "stolen"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MoneyGram expands on Solana with global crypto-to-cash service",
+      "link": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+      "snippet": "Wallets and apps on Solana can now tap MoneyGram's global network to move between digital assets and local currencies.",
+      "published_at": "2026-08-11T12:02:22+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
@@ -95,7 +192,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI",
+      "title": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
       "link": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
       "snippet": "FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutional cover are now chasing AI data centers, putting BTC’s flat 50-day moving average in focus.",
       "published_at": "2026-08-11T10:34:52+00:00",
