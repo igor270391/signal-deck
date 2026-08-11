@@ -1,8 +1,58 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T06:01:45.345112+00:00",
-  "count": 9,
+  "generated_at": "2026-08-11T07:22:39.740753+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A $2 trillion asset class is getting a new blockchain rail",
+      "link": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
+      "snippet": "ADI Chain and Shipfinex are partnering to tokenize commercial ships, aiming to open the $680B ship-finance market to wider capital pool.",
+      "published_at": "2026-08-11T07:19:09+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea drops Travel Rule threshold for crypto transfers",
+      "link": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "South Korea will remove its 1 million won Travel Rule threshold and apply information-sharing requirements to all transfers between registered crypto service providers.",
+      "published_at": "2026-08-11T06:28:16+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
+      "link": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+      "snippet": "The project said it will pay 10% of recovered funds, up to 3 BTC, after attackers stole LND credentials and drained merchant Lightning wallets last week.",
+      "published_at": "2026-08-11T06:19:07+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+      "link": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster transfers and more efficient liquidity management.",
+      "published_at": "2026-08-11T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
