@@ -1,8 +1,32 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T22:54:43.144102+00:00",
-  "count": 65,
+  "generated_at": "2026-08-12T23:54:18.549764+00:00",
+  "count": 67,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
+      "link": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Qualifying new customers can receive full reimbursement, including fees, if they notify both the operator and law enforcement within 30 days.",
+      "published_at": "2026-08-12T23:42:51+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "link": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+      "snippet": "The U.S. regulator of platforms such as Kalshi and Polymarket suggests the industry is getting into bad compliance habits that may allow for market abuse.",
+      "published_at": "2026-08-12T23:16:53+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
