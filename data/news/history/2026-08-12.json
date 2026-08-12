@@ -1,8 +1,60 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T18:04:50.077169+00:00",
-  "count": 52,
+  "generated_at": "2026-08-12T19:15:32.040970+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+      "link": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
+      "snippet": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on…",
+      "published_at": "2026-08-12T18:58:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+      "link": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.",
+      "published_at": "2026-08-12T18:55:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+      "link": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
+      "snippet": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.",
+      "published_at": "2026-08-12T18:16:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked",
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise cuts 14% of staff while still expecting growth",
+      "link": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
+      "published_at": "2026-08-12T18:01:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
@@ -85,15 +137,13 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Kalshi taps Solana platform for Wall Street-style high-speed data feed",
+      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
       "link": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-      "snippet": "Kalshi is looking to meet institutional demands by adding Solana-based DoubleZero data to its order book.",
+      "snippet": "Kalshi is looking to meet institutional demands by adding DoubleZero data to its order book.",
       "published_at": "2026-08-12T16:14:49+00:00",
       "impact": "позитивний",
-      "coins": [
-        "SOL"
-      ],
-      "note": "Позитивний тон для SOL за ключовими словами.",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
       "triggers": [
         "institutional"
       ]
