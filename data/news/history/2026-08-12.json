@@ -1,8 +1,71 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T19:15:32.040970+00:00",
-  "count": 56,
+  "generated_at": "2026-08-12T20:58:26.197126+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "link": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.",
+      "published_at": "2026-08-12T20:37:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+      "link": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+      "snippet": "Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live…",
+      "published_at": "2026-08-12T20:31:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "exploited"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "link": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
+      "published_at": "2026-08-12T20:22:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "link": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+      "snippet": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
+      "published_at": "2026-08-12T20:01:05+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
+      "link": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+      "snippet": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
+      "published_at": "2026-08-12T19:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
