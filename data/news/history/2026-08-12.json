@@ -1,8 +1,32 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T06:24:54.193771+00:00",
-  "count": 10,
+  "generated_at": "2026-08-12T08:28:18.531452+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
+      "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Suspected North Koreans IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
+      "published_at": "2026-08-12T07:34:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "link": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
+      "snippet": "Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.",
+      "published_at": "2026-08-12T07:04:53+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
@@ -43,7 +67,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+      "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
       "link": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
       "snippet": "Harmony said in Asian morning hours it is working with exchanges to freeze funds and preparing a software fix.",
       "published_at": "2026-08-12T05:18:40+00:00",
