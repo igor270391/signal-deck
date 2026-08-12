@@ -1,8 +1,98 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T08:28:18.531452+00:00",
-  "count": 12,
+  "generated_at": "2026-08-12T10:18:29.515378+00:00",
+  "count": 19,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+      "link": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+      "snippet": "The BOE-led Digital Pound Lab will test trade-finance interoperability, in which exporters receive stablecoins while importers settle in a potential digital pound.",
+      "published_at": "2026-08-12T10:17:05+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
+      "link": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin miners showed a “concerning” trend of pivoting to AI amid a profit squeeze as transaction-fee income barely bounced from 10-year lows of 0.52% of revenue.",
+      "published_at": "2026-08-12T10:06:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
+      "link": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
+      "snippet": "Booming AI demand sends CRWV up 16% and lifts IREN and CIFR as investors favor computing infrastructure over crypto.",
+      "published_at": "2026-08-12T09:41:52+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
+      "link": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
+      "snippet": "The fund would keep 85% of gross staking rewards, with the remaining 15% going to service providers.",
+      "published_at": "2026-08-12T09:30:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
+      "link": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
+      "snippet": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
+      "published_at": "2026-08-12T09:22:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto companies urge AI firms to give Bitcoin developers early access",
+      "link": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Bitcoin Policy Institute and other industry participants urged AI companies to offer early access to their frontier models to aid Bitcoin and open-source developers in their cybersecurity efforts.",
+      "published_at": "2026-08-12T09:03:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "One overlooked group has added $1.78 billion of selling pressure to bitcoin market",
+      "link": "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market",
+      "snippet": "Public miners are an underappreciated source of supply hitting the market right at the margin.",
+      "published_at": "2026-08-12T08:53:23+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Inside the fake crypto startup that fooled North Korean IT workers",
