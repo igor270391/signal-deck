@@ -1,12 +1,53 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T02:31:46.132753+00:00",
-  "count": 2,
+  "generated_at": "2026-08-12T04:58:01.389550+00:00",
+  "count": 5,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+      "link": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+      "snippet": "DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.",
+      "published_at": "2026-08-12T04:53:46+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "BNB",
+        "DOGE"
+      ],
+      "note": "Нейтрально щодо BTC, BNB, DOGE -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+      "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+      "snippet": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
+      "published_at": "2026-08-12T04:33:25+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Ravencoin hits record low as network exploit puts transactions at risk",
       "link": "https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Mining pools controlling most of Ravencoin’s hash rate are building a competing chain that could trigger a three-day reorganization.",
+      "published_at": "2026-08-12T01:11:51+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ravencoin hits record low as network exploit puts transactions at risk",
+      "link": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Mining pools controlling most of Ravencoin’s hash rate are building a competing chain that could trigger a three-day reorganization.",
       "published_at": "2026-08-12T01:11:51+00:00",
       "impact": "негативний",
