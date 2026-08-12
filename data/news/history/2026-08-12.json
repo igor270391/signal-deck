@@ -1,8 +1,33 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T20:58:26.197126+00:00",
-  "count": 61,
+  "generated_at": "2026-08-12T21:58:37.762071+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
+      "link": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
+      "snippet": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
+      "published_at": "2026-08-12T21:31:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
+      "link": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Hawaii will join Minnesota, Tennessee and Indiana in becoming the fourth US state to completely ban the use of cryptocurrency ATMs and kiosks in response to scams.",
+      "published_at": "2026-08-12T21:21:17+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "scam"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
