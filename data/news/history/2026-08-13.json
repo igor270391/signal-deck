@@ -1,8 +1,73 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T15:08:09.275464+00:00",
-  "count": 37,
+  "generated_at": "2026-08-13T16:10:35.800994+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+      "link": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+      "snippet": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
+      "published_at": "2026-08-13T16:05:39+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.",
+      "published_at": "2026-08-13T16:00:23+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
+      "link": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The crypto exchange operator’s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.",
+      "published_at": "2026-08-13T15:36:45+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "bullish",
+        "record high"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trezor reports data from 14K users exposed through shipping provider",
+      "link": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.",
+      "published_at": "2026-08-13T15:25:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
+      "link": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.",
+      "published_at": "2026-08-13T15:07:38+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: The crypto advice gap",
@@ -312,16 +377,16 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: S&P 500 hits record high as U.S. PPI comes in softer than forecast in July",
+      "title": "Live updates: Bitcoin stuck near $63,500 even as Fed rate hike expectations dwindle",
       "link": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
       "snippet": "An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
       "published_at": "2026-08-13T09:18:19+00:00",
-      "impact": "позитивний",
-      "coins": [],
-      "note": "Позитивний тон для загального ринку за ключовими словами.",
-      "triggers": [
-        "record high"
-      ]
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "CoinDesk",
