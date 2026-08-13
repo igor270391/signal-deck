@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-13T02:34:19.335679+00:00",
+  "generated_at": "2026-08-13T05:02:18.283868+00:00",
   "count": 67,
   "items": [
     {
@@ -414,9 +414,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
       "link": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-      "snippet": "",
+      "snippet": "A routing glitch at a major data center provider knocked nearly 29% of Solana’s staked tokens offline, bringing the network within striking distance of a full freeze, while Foundation executives…",
       "published_at": "2026-08-12T13:39:31+00:00",
       "impact": "нейтральний",
       "coins": [

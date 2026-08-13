@@ -1,8 +1,51 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T02:34:19.335679+00:00",
-  "count": 1,
+  "generated_at": "2026-08-13T05:02:18.283868+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+      "link": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.",
+      "published_at": "2026-08-13T04:15:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
+      "link": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
+      "snippet": "Futures positioning has rebuilt to levels last seen when dogecoin traded at three times today's price, and more than three accounts are betting on a rebound for every one betting against.",
+      "published_at": "2026-08-13T04:06:16+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "DOGE"
+      ],
+      "note": "Позитивний тон для DOGE за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
+      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+      "snippet": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
+      "published_at": "2026-08-13T03:39:06+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "ASX shareholder plans to sue former directors over failed blockchain project",
