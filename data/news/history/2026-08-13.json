@@ -1,14 +1,103 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T11:58:01.691941+00:00",
-  "count": 23,
+  "generated_at": "2026-08-13T13:30:11.680786+00:00",
+  "count": 30,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
+      "link": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
+      "snippet": "The tokenization-focused lender posted $226 million in quarterly revenue as blockchain loan marketplace volume jumped to $4.3 billion.",
+      "published_at": "2026-08-13T13:29:28+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
+      "link": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitmine’s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether’s price appreciation, analysts told Cointelegraph.",
+      "published_at": "2026-08-13T13:14:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
+      "link": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
+      "snippet": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
+      "published_at": "2026-08-13T13:10:43+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
+      "link": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
+      "snippet": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
+      "published_at": "2026-08-13T13:01:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "integration"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+      "link": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "MUFG’s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
+      "published_at": "2026-08-13T13:00:37+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+      "link": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+      "snippet": "Digital asset sales slumped to $32.6 billion from $58.6 billiion a year earlier, but other revenues roughly doubled year-over-year to just shy of $65 billion.",
+      "published_at": "2026-08-13T12:09:58+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
       "link": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
       "snippet": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
       "published_at": "2026-08-13T11:53:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+      "link": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The SEC said it will not pursue enforcement action if Franklin Templeton’s funds start investing cash in the asset manager’s own tokenized money market fund.",
+      "published_at": "2026-08-13T11:48:37+00:00",
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
@@ -57,7 +146,7 @@
       "source": "Cointelegraph",
       "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
       "link": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and…",
+      "snippet": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance,” but have sacrificed some of their inherent immutability and…",
       "published_at": "2026-08-13T10:50:24+00:00",
       "impact": "нейтральний",
       "coins": [],
@@ -131,9 +220,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
+      "title": "Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July",
       "link": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
-      "snippet": "Bitcoin's choppy price action as in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
+      "snippet": "An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
       "published_at": "2026-08-13T09:18:19+00:00",
       "impact": "нейтральний",
       "coins": [
