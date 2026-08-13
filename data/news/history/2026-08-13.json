@@ -1,11 +1,35 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T21:58:54.296806+00:00",
-  "count": 60,
+  "generated_at": "2026-08-13T22:55:52.705513+00:00",
+  "count": 62,
   "items": [
     {
       "source": "Decrypt",
-      "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
+      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
+      "link": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+      "snippet": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
+      "published_at": "2026-08-13T22:36:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "snippet": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
+      "published_at": "2026-08-13T22:18:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
       "link": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
       "snippet": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
       "published_at": "2026-08-13T21:45:04+00:00",
