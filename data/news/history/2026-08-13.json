@@ -1,8 +1,69 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T10:19:49.962181+00:00",
-  "count": 17,
+  "generated_at": "2026-08-13T11:58:01.691941+00:00",
+  "count": 23,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+      "link": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+      "snippet": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
+      "published_at": "2026-08-13T11:53:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
+      "link": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
+      "snippet": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
+      "published_at": "2026-08-13T11:42:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
+      "snippet": "Your day-ahead look for Aug. 13, 2026",
+      "published_at": "2026-08-13T11:35:53+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+      "snippet": "Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI report.",
+      "published_at": "2026-08-13T11:02:43+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
+      "link": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and…",
+      "published_at": "2026-08-13T10:50:24+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
@@ -17,8 +78,19 @@
       ]
     },
     {
+      "source": "CoinDesk",
+      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+      "link": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+      "snippet": "MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.",
+      "published_at": "2026-08-13T10:15:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+      "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
       "link": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
       "published_at": "2026-08-13T09:53:36+00:00",
@@ -59,7 +131,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live Markets: U.S. inflation is stickier than July’s mild CPI reading suggests",
+      "title": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
       "link": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
       "snippet": "Bitcoin's choppy price action as in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
       "published_at": "2026-08-13T09:18:19+00:00",
