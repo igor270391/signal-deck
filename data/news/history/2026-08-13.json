@@ -1,8 +1,46 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T19:15:28.659199+00:00",
-  "count": 54,
+  "generated_at": "2026-08-13T20:55:45.342271+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+      "link": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
+      "published_at": "2026-08-13T20:43:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+      "link": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "snippet": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
+      "published_at": "2026-08-13T20:30:24+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+      "link": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.",
+      "published_at": "2026-08-13T19:21:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charges",
+        "fraud"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
