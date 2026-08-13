@@ -1,8 +1,43 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T20:55:45.342271+00:00",
-  "count": 57,
+  "generated_at": "2026-08-13T21:58:54.296806+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
+      "link": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+      "snippet": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
+      "published_at": "2026-08-13T21:45:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+      "link": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+      "snippet": "6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.",
+      "published_at": "2026-08-13T21:16:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "City of Baltimore goes after prediction markets for sports betting",
+      "link": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.",
+      "published_at": "2026-08-13T21:08:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Tether completes first full financial audit, receives clean KPMG opinion",
