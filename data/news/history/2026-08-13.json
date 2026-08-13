@@ -1,8 +1,32 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T22:55:52.705513+00:00",
-  "count": 62,
+  "generated_at": "2026-08-13T23:54:45.885571+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.",
+      "published_at": "2026-08-13T23:34:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "snippet": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
+      "published_at": "2026-08-13T23:09:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
