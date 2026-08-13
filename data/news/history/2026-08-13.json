@@ -1,8 +1,32 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T06:26:19.193958+00:00",
-  "count": 8,
+  "generated_at": "2026-08-13T08:30:51.692113+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+      "link": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "An $18.8 million unrealized digital asset loss and weaker trading margins pushed BitGo into the red in the second quarter.",
+      "published_at": "2026-08-13T07:42:59+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+      "link": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
+      "published_at": "2026-08-13T07:14:19+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -46,7 +70,7 @@
       "source": "Cointelegraph",
       "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
       "link": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
+      "snippet": "Bitwise’s Matt Hougan said he expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
       "published_at": "2026-08-13T05:01:42+00:00",
       "impact": "нейтральний",
       "coins": [],
