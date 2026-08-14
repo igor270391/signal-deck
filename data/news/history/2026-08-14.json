@@ -1,8 +1,62 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T17:04:45.520139+00:00",
-  "count": 33,
+  "generated_at": "2026-08-14T18:00:56.018219+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "snippet": "Bullish, Coinbase, and Circle were among the names lower on Friday after the regulatory setback.",
+      "published_at": "2026-08-14T17:48:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
+      "link": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
+      "snippet": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
+      "published_at": "2026-08-14T17:46:06+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "link": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
+      "snippet": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
+      "published_at": "2026-08-14T17:14:02+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "link": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations.",
+      "published_at": "2026-08-14T17:03:38+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
