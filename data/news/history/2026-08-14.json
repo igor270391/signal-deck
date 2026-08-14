@@ -1,8 +1,131 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T13:25:03.747343+00:00",
-  "count": 21,
+  "generated_at": "2026-08-14T15:02:47.861976+00:00",
+  "count": 30,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
+      "link": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
+      "snippet": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
+      "published_at": "2026-08-14T14:55:29+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-14T14:40:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-time highs.",
+      "published_at": "2026-08-14T14:38:27+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "all-time high"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+      "link": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, while Ether ETF positions and several crypto-linked stocks also increased.",
+      "published_at": "2026-08-14T14:22:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+      "link": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadrupled its Ether ETF position in the second quarter.",
+      "published_at": "2026-08-14T14:14:06+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "link": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "snippet": "The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.",
+      "published_at": "2026-08-14T14:12:34+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
+      "link": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
+      "snippet": "Bank Leumi customers will be able to trade bitcoin, ether and solana through the bank’s investment app from early 2027.",
+      "published_at": "2026-08-14T13:51:37+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Негативний тон для BTC, ETH, SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
+      "link": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance said it will stop processing transactions for involving 11 crypto platforms, including HTX, which was recently listed in the EU’s sanctions package targeting Russia.",
+      "published_at": "2026-08-14T13:36:34+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana’s fee overhaul increases burn and makes resource hogs pay",
+      "link": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Solana’s proposed fee overhaul would make resource-heavy transactions more expensive while cutting costs for simpler activity, and it increases the amount of SOL burned.",
+      "published_at": "2026-08-14T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
