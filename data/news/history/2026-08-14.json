@@ -1,8 +1,60 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T18:00:56.018219+00:00",
-  "count": 37,
+  "generated_at": "2026-08-14T19:07:34.200178+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
+      "link": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+      "snippet": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
+      "published_at": "2026-08-14T19:01:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "link": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
+      "published_at": "2026-08-14T18:57:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Нейтрально щодо BTC, ETH, SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
+      "published_at": "2026-08-14T18:44:21+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
+      "link": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
+      "snippet": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
+      "published_at": "2026-08-14T18:31:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
