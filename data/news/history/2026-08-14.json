@@ -1,8 +1,19 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T19:56:45.287957+00:00",
-  "count": 41,
+  "generated_at": "2026-08-14T20:41:55.070897+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+      "link": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+      "snippet": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
+      "published_at": "2026-08-14T20:01:13+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
