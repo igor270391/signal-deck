@@ -1,8 +1,21 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T16:01:57.546912+00:00",
-  "count": 32,
+  "generated_at": "2026-08-14T17:04:45.520139+00:00",
+  "count": 33,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+      "link": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
+      "snippet": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
+      "published_at": "2026-08-14T16:23:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
@@ -317,7 +330,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
+      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
       "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
       "snippet": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
       "published_at": "2026-08-14T08:51:48+00:00",
