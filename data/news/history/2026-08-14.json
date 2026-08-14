@@ -1,8 +1,42 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T15:02:47.861976+00:00",
-  "count": 30,
+  "generated_at": "2026-08-14T16:01:57.546912+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
+      "link": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
+      "published_at": "2026-08-14T15:41:49+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Негативний тон для BTC, ETH, SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
+      "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
+      "published_at": "2026-08-14T15:29:13+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows",
+        "rebound"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
@@ -283,7 +317,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
+      "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
       "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
       "snippet": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
       "published_at": "2026-08-14T08:51:48+00:00",
