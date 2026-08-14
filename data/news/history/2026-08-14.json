@@ -1,8 +1,21 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T02:32:30.194084+00:00",
-  "count": 1,
+  "generated_at": "2026-08-14T04:58:48.620246+00:00",
+  "count": 2,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
+      "link": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BA Labs had previously classified a proposed NUSD integration as higher risk because of its counterparty, operational and liquidity exposure.",
+      "published_at": "2026-08-14T04:44:31+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "integration"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
