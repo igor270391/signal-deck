@@ -1,8 +1,34 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T04:58:48.620246+00:00",
-  "count": 2,
+  "generated_at": "2026-08-14T06:24:45.535064+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+      "snippet": "A new consultation targets \"non-operating companies\" broadly. Two familiar names still land on the deletion list.",
+      "published_at": "2026-08-14T06:20:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "link": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "snippet": "According to Financial Times, JPMorgan ended its banking relationship with Polymarket in late 2025 over regulatory concerns.",
+      "published_at": "2026-08-14T05:04:52+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
