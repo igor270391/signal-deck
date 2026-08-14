@@ -1,8 +1,57 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T20:41:55.070897+00:00",
-  "count": 42,
+  "generated_at": "2026-08-14T21:35:57.409249+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+      "link": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
+      "published_at": "2026-08-14T21:22:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ireland plans industry standards for illicit crypto use",
+      "link": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
+      "published_at": "2026-08-14T21:08:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "link": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+      "snippet": "The Office of the Comptroller of the Currency said it granted \"preliminary conditional approval\" to World Liberty Trust Co. on Friday.",
+      "published_at": "2026-08-14T21:05:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
+      "link": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
+      "snippet": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
+      "published_at": "2026-08-14T21:03:35+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "scam"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
