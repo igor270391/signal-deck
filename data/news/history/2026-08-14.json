@@ -1,8 +1,19 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T23:32:32.333937+00:00",
-  "count": 46,
+  "generated_at": "2026-08-15T01:42:18.818555+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+      "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+      "snippet": "Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.",
+      "published_at": "2026-08-14T23:41:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
