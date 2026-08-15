@@ -1,8 +1,19 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T13:39:56.534992+00:00",
-  "count": 7,
+  "generated_at": "2026-08-15T14:33:40.962977+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+      "link": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+      "snippet": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.",
+      "published_at": "2026-08-15T14:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
