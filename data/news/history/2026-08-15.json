@@ -1,8 +1,58 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T14:33:40.962977+00:00",
-  "count": 8,
+  "generated_at": "2026-08-15T15:32:30.732959+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+      "link": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
+      "snippet": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
+      "published_at": "2026-08-15T15:21:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+      "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+      "snippet": "Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,000.",
+      "published_at": "2026-08-15T15:12:29+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "link": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
+      "snippet": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
+      "published_at": "2026-08-15T15:01:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-15T14:40:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
