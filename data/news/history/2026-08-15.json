@@ -1,8 +1,33 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T16:37:02.597387+00:00",
-  "count": 14,
+  "generated_at": "2026-08-15T17:30:57.297661+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tokenized stock holders more than double as monthly volume surges",
+      "link": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tokenized equities reached 1.31 million holders over the past month, as monthly transfer volume surged 179% to $23.13 billion and distributed value rose 5.9% to $2.38 billion.",
+      "published_at": "2026-08-15T17:26:43+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+      "link": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+      "snippet": "Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+      "published_at": "2026-08-15T17:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
