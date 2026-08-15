@@ -1,8 +1,19 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T19:31:00.948546+00:00",
-  "count": 16,
+  "generated_at": "2026-08-15T20:34:38.150743+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "link": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
+      "published_at": "2026-08-15T19:27:29+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Tokenized stock holders more than double as monthly volume surges",
