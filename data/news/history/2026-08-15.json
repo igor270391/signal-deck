@@ -1,8 +1,23 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T11:31:07.554061+00:00",
-  "count": 2,
+  "generated_at": "2026-08-15T12:53:32.854202+00:00",
+  "count": 3,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+      "link": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+      "snippet": "Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.",
+      "published_at": "2026-08-15T12:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
