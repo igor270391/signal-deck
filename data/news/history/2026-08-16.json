@@ -1,8 +1,30 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T15:32:24.607366+00:00",
-  "count": 7,
+  "generated_at": "2026-08-16T16:37:26.546423+00:00",
+  "count": 9,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+      "link": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+      "snippet": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
+      "published_at": "2026-08-16T16:00:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "snippet": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
+      "published_at": "2026-08-16T16:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
