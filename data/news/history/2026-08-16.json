@@ -1,8 +1,36 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T11:30:40.832060+00:00",
-  "count": 1,
+  "generated_at": "2026-08-16T12:56:48.317371+00:00",
+  "count": 3,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+      "link": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.",
+      "published_at": "2026-08-16T12:48:09+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "snippet": "Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.",
+      "published_at": "2026-08-16T12:00:00+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
