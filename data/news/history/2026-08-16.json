@@ -1,8 +1,21 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T12:56:48.317371+00:00",
-  "count": 3,
+  "generated_at": "2026-08-16T13:40:51.092048+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "snippet": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground.",
+      "published_at": "2026-08-16T13:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
