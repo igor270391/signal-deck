@@ -1,0 +1,22 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T11:30:40.832060+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "link": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
+      "published_at": "2026-08-16T11:12:51+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    }
+  ]
+}
