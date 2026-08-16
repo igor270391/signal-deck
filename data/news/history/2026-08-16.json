@@ -1,8 +1,19 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T17:29:14.727148+00:00",
-  "count": 9,
+  "generated_at": "2026-08-16T18:41:58.590482+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "snippet": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
+      "published_at": "2026-08-16T18:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
