@@ -1,8 +1,49 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T13:40:51.092048+00:00",
-  "count": 4,
+  "generated_at": "2026-08-16T14:33:23.282602+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "snippet": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
+      "published_at": "2026-08-16T14:02:32+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+      "link": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+      "snippet": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
+      "published_at": "2026-08-16T14:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "banned"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "link": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "snippet": "Fraudsters impersonating regulators and licensed crypto exchanges to steal funds from users forced to migrate their accounts after the EU's MiCA deadline are on the rise.",
+      "published_at": "2026-08-16T14:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud",
+        "scam"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
