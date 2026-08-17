@@ -1,8 +1,33 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T20:38:10.763498+00:00",
-  "count": 50,
+  "generated_at": "2026-08-17T21:35:56.669051+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "OCC approves Trump family crypto company for trust charter",
+      "link": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US financial regulator gave conditional approval for World Liberty Financial’s charter bid as ten Democrats signed onto a bill to “prevent corruption in banking applications.“",
+      "published_at": "2026-08-17T21:17:30+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval",
+        "approves"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+      "link": "https://decrypt.co/375821/prediction-fed-rate-change-september",
+      "snippet": "Traders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
+      "published_at": "2026-08-17T21:16:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
