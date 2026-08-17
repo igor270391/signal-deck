@@ -1,8 +1,32 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T21:35:56.669051+00:00",
-  "count": 52,
+  "generated_at": "2026-08-17T22:36:03.781049+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "link": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+      "snippet": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
+      "published_at": "2026-08-17T22:16:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "link": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "snippet": "Payward will use Anthropic’s cybersecurity model to hunt vulnerabilities and share open-source findings.",
+      "published_at": "2026-08-17T22:12:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "OCC approves Trump family crypto company for trust charter",
