@@ -1,13 +1,65 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T08:56:37.047572+00:00",
-  "count": 7,
+  "generated_at": "2026-08-17T09:54:47.882562+00:00",
+  "count": 11,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Bitpanda fined in Austria’s first published MiCA penalty",
+      "link": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
+      "published_at": "2026-08-17T09:31:47+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach",
+        "fine",
+        "fined"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
+      "link": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
+      "snippet": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
+      "published_at": "2026-08-17T09:31:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+      "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "link": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
+      "snippet": "Binance says it cooperates with lawful requests, despite exiting the Russian market in 2023 to improve its compliance strategy.",
+      "published_at": "2026-08-17T09:16:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+      "snippet": "Your look at what's coming in the week starting Aug. 17",
+      "published_at": "2026-08-17T09:13:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
       "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
-      "snippet": "US spot ETFs took in more than 14,000 BTC in five days and Q3 flows have flipped positive, ARP Digital's Yusuf Fakhro says, fresh demand landing in the thinnest, most sold-out market in years.",
+      "snippet": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are…",
       "published_at": "2026-08-17T08:38:26+00:00",
       "impact": "нейтральний",
       "coins": [
