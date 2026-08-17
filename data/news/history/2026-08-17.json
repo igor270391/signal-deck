@@ -1,8 +1,32 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T19:37:56.565037+00:00",
-  "count": 48,
+  "generated_at": "2026-08-17T20:38:10.763498+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+      "link": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+      "snippet": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+      "published_at": "2026-08-17T20:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+      "link": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+      "snippet": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
+      "published_at": "2026-08-17T19:59:18+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
