@@ -1,8 +1,35 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T16:39:57.120784+00:00",
-  "count": 41,
+  "generated_at": "2026-08-17T17:37:24.328981+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+      "link": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The regulatory review could shape an emerging market that lets companies and investors trade and hedge the cost of increasingly scarce AI computing power.",
+      "published_at": "2026-08-17T17:11:39+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "link": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+      "snippet": "Sheldon Lee said a Chinese-language X account making the claims was hacked. Users want wallets, assets and liabilities disclosed.",
+      "published_at": "2026-08-17T16:40:08+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
