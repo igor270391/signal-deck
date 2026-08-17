@@ -1,8 +1,34 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T07:11:57.640106+00:00",
-  "count": 5,
+  "generated_at": "2026-08-17T08:56:37.047572+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+      "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "snippet": "US spot ETFs took in more than 14,000 BTC in five days and Q3 flows have flipped positive, ARP Digital's Yusuf Fakhro says, fresh demand landing in the thinnest, most sold-out market in years.",
+      "published_at": "2026-08-17T08:38:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
+      "link": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
+      "snippet": "Soft economic data has Goldman Sachs doubting a September rate increase, offering good news for bitcoin bulls.",
+      "published_at": "2026-08-17T08:16:11+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
@@ -46,7 +72,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "title": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
       "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
       "snippet": "Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.",
       "published_at": "2026-08-17T04:14:00+00:00",
