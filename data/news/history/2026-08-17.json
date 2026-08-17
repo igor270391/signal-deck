@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T04:55:25.580824+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+      "link": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+      "snippet": "Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.",
+      "published_at": "2026-08-17T04:43:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges",
+        "rebound"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+      "snippet": "Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.",
+      "published_at": "2026-08-17T04:14:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо BTC, ETH, SOL, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
+      "link": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The sealed complaint leaves Chainalysis’ specific objections and requested remedy undisclosed as briefing continues.",
+      "published_at": "2026-08-17T03:42:48+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    }
+  ]
+}
