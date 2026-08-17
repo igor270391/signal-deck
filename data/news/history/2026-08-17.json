@@ -1,8 +1,35 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T10:43:02.105168+00:00",
-  "count": 14,
+  "generated_at": "2026-08-17T11:36:23.695247+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+      "snippet": "Your day-ahead look for Aug. 17, 2026",
+      "published_at": "2026-08-17T11:28:41+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
+      "link": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
+      "snippet": "The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.",
+      "published_at": "2026-08-17T10:52:31+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine",
+        "fined"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
@@ -120,6 +147,17 @@
         "BTC"
       ],
       "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
+      "link": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
+      "published_at": "2026-08-17T08:15:01+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
