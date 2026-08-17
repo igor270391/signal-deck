@@ -1,8 +1,32 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T05:45:05.809234+00:00",
-  "count": 3,
+  "generated_at": "2026-08-17T07:11:57.640106+00:00",
+  "count": 5,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
+      "link": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.",
+      "published_at": "2026-08-17T05:52:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "snippet": "The market may be facing a dangerous liquidity mismatch as futures open interest outpaces trading volume by a significant margin.",
+      "published_at": "2026-08-17T05:51:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
