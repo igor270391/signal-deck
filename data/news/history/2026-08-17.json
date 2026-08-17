@@ -1,8 +1,19 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T22:36:03.781049+00:00",
-  "count": 54,
+  "generated_at": "2026-08-17T23:32:22.908390+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+      "snippet": "Payward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
+      "published_at": "2026-08-17T22:35:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
