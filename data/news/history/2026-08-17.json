@@ -1,8 +1,36 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T17:37:24.328981+00:00",
-  "count": 43,
+  "generated_at": "2026-08-17T18:53:56.361135+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
+      "link": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
+      "snippet": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
+      "published_at": "2026-08-17T18:29:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
+      "link": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
+      "snippet": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
+      "published_at": "2026-08-17T18:19:46+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
