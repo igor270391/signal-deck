@@ -1,8 +1,32 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T14:39:20.429012+00:00",
-  "count": 33,
+  "generated_at": "2026-08-17T15:35:18.039363+00:00",
+  "count": 35,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "link": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+      "snippet": "The protocol pioneered decentralized finance lending, but assets locked have tumbled from a peak five years ago. Now it's looking to attract institutions after retail traders lost interest.",
+      "published_at": "2026-08-17T15:32:30+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "snippet": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress completed last year.",
+      "published_at": "2026-08-17T14:44:29+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "The Coldcard hack proves reputation is not a security model",
