@@ -1,8 +1,49 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T09:54:47.882562+00:00",
-  "count": 11,
+  "generated_at": "2026-08-17T10:43:02.105168+00:00",
+  "count": 14,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+      "link": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
+      "snippet": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.",
+      "published_at": "2026-08-17T10:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+      "link": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
+      "snippet": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
+      "published_at": "2026-08-17T10:13:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "collapse",
+        "bankrupt"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
+      "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
+      "snippet": "The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflow streak and 10% odds on landmark crypto legislation leave markets searching for direction.",
+      "published_at": "2026-08-17T09:59:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitpanda fined in Austria’s first published MiCA penalty",
