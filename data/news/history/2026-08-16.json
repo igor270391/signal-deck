@@ -1,8 +1,19 @@
 {
   "date": "2026-08-16",
-  "generated_at": "2026-08-16T23:30:16.429169+00:00",
-  "count": 10,
+  "generated_at": "2026-08-17T01:48:03.070859+00:00",
+  "count": 11,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.",
+      "published_at": "2026-08-16T23:54:50+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "The SEC meeting that wasn't: State of Crypto",
