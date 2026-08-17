@@ -1,8 +1,82 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T15:35:18.039363+00:00",
-  "count": 35,
+  "generated_at": "2026-08-17T16:39:57.120784+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+      "link": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially without finalized regulations from US government agencies.",
+      "published_at": "2026-08-17T16:29:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
+      "link": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
+      "snippet": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act…",
+      "published_at": "2026-08-17T16:27:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price strength saw BTC/USD pass $64,000 on 2% daily gains as gold pushed higher while US stocks wobbled on fresh US-Iran rhetoric.",
+      "published_at": "2026-08-17T16:16:40+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+      "link": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tom Lee’s Ethereum treasury company keeps buying the second-biggest crypto through the downturn, while more than 5 million staked ETH is projected to generate $287 million in annual rewards.",
+      "published_at": "2026-08-17T16:04:32+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+      "link": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+      "snippet": "Stripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.",
+      "published_at": "2026-08-17T15:54:29+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
+      "link": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+      "snippet": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
+      "published_at": "2026-08-17T15:47:59+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
@@ -357,7 +431,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
+      "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
       "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
       "snippet": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are…",
       "published_at": "2026-08-17T08:38:26+00:00",
