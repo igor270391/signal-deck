@@ -1,8 +1,48 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T13:49:04.376505+00:00",
-  "count": 30,
+  "generated_at": "2026-08-17T14:39:20.429012+00:00",
+  "count": 33,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The Coldcard hack proves reputation is not a security model",
+      "link": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
+      "snippet": "A community built on verification spent five years outsourcing its judgment to one man, writes Foundation CEO Zach Herbert.",
+      "published_at": "2026-08-17T14:09:46+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+      "link": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
+      "snippet": "The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.",
+      "published_at": "2026-08-17T14:04:21+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
+      "link": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
+      "snippet": "Crypto’s favorite maxim, “don’t trust, verify” wasn’t followed in the case of Coldcard’s code.",
+      "published_at": "2026-08-17T13:57:11+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
@@ -293,7 +333,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+      "title": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
       "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
       "snippet": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are…",
       "published_at": "2026-08-17T08:38:26+00:00",
