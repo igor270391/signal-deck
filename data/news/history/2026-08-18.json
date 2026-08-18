@@ -1,8 +1,46 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T16:42:27.914126+00:00",
-  "count": 41,
+  "generated_at": "2026-08-18T17:37:53.615514+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+      "link": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
+      "snippet": "The bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.",
+      "published_at": "2026-08-18T17:19:44+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "bankrupt"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
+      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
+      "snippet": "Bitcoin's price swings have hit a cycle low, squeezed by a market tug-of-war with no clear winner. The traders who once lived off its chaos have taken their risk appetite elsewhere.",
+      "published_at": "2026-08-18T17:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
+      "link": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
+      "published_at": "2026-08-18T16:49:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
