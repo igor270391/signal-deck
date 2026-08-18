@@ -1,8 +1,60 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T19:37:30.433613+00:00",
-  "count": 50,
+  "generated_at": "2026-08-18T20:34:32.752564+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-18T20:21:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
+      "link": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+      "snippet": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
+      "published_at": "2026-08-18T20:00:25+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
+      "link": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A Florida representative not running for reelection who voted against the GENIUS and CLARITY Acts has endorsed a Democratic candidate, possibly leading to PAC-funded negative ads.",
+      "published_at": "2026-08-18T19:54:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
+      "link": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The $33.3 million Winklevoss Capital deal expands Cypherpunk’s ZEC strategy as it targets 5% ownership of the cryptocurrency’s circulating supply.",
+      "published_at": "2026-08-18T19:31:16+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches",
+        "expands"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
@@ -106,7 +158,7 @@
       "source": "Cointelegraph",
       "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
       "link": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
+      "snippet": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
       "published_at": "2026-08-18T16:49:58+00:00",
       "impact": "нейтральний",
       "coins": [],
@@ -349,19 +401,6 @@
       "triggers": [
         "expands"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-18T12:53:39+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Decrypt",
