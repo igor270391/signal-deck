@@ -1,8 +1,79 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T11:35:54.241319+00:00",
-  "count": 21,
+  "generated_at": "2026-08-18T13:01:34.842088+00:00",
+  "count": 25,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+      "link": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+      "snippet": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, which include ether, solana and stablecoin USDT.",
+      "published_at": "2026-08-18T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Позитивний тон для BTC, ETH, SOL за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-18T12:53:39+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
+      "link": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
+      "snippet": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
+      "published_at": "2026-08-18T12:37:02+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+      "link": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+      "snippet": "Visa’s request for product (RFP) talks about the need to support a range of stablecoins.",
+      "published_at": "2026-08-18T12:20:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
+      "link": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+      "snippet": "Sending ETH to a brand-new address will cost more than sending to an existing one, and software built around a flat fee will get the sum wrong.",
+      "published_at": "2026-08-18T12:17:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
@@ -134,9 +205,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+      "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
       "link": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-      "snippet": "The 30-year Treasury yield hit its highest since 2007 and Brent topped $91 as the US-Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
+      "snippet": "The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
       "published_at": "2026-08-18T08:16:11+00:00",
       "impact": "нейтральний",
       "coins": [
@@ -157,19 +228,6 @@
       "triggers": [
         "exploit"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-18T06:09:35+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
