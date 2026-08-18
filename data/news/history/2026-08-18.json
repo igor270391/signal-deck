@@ -1,8 +1,59 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T10:39:56.225311+00:00",
-  "count": 17,
+  "generated_at": "2026-08-18T11:35:54.241319+00:00",
+  "count": 21,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+      "link": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+      "snippet": "The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.",
+      "published_at": "2026-08-18T11:31:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+      "snippet": "Your day-ahead look for Aug. 18 2026",
+      "published_at": "2026-08-18T11:21:51+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "link": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+      "snippet": "Regulators rejected Polymarket's defense regarding its P2P nature, arguing the platform manages market rules and facilitates crypto-based gambling activity.",
+      "published_at": "2026-08-18T11:05:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken launches US-listed stock trading for EEA customers",
+      "link": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
+      "published_at": "2026-08-18T10:53:21+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
