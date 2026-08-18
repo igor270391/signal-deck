@@ -1,8 +1,77 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T13:53:30.085974+00:00",
-  "count": 29,
+  "generated_at": "2026-08-18T14:43:36.237619+00:00",
+  "count": 34,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
+      "link": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
+      "snippet": "Miners with AI and high-performance computing contracts have commanded higher valuations as declining bitcoin prices and hashprice squeeze pure-play operators.",
+      "published_at": "2026-08-18T14:41:31+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
+      "link": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
+      "snippet": "Long-term borrowing costs are reaching multi-decade highs as U.S. debt approaches $40 trillion and AI hyperscalers accelerate bond issuance.",
+      "published_at": "2026-08-18T14:40:41+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
+      "link": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
+      "snippet": "The deal involves Metaplanet contributing 2,100 bitcoin and $2.5 million in cash, valuing the initial investment at $134.6 million.",
+      "published_at": "2026-08-18T14:35:08+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
+      "link": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
+      "snippet": "The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
+      "published_at": "2026-08-18T14:03:34+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+      "link": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
+      "snippet": "Following institutional trials, the HKD-pegged asset is being put to work to capture part of Hong Kong's $49 billion trade corridor with the United Arab Emirates",
+      "published_at": "2026-08-18T14:03:27+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
@@ -256,7 +325,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
+      "title": "Live updates: Bitcoin tepidly on the rise as stocks slip",
       "link": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
       "snippet": "The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
       "published_at": "2026-08-18T08:16:11+00:00",
