@@ -1,8 +1,60 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T08:49:39.718093+00:00",
-  "count": 11,
+  "generated_at": "2026-08-18T09:44:44.094057+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
+      "published_at": "2026-08-18T09:31:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+      "link": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+      "snippet": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto…",
+      "published_at": "2026-08-18T09:31:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach",
+        "fine",
+        "fined"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "China adds 8 banks to digital yuan network as operator count hits 30",
+      "link": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
+      "published_at": "2026-08-18T08:48:51+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea moves to block Polymarket over gambling concerns",
+      "link": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
+      "published_at": "2026-08-18T08:39:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
