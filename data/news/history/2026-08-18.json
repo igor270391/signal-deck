@@ -1,8 +1,67 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T15:42:42.788278+00:00",
-  "count": 37,
+  "generated_at": "2026-08-18T16:42:27.914126+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+      "link": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.",
+      "published_at": "2026-08-18T16:21:58+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+      "link": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+      "snippet": "The exchange said it is the first crypto company to offer European customers both traditional U.S. equities and tokenized versions of those assets on a single regulated platform.",
+      "published_at": "2026-08-18T16:08:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+      "link": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
+      "published_at": "2026-08-18T15:59:54+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH",
+        "SOL",
+        "AVAX"
+      ],
+      "note": "Позитивний тон для ETH, SOL, AVAX за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+      "link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+      "snippet": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
+      "published_at": "2026-08-18T15:56:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "launch"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
