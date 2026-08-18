@@ -1,8 +1,34 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T09:44:44.094057+00:00",
-  "count": 15,
+  "generated_at": "2026-08-18T10:39:56.225311+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+      "snippet": "BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with the FOMC's July meeting minutes and a White House crypto summit both due Wednesday.",
+      "published_at": "2026-08-18T10:38:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
+      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+      "snippet": "BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging behind U.S. stocks.",
+      "published_at": "2026-08-18T10:01:23+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
