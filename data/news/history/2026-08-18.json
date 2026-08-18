@@ -1,8 +1,46 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T13:01:34.842088+00:00",
-  "count": 25,
+  "generated_at": "2026-08-18T13:53:30.085974+00:00",
+  "count": 29,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+      "link": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
+      "published_at": "2026-08-18T13:41:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+      "link": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
+      "snippet": "The Wall Street bank plans to let clients hold bitcoin alongside traditional assets through its new Custody+ platform.",
+      "published_at": "2026-08-18T13:25:13+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto’s easy-money era is ending in a wave of failures",
+      "link": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
+      "snippet": "Inflated valuations and weak business models are driving crypto’s shakeout, Global Settlement Network CEO Ryan Kirkley says.",
+      "published_at": "2026-08-18T13:22:40+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
@@ -16,6 +54,19 @@
         "SOL"
       ],
       "note": "Позитивний тон для BTC, ETH, SOL за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
+      "link": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
+      "published_at": "2026-08-18T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
       "triggers": [
         "expands"
       ]
