@@ -1,8 +1,21 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T03:06:45.866008+00:00",
-  "count": 1,
+  "generated_at": "2026-08-18T03:56:23.585796+00:00",
+  "count": 2,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+      "link": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
+      "published_at": "2026-08-18T03:21:26+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charges"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
