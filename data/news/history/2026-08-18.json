@@ -1,8 +1,30 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T22:34:58.297436+00:00",
-  "count": 59,
+  "generated_at": "2026-08-18T23:32:14.479702+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+      "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+      "snippet": "Vlad Tenev says tokenized stocks could bring real-time settlement and 24/7 trading, but U.S. rules remain a hurdle.",
+      "published_at": "2026-08-18T23:11:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+      "link": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+      "snippet": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
+      "published_at": "2026-08-18T22:56:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
