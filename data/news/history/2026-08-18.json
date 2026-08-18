@@ -1,11 +1,41 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T05:39:16.877261+00:00",
-  "count": 7,
+  "generated_at": "2026-08-18T06:58:57.094468+00:00",
+  "count": 9,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-18T06:09:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
       "source": "CoinDesk",
-      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "title": "The bitcoin price level where leveraged bulls could get whacked",
+      "link": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "snippet": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
+      "published_at": "2026-08-18T05:55:43+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked",
+        "liquidation"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
       "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
       "snippet": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
       "published_at": "2026-08-18T05:34:32+00:00",
