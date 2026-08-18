@@ -1,8 +1,52 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T04:47:06.865635+00:00",
-  "count": 4,
+  "generated_at": "2026-08-18T05:39:16.877261+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "snippet": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
+      "published_at": "2026-08-18T05:34:32+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "note": "Негативний тон для ETH, XRP за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "snippet": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
+      "published_at": "2026-08-18T05:18:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
+      "published_at": "2026-08-18T05:12:18+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin climbs above $64,000 while most majors slip",
