@@ -1,8 +1,34 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T03:56:23.585796+00:00",
-  "count": 2,
+  "generated_at": "2026-08-18T04:47:06.865635+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs above $64,000 while most majors slip",
+      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+      "snippet": "Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.",
+      "published_at": "2026-08-18T04:32:38+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
+      "published_at": "2026-08-18T04:11:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
