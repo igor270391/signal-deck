@@ -1,8 +1,30 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T21:34:50.646565+00:00",
-  "count": 57,
+  "generated_at": "2026-08-18T22:34:58.297436+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+      "link": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+      "snippet": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
+      "published_at": "2026-08-18T22:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+      "link": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+      "snippet": "A tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
+      "published_at": "2026-08-18T21:49:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
@@ -18,7 +40,7 @@
       "source": "Cointelegraph",
       "title": "SEC proposes new crypto rules in absence of CLARITY Act",
       "link": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as“investment contracts” and certain exemptions for token issuance.",
+      "snippet": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as “investment contracts” and certain exemptions for token issuance.",
       "published_at": "2026-08-18T21:24:15+00:00",
       "impact": "нейтральний",
       "coins": [],
