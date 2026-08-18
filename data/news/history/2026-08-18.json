@@ -1,8 +1,43 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T18:52:42.236193+00:00",
-  "count": 47,
+  "generated_at": "2026-08-18T19:37:30.433613+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+      "link": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
+      "snippet": "Traders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.",
+      "published_at": "2026-08-18T19:15:26+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+      "link": "https://www.coindesk.com/policy/2026/08/18/r",
+      "snippet": "The Securities and Exchange Commission issued the \"Regulation Crypto\" proposal after having cancelled a meeting days before meant to vote on it.",
+      "published_at": "2026-08-18T19:09:33+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "link": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "snippet": "This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifically on security grounds.",
+      "published_at": "2026-08-18T18:57:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
