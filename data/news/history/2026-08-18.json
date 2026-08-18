@@ -1,8 +1,45 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T17:37:53.615514+00:00",
-  "count": 44,
+  "generated_at": "2026-08-18T18:52:42.236193+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+      "link": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+      "snippet": "WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
+      "published_at": "2026-08-18T18:36:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+      "link": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
+      "snippet": "The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.",
+      "published_at": "2026-08-18T18:06:42+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+      "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
+      "published_at": "2026-08-18T17:39:37+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
