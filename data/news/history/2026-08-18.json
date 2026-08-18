@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T01:43:10.689970+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+      "link": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
+      "published_at": "2026-08-18T01:28:37+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    }
+  ]
+}
