@@ -1,8 +1,49 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T17:36:28.759366+00:00",
-  "count": 48,
+  "generated_at": "2026-08-19T18:47:16.362982+00:00",
+  "count": 51,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+      "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+      "snippet": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+      "published_at": "2026-08-19T18:20:35+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "exploited",
+        "stolen"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+      "link": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+      "snippet": "In a race that drew criticism to crypto's leading political action committee for featuring fake headlines in ads, Fairshake's expensive effort fell short.",
+      "published_at": "2026-08-19T18:10:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "link": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
+      "published_at": "2026-08-19T17:34:10+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "OCC head promises final GENIUS rules by November",
