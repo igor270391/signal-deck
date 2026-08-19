@@ -1,11 +1,37 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T16:42:57.750582+00:00",
-  "count": 46,
+  "generated_at": "2026-08-19T17:36:28.759366+00:00",
+  "count": 48,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "OCC head promises final GENIUS rules by November",
+      "link": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.",
+      "published_at": "2026-08-19T17:00:01+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
       "source": "Decrypt",
-      "title": "Coinbase's Base Is Betting Big on AI Agents With $100K Startup Accelerator",
+      "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
+      "link": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
+      "snippet": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
+      "published_at": "2026-08-19T16:54:46+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "breakthrough"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
       "link": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
       "snippet": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
       "published_at": "2026-08-19T16:31:04+00:00",
