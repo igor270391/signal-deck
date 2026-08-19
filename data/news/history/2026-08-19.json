@@ -1,8 +1,84 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T14:45:02.955938+00:00",
-  "count": 32,
+  "generated_at": "2026-08-19T15:42:41.964502+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
+      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
+      "snippet": "Bitcoin is close to forming a pattern that analysts say could signal prices rising to as high as $76,000.",
+      "published_at": "2026-08-19T15:22:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+      "link": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
+      "snippet": "COIN and BLSH rose about 8% and CRCL gained nearly 10% ahead of a key procedural vote scheduled for Sept. 15.",
+      "published_at": "2026-08-19T15:22:29+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Injective receives SEC transfer agent registration for institutional services arm",
+      "link": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.",
+      "published_at": "2026-08-19T15:19:21+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says",
+      "link": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
+      "snippet": "AI agents could boost crypto activity, but much of the value may bypass blockchains and their tokens.",
+      "published_at": "2026-08-19T14:59:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
+      "snippet": "In this week's Crypto Long & Short, Solstice Finance's David Plisek argues that most of the money lost in DeFi this spring wasn't taken by hackers but by yield strategies that quietly stopped…",
+      "published_at": "2026-08-19T14:57:35+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
+      "link": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
+      "snippet": "The cross-border transaction is Swift’s first in a pilot project as it tests settlement in its push to remain relevant as stablecoins and tokenized deposits become widely used worldwide.",
+      "published_at": "2026-08-19T14:50:33+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
