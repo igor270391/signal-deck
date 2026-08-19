@@ -1,8 +1,122 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T15:42:41.964502+00:00",
-  "count": 38,
+  "generated_at": "2026-08-19T16:42:57.750582+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Coinbase's Base Is Betting Big on AI Agents With $100K Startup Accelerator",
+      "link": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
+      "snippet": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
+      "published_at": "2026-08-19T16:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+      "link": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.",
+      "published_at": "2026-08-19T16:30:12+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
+      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
+      "snippet": "BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.",
+      "published_at": "2026-08-19T16:18:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Позитивний тон для BTC, ETH, SOL за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+      "link": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
+      "snippet": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
+      "published_at": "2026-08-19T16:10:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+      "link": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+      "snippet": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
+      "published_at": "2026-08-19T16:00:06+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "integration"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
+      "published_at": "2026-08-19T16:00:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
+      "link": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.",
+      "published_at": "2026-08-19T15:50:58+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
+      "published_at": "2026-08-19T15:44:09+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
