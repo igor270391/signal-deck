@@ -1,8 +1,25 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T20:39:12.961038+00:00",
-  "count": 58,
+  "generated_at": "2026-08-19T21:36:26.034126+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+      "link": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
+      "published_at": "2026-08-19T20:33:51+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "integrates",
+        "integration"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
