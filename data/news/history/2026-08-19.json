@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T06:59:19.522802+00:00",
+  "generated_at": "2026-08-19T07:48:19.801743+00:00",
   "count": 7,
   "items": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
       "link": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
       "snippet": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
       "published_at": "2026-08-19T05:45:27+00:00",
@@ -60,18 +60,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+      "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
       "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
       "snippet": "Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.",
       "published_at": "2026-08-19T04:25:42+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC",
-        "ETH",
         "SOL",
         "BNB"
       ],
-      "note": "Нейтрально щодо BTC, ETH, SOL, BNB -- прямого сигналу на ціну за ключовими словами не видно.",
+      "note": "Нейтрально щодо BTC, SOL, BNB -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
