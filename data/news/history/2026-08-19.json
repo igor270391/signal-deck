@@ -1,8 +1,30 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T13:54:37.338325+00:00",
-  "count": 30,
+  "generated_at": "2026-08-19T14:45:02.955938+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
+      "link": "https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
+      "snippet": "The investment bank will help its roughly 3,000 institutional clients execute large block trades in event contracts.",
+      "published_at": "2026-08-19T14:41:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: SEC Brings Clarity to Crypto",
+      "link": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+      "snippet": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
+      "published_at": "2026-08-19T14:30:24+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
@@ -218,7 +240,7 @@
       "title": "Nexo launches regulated crypto-backed credit in Australia",
       "link": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
-      "published_at": "2026-08-19T10:20:27+00:00",
+      "published_at": "2026-08-19T10:25:00+00:00",
       "impact": "позитивний",
       "coins": [],
       "note": "Позитивний тон для загального ринку за ключовими словами.",
