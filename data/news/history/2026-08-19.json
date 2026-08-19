@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T01:45:30.733110+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "link": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "snippet": "Former New York Gov. Andrew Cuomo says the CLARITY Act is key to linking crypto and traditional markets.",
+      "published_at": "2026-08-19T01:35:36+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
