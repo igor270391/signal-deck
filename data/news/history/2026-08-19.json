@@ -1,8 +1,61 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T09:45:04.104690+00:00",
-  "count": 12,
+  "generated_at": "2026-08-19T10:39:26.966077+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
+      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+      "snippet": "BTC volatility has dropped to multi-year lows as surging Treasury yields rattle equities and traders await the Fed's July meeting minutes for clues on the interest-rate path.",
+      "published_at": "2026-08-19T10:29:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nexo launches regulated crypto-backed credit in Australia",
+      "link": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
+      "published_at": "2026-08-19T10:20:27+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+      "link": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+      "snippet": "The feature, which follows earlier moves into financial transactions, is not yet being tested anywhere, a spokesperson said.",
+      "published_at": "2026-08-19T10:04:30+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple raises $275 million in senior notes for prime brokerage push",
+      "link": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+      "snippet": "Ripple Prime's inaugural senior notes carried an investment grade rating and drew institutional investors across key financial markets.",
+      "published_at": "2026-08-19T09:55:50+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
