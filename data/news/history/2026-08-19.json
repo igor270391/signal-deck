@@ -1,8 +1,48 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T21:36:26.034126+00:00",
-  "count": 59,
+  "generated_at": "2026-08-19T22:35:25.013689+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+      "snippet": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
+      "published_at": "2026-08-19T22:26:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+      "link": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+      "snippet": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
+      "published_at": "2026-08-19T22:18:01+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "dump",
+        "bearish"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
+      "link": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+      "snippet": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
+      "published_at": "2026-08-19T21:36:50+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
