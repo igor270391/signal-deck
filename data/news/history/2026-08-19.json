@@ -1,8 +1,46 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T08:50:25.024117+00:00",
-  "count": 9,
+  "generated_at": "2026-08-19T09:45:04.104690+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
+      "link": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
+      "snippet": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury…",
+      "published_at": "2026-08-19T09:31:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
+      "link": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+      "snippet": "Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.",
+      "published_at": "2026-08-19T09:10:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+      "link": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
+      "snippet": "U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.",
+      "published_at": "2026-08-19T09:05:45+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
