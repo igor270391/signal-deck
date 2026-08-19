@@ -1,8 +1,50 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T05:40:53.088222+00:00",
-  "count": 4,
+  "generated_at": "2026-08-19T06:59:19.522802+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+      "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+      "snippet": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
+      "published_at": "2026-08-19T06:36:11+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-19T05:53:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "link": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "snippet": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
+      "published_at": "2026-08-19T05:45:27+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "MAYAChain halts network after estimated $1.7M exploit",
