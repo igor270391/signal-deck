@@ -1,8 +1,21 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T04:47:55.163901+00:00",
-  "count": 3,
+  "generated_at": "2026-08-19T05:40:53.088222+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "MAYAChain halts network after estimated $1.7M exploit",
+      "link": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
+      "published_at": "2026-08-19T05:13:54+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
