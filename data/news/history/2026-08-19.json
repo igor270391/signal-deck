@@ -1,8 +1,32 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T18:47:16.362982+00:00",
-  "count": 51,
+  "generated_at": "2026-08-19T19:35:51.068769+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+      "link": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
+      "snippet": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
+      "published_at": "2026-08-19T19:16:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
+      "link": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A Fairshake spokesperson said that the PAC was “just getting started“ on its expenditures as part of efforts to fill US Congress with lawmakers friendly to the crypto industry.",
+      "published_at": "2026-08-19T18:48:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
