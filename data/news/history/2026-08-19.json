@@ -1,8 +1,36 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T07:48:19.801743+00:00",
-  "count": 7,
+  "generated_at": "2026-08-19T08:50:25.024117+00:00",
+  "count": 9,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+      "link": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
+      "published_at": "2026-08-19T08:34:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
+      "published_at": "2026-08-19T07:59:16+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
