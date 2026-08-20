@@ -1,8 +1,24 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T18:54:32.676623+00:00",
-  "count": 42,
+  "generated_at": "2026-08-20T19:41:18.113159+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+      "link": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+      "snippet": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
+      "published_at": "2026-08-20T19:16:05+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "bearish"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
