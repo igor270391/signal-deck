@@ -1,8 +1,19 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T21:39:10.569788+00:00",
-  "count": 47,
+  "generated_at": "2026-08-20T22:38:52.323185+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+      "link": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+      "snippet": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
+      "published_at": "2026-08-20T22:32:11+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin breaks above 200-day moving average for first time since November",
