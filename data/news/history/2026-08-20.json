@@ -1,8 +1,21 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T04:48:06.302333+00:00",
-  "count": 3,
+  "generated_at": "2026-08-20T05:41:53.551295+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "link": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+      "snippet": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with five liquidation orders helping push the price higher during the unwind.",
+      "published_at": "2026-08-20T05:40:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
