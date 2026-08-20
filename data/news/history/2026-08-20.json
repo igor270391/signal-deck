@@ -1,8 +1,23 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T09:45:13.615907+00:00",
-  "count": 13,
+  "generated_at": "2026-08-20T10:41:46.409190+00:00",
+  "count": 14,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
+      "link": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
+      "published_at": "2026-08-20T10:03:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
@@ -42,7 +57,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin approaches $72,000 as Strategy and Coinbase continue rally",
+      "title": "Bitcoin hits $72,000 as Strategy and Coinbase continue rally",
       "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
       "snippet": "Bitcoin has gained 15% since monday, reclaiming several key technical and on-chain levels as bullish momentum builds.",
       "published_at": "2026-08-20T09:25:03+00:00",
@@ -87,7 +102,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
+      "title": "Live updates: Bitcoin jumps above $71,000, ETFs draw $700 million in biggest inflows in months",
       "link": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "snippet": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
       "published_at": "2026-08-20T06:21:17+00:00",
