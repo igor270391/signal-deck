@@ -1,11 +1,24 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T07:52:17.975333+00:00",
-  "count": 7,
+  "generated_at": "2026-08-20T08:52:26.750027+00:00",
+  "count": 8,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "BitGo Korea secures VASP registration for institutional crypto custody",
+      "link": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
+      "published_at": "2026-08-20T07:48:40+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+      "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
       "link": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "snippet": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
       "published_at": "2026-08-20T06:21:17+00:00",
