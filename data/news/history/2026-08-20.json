@@ -1,8 +1,32 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T11:38:02.041669+00:00",
-  "count": 21,
+  "generated_at": "2026-08-20T13:05:33.385870+00:00",
+  "count": 23,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
+      "link": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
+      "published_at": "2026-08-20T12:35:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+      "link": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
+      "snippet": "The approved plan reallocates 546.9 million OP from user airdrops to a Foundation-controlled Strategic Ecosystem Fund.",
+      "published_at": "2026-08-20T12:00:25+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
@@ -203,21 +227,16 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin jumps above $72,000, ETFs draw $700 million in biggest inflows in months",
+      "title": "Live updates: Bitcoin hits $72,000, but bond yields are back on the rise",
       "link": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
-      "snippet": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
+      "snippet": "Markets seem likely to test the resolve of Treasury Secretary Scott Bessent's desire to lower long-term government bond yields.",
       "published_at": "2026-08-20T06:21:17+00:00",
-      "impact": "позитивний",
+      "impact": "нейтральний",
       "coins": [
-        "BTC",
-        "ETH"
+        "BTC"
       ],
-      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
-      "triggers": [
-        "rally",
-        "inflow",
-        "inflows"
-      ]
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Cointelegraph",
@@ -257,6 +276,17 @@
       "triggers": []
     },
     {
+      "source": "Cointelegraph",
+      "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
+      "link": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Senator Ruben Gallego said the White House has not provided point-by-point feedback on a bipartisan ethics proposal as a September vote approaches.",
+      "published_at": "2026-08-20T04:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
       "source": "CoinDesk",
       "title": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
       "link": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
@@ -272,17 +302,6 @@
         "bearish",
         "liquidation"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
-      "link": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Gallego said the White House has not provided point-by-point feedback on a bipartisan ethics proposal as a September vote approaches.",
-      "published_at": "2026-08-20T04:27:17+00:00",
-      "impact": "нейтральний",
-      "coins": [],
-      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
