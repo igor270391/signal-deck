@@ -1,8 +1,19 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T13:56:54.166790+00:00",
-  "count": 26,
+  "generated_at": "2026-08-20T14:46:49.743445+00:00",
+  "count": 27,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Hyperliquid Is Coming to the US",
+      "link": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
+      "snippet": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
+      "published_at": "2026-08-20T14:02:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
