@@ -1,8 +1,37 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T14:46:49.743445+00:00",
-  "count": 27,
+  "generated_at": "2026-08-20T15:44:41.189787+00:00",
+  "count": 29,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
+      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
+      "snippet": "Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.",
+      "published_at": "2026-08-20T15:16:12+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "bullish"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: What are tokenized deposits?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
+      "snippet": "Banks are moving deposits on-chain using permissioned systems, not open ones. See why privacy and compliance dictate this path in this week's newsletter.",
+      "published_at": "2026-08-20T15:01:40+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: Hyperliquid Is Coming to the US",
@@ -288,7 +317,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $72,000, but bond yields are back on the rise",
+      "title": "Live updates: Bitcoin and gold extend gains as yields climb",
       "link": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "snippet": "Markets seem likely to test the resolve of Treasury Secretary Scott Bessent's desire to lower long-term government bond yields.",
       "published_at": "2026-08-20T06:21:17+00:00",
