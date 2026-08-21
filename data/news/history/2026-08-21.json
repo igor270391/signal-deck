@@ -1,11 +1,44 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T07:54:08.154920+00:00",
-  "count": 10,
+  "generated_at": "2026-08-21T08:54:32.835714+00:00",
+  "count": 12,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
+      "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
+      "link": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
+      "snippet": "Strategy’s common stock rose 10% in Friday pre-market trading to $120, the highest level in two months.",
+      "published_at": "2026-08-21T08:24:52+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.",
+      "published_at": "2026-08-21T07:50:01+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin tops $77,000; BTC, ETH record $800 million inflows",
       "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "snippet": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
       "published_at": "2026-08-21T06:43:24+00:00",
@@ -16,6 +49,8 @@
       ],
       "note": "Позитивний тон для BTC, ETH за ключовими словами.",
       "triggers": [
+        "inflow",
+        "inflows",
         "institutional"
       ]
     },
