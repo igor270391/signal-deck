@@ -1,8 +1,51 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T04:50:16.601288+00:00",
-  "count": 3,
+  "generated_at": "2026-08-21T05:42:52.631120+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+      "link": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+      "snippet": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
+      "published_at": "2026-08-21T05:29:48+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MANTRA token sinks 18% to record low amid blockchain halt",
+      "link": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
+      "published_at": "2026-08-21T05:04:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+      "snippet": "The two-day short liquidation total has reached about $3.8 billion, after Thursday's figure set a record going back to 2021.",
+      "published_at": "2026-08-21T04:56:30+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Негативний тон для BTC, ETH, SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
