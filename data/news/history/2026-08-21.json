@@ -1,8 +1,50 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T20:37:11.828207+00:00",
-  "count": 43,
+  "generated_at": "2026-08-21T21:36:02.698666+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+      "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+      "snippet": "Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.",
+      "published_at": "2026-08-21T21:31:05+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "sues"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-21T20:48:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+      "link": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+      "published_at": "2026-08-21T20:26:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
@@ -474,19 +516,6 @@
       "triggers": [
         "institutional"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-21T05:53:11+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
