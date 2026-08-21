@@ -1,8 +1,19 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T18:49:21.434357+00:00",
-  "count": 38,
+  "generated_at": "2026-08-21T19:35:01.876392+00:00",
+  "count": 39,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Pass the Clarity Act",
+      "link": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+      "snippet": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
+      "published_at": "2026-08-21T19:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Solana Just Got Faster—Is It Bullish for SOL?",
