@@ -1,8 +1,19 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T21:36:02.698666+00:00",
-  "count": 45,
+  "generated_at": "2026-08-21T22:36:02.890821+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto advocates join in suing Illinois over digital asset tax",
+      "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+      "snippet": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
+      "published_at": "2026-08-21T22:10:28+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
