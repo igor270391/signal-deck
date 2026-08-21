@@ -1,8 +1,39 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T14:46:37.734813+00:00",
-  "count": 28,
+  "generated_at": "2026-08-21T15:44:27.247720+00:00",
+  "count": 30,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
+      "link": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+      "snippet": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+      "published_at": "2026-08-21T15:39:02+00:00",
+      "impact": "негативний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Негативний тон для XRP за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "bearish"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
+      "link": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
+      "snippet": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
+      "published_at": "2026-08-21T14:57:28+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "bearish",
+        "liquidated"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
