@@ -1,8 +1,47 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T08:54:32.835714+00:00",
-  "count": 12,
+  "generated_at": "2026-08-21T09:48:33.137835+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "link": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+      "snippet": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds—and leave much of the oversight to users themselves.",
+      "published_at": "2026-08-21T09:31:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
+      "link": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
+      "snippet": "The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.",
+      "published_at": "2026-08-21T09:17:15+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+      "link": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.",
+      "published_at": "2026-08-21T08:48:52+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
@@ -38,7 +77,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin tops $77,000; BTC, ETH record $800 million inflows",
+      "title": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
       "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "snippet": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
       "published_at": "2026-08-21T06:43:24+00:00",
