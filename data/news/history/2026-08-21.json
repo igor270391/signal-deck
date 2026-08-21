@@ -1,8 +1,22 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T13:03:39.765893+00:00",
-  "count": 25,
+  "generated_at": "2026-08-21T13:55:38.152360+00:00",
+  "count": 26,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+      "link": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
+      "published_at": "2026-08-21T13:08:12+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval",
+        "institutional"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Binance says employees questioned in UAE cleared and released",
