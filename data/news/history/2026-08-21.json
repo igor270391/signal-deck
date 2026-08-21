@@ -1,8 +1,59 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T10:40:49.859296+00:00",
-  "count": 18,
+  "generated_at": "2026-08-21T11:37:30.362309+00:00",
+  "count": 22,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+      "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+      "snippet": "Market watchers say sudden sharp price spikes and forced short liquidations are the classic signs of a bottom, though macro risks still remain.",
+      "published_at": "2026-08-21T11:31:30+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
+      "link": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
+      "snippet": "A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his…",
+      "published_at": "2026-08-21T11:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
+      "link": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
+      "snippet": "After years of stalled bills, misguided enforcement, and catastrophic collapses, almost any comprehensive crypto legislation began to look like progress. But Clarity is turning that hunger for…",
+      "published_at": "2026-08-21T11:30:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+      "snippet": "Your day-ahead look for Aug. 21, 2026",
+      "published_at": "2026-08-21T11:26:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
