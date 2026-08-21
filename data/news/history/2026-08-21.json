@@ -1,8 +1,23 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T16:45:18.570702+00:00",
-  "count": 35,
+  "generated_at": "2026-08-21T17:39:27.226888+00:00",
+  "count": 36,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+      "link": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
+      "snippet": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
+      "published_at": "2026-08-21T17:28:55+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rallies"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
