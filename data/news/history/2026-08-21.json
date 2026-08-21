@@ -1,11 +1,11 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T07:01:50.119823+00:00",
+  "generated_at": "2026-08-21T07:54:08.154920+00:00",
   "count": 10,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
+      "title": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
       "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "snippet": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
       "published_at": "2026-08-21T06:43:24+00:00",
@@ -16,9 +16,7 @@
       ],
       "note": "Позитивний тон для BTC, ETH за ключовими словами.",
       "triggers": [
-        "surge",
-        "inflow",
-        "inflows"
+        "institutional"
       ]
     },
     {
