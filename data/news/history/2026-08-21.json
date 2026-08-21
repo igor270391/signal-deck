@@ -1,8 +1,48 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T09:48:33.137835+00:00",
-  "count": 15,
+  "generated_at": "2026-08-21T10:40:49.859296+00:00",
+  "count": 18,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
+      "snippet": "Laser Digital Japan will offer liquidity to domestic crypto providers, with institutional trading services planned to follow as the appetite for crypto in Japan grows.",
+      "published_at": "2026-08-21T10:38:47+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval",
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+      "snippet": "BTC has gained 24% since Monday and reached the level implied by its inverse head-and-shoulders break, with shorts still taking a contrarian position.",
+      "published_at": "2026-08-21T10:15:36+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard strengthens seed generation with firmware update",
+      "link": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.",
+      "published_at": "2026-08-21T10:13:23+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
