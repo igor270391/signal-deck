@@ -1,8 +1,35 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T17:39:27.226888+00:00",
-  "count": 36,
+  "generated_at": "2026-08-21T18:49:21.434357+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
+      "link": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+      "snippet": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+      "published_at": "2026-08-21T18:45:01+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "bullish",
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
+      "link": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
+      "snippet": "Trump urged executives to pass a \"fair version\" of the Clarity Act, the CFTC warned it would write its own rules if the bill stalls, and the SEC abruptly advanced its first crypto fundraising…",
+      "published_at": "2026-08-21T18:06:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
