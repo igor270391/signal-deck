@@ -1,8 +1,36 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T13:55:38.152360+00:00",
-  "count": 26,
+  "generated_at": "2026-08-21T14:46:37.734813+00:00",
+  "count": 28,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
+      "link": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
+      "snippet": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
+      "published_at": "2026-08-21T14:27:31+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "soar"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.",
+      "published_at": "2026-08-21T13:45:13+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
