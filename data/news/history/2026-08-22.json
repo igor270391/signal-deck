@@ -1,8 +1,32 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T14:32:58.041290+00:00",
-  "count": 8,
+  "generated_at": "2026-08-22T15:32:28.381932+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "link": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+      "snippet": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+      "published_at": "2026-08-22T15:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+      "snippet": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+      "published_at": "2026-08-22T15:16:41+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
