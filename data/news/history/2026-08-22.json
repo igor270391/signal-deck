@@ -1,8 +1,23 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-22T17:30:10.119140+00:00",
-  "count": 10,
+  "generated_at": "2026-08-22T18:43:40.229739+00:00",
+  "count": 11,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+      "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+      "snippet": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
+      "published_at": "2026-08-22T17:31:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit",
+        "exploited"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
