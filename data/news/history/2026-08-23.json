@@ -1,8 +1,19 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T14:33:53.143896+00:00",
-  "count": 1,
+  "generated_at": "2026-08-23T15:33:30.493610+00:00",
+  "count": 3,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "snippet": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+      "published_at": "2026-08-23T15:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
@@ -16,6 +27,17 @@
         "adoption",
         "breakthrough"
       ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "snippet": "According to Coinbase’s head of AI product, we’re currently in the “Napster/LimeWire era” of agentic payments.",
+      "published_at": "2026-08-23T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     }
   ]
 }
