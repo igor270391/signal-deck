@@ -1,8 +1,50 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T15:33:30.493610+00:00",
-  "count": 3,
+  "generated_at": "2026-08-23T16:38:03.421298+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+      "link": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+      "snippet": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
+      "published_at": "2026-08-23T16:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "snippet": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
+      "published_at": "2026-08-23T15:52:21+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "rally",
+        "surge"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "link": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations…",
+      "published_at": "2026-08-23T15:30:53+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
