@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T14:33:53.143896+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Decrypt",
+      "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
+      "link": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+      "snippet": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
+      "published_at": "2026-08-23T14:31:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption",
+        "breakthrough"
+      ]
+    }
+  ]
+}
