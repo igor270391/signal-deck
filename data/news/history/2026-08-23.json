@@ -1,8 +1,19 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T17:30:31.784728+00:00",
-  "count": 6,
+  "generated_at": "2026-08-23T18:43:03.890704+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Regulation Crypto is here: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "snippet": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
+      "published_at": "2026-08-23T18:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
