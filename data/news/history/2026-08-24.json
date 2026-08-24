@@ -1,8 +1,51 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T07:15:28.792353+00:00",
-  "count": 10,
+  "generated_at": "2026-08-24T09:00:10.673674+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+      "link": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+      "snippet": "Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.",
+      "published_at": "2026-08-24T08:28:14+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+      "snippet": "Your look at what's coming in the week starting Aug. 24",
+      "published_at": "2026-08-24T08:16:29+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+      "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+      "snippet": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
+      "published_at": "2026-08-24T08:05:57+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Позитивний тон для BTC, XRP за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
