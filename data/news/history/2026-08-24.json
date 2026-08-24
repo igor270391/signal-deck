@@ -1,8 +1,47 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T18:54:11.172192+00:00",
-  "count": 44,
+  "generated_at": "2026-08-24T19:39:53.804982+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+      "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+      "snippet": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
+      "published_at": "2026-08-24T19:36:36+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
+      "link": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”",
+      "published_at": "2026-08-24T19:18:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+      "link": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
+      "published_at": "2026-08-24T19:11:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "LINK"
+      ],
+      "note": "Нейтрально щодо LINK -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
