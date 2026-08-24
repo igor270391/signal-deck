@@ -1,8 +1,47 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T17:40:56.792851+00:00",
-  "count": 41,
+  "generated_at": "2026-08-24T18:54:11.172192+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+      "link": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+      "snippet": "Hyperliquid's token is riding a record into its largest remaining supply release.",
+      "published_at": "2026-08-24T18:30:27+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "record high"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+      "link": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
+      "snippet": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
+      "published_at": "2026-08-24T17:50:35+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "As BTC tops $80,000 for the first time since May, price analysis warns that the market still needs to sustain higher levels to challenge the bear-market thesis.",
+      "published_at": "2026-08-24T17:48:44+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto political group details list of U.S. congressional allies its backing this year",
@@ -426,18 +465,16 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin moves closer to $80,000, but rally could bring profit taking",
+      "title": "Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run",
       "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "snippet": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
       "published_at": "2026-08-24T08:05:57+00:00",
-      "impact": "позитивний",
+      "impact": "нейтральний",
       "coins": [
         "BTC"
       ],
-      "note": "Позитивний тон для BTC за ключовими словами.",
-      "triggers": [
-        "rally"
-      ]
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "CoinDesk",
