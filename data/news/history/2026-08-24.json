@@ -1,8 +1,60 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T19:39:53.804982+00:00",
-  "count": 47,
+  "generated_at": "2026-08-24T20:41:28.228664+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
+      "link": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
+      "snippet": "Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say.",
+      "published_at": "2026-08-24T20:16:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+      "link": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity and several factors that could support further growth.",
+      "published_at": "2026-08-24T20:00:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-24T19:58:34+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+      "link": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+      "snippet": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
+      "published_at": "2026-08-24T19:43:43+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
@@ -218,19 +270,6 @@
       "triggers": [
         "rally"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-24T12:55:25+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Decrypt",
