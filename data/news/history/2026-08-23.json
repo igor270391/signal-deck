@@ -1,8 +1,21 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T23:31:53.785089+00:00",
-  "count": 7,
+  "generated_at": "2026-08-24T01:49:56.128300+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.",
+      "published_at": "2026-08-23T23:56:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Regulation Crypto is here: State of Crypto",
