@@ -1,8 +1,47 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T04:57:24.246255+00:00",
-  "count": 3,
+  "generated_at": "2026-08-24T05:48:31.123376+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
+      "link": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.",
+      "published_at": "2026-08-24T05:17:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
+      "link": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
+      "snippet": "The Bridgewater founder says recent Treasury-market stress fits his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.",
+      "published_at": "2026-08-24T05:13:19+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+      "link": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+      "snippet": "Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it means for bitcoin and gold",
+      "published_at": "2026-08-24T05:12:56+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
