@@ -1,8 +1,21 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T15:50:30.349279+00:00",
-  "count": 36,
+  "generated_at": "2026-08-24T16:51:02.272631+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+      "link": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Following a similar lawsuit filed by the Digital Chamber in July, two digital asset advocacy groups challenged Illinois’ 0.2% crypto tax on constitutional and due process grounds.",
+      "published_at": "2026-08-24T16:05:48+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
