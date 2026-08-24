@@ -1,8 +1,21 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T14:01:45.224153+00:00",
-  "count": 33,
+  "generated_at": "2026-08-24T14:54:30.451070+00:00",
+  "count": 34,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
+      "link": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Przemysław Kral reportedly faces a fraud charge and is cooperating with Polish prosecutors as estimated customer losses reach $650 million.",
+      "published_at": "2026-08-24T14:00:51+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
@@ -318,7 +331,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs past $79,000 early Monday, with gold topping $4,700",
+      "title": "Live updates: Bitcoin climbs past $79,000, with gold topping $4,700",
       "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "snippet": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
       "published_at": "2026-08-24T08:05:57+00:00",
