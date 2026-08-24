@@ -1,8 +1,24 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T09:59:52.918563+00:00",
-  "count": 15,
+  "generated_at": "2026-08-24T10:47:44.631894+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+      "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+      "snippet": "BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.",
+      "published_at": "2026-08-24T10:41:46+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rallies",
+        "surge"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
