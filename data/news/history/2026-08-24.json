@@ -1,8 +1,117 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T11:39:27.647093+00:00",
-  "count": 25,
+  "generated_at": "2026-08-24T13:06:57.305123+00:00",
+  "count": 32,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+      "link": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+      "snippet": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
+      "published_at": "2026-08-24T12:59:55+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-24T12:55:25+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
+      "link": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
+      "snippet": "Bitcoin just closed its biggest weekly candle of all time in notional value, and 10 alt leaders put up 50%+ gains in massive crypto rebound.",
+      "published_at": "2026-08-24T12:54:23+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "soar",
+        "soars",
+        "rebound"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "link": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+      "snippet": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
+      "published_at": "2026-08-24T12:52:30+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot",
+      "link": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
+      "snippet": "The company has not bought Bitcoin since June, and has now created a liquidity account it said may be spent on more of it.",
+      "published_at": "2026-08-24T12:49:33+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+      "link": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as it launched a $1.59 billion cash pool after raising $2 billion from MSTR stock sales.",
+      "published_at": "2026-08-24T12:43:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+      "link": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+      "snippet": "The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.",
+      "published_at": "2026-08-24T12:24:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
+      "link": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
+      "snippet": "Anyone serving Pakistani users since March must apply for clearance by September 5, then incorporate locally to keep going.",
+      "published_at": "2026-08-24T12:14:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
@@ -194,9 +303,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin and gold hit fresh daily highs as bitcoin climbs above $78,000",
+      "title": "Live updates: Bitcoin climbs past $79,000 early Monday, with gold topping $4,700",
       "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
-      "snippet": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
+      "snippet": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
       "published_at": "2026-08-24T08:05:57+00:00",
       "impact": "нейтральний",
       "coins": [
@@ -235,19 +344,6 @@
       "triggers": [
         "exploit"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-24T05:55:54+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
