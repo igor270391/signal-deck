@@ -1,8 +1,23 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T21:40:32.036671+00:00",
-  "count": 54,
+  "generated_at": "2026-08-24T22:37:53.874557+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "link": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+      "snippet": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
+      "published_at": "2026-08-24T22:16:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked",
+        "breach"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
