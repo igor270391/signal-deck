@@ -1,8 +1,35 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T14:54:30.451070+00:00",
-  "count": 34,
+  "generated_at": "2026-08-24T15:50:30.349279+00:00",
+  "count": 36,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
+      "link": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
+      "snippet": "Bitmine is about 187,000 Ethereum short of its 5% of supply target.",
+      "published_at": "2026-08-24T15:43:36+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K",
+      "link": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ether’s breakout above $2,500 has put the spotlight back on corporate ETH treasuries, with Bitmine now nearing its long-stated accumulation target.",
+      "published_at": "2026-08-24T15:29:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
@@ -331,16 +358,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs past $79,000, with gold topping $4,700",
+      "title": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
       "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "snippet": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
       "published_at": "2026-08-24T08:05:57+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
     },
     {
       "source": "CoinDesk",
