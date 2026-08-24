@@ -1,8 +1,23 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T13:06:57.305123+00:00",
-  "count": 32,
+  "generated_at": "2026-08-24T14:01:45.224153+00:00",
+  "count": 33,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
+      "link": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year.",
+      "published_at": "2026-08-24T13:30:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
@@ -76,10 +91,10 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Strategy pauses BTC buys, launches $1.6B cash pool after $2B raise",
+      "title": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys",
       "link": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as it launched a $1.59 billion cash pool after raising $2 billion from MSTR stock sales.",
-      "published_at": "2026-08-24T12:43:00+00:00",
+      "published_at": "2026-08-24T12:45:00+00:00",
       "impact": "позитивний",
       "coins": [
         "BTC"
