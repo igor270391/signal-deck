@@ -1,8 +1,39 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T09:00:10.673674+00:00",
-  "count": 13,
+  "generated_at": "2026-08-24T09:59:52.918563+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+      "link": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+      "snippet": "Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.",
+      "published_at": "2026-08-24T09:56:17+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rallies"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
+      "published_at": "2026-08-24T08:56:52+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
