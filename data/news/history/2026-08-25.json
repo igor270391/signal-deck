@@ -1,8 +1,21 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T14:57:24.372552+00:00",
-  "count": 40,
+  "generated_at": "2026-08-25T15:54:56.718204+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
+      "link": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
+      "published_at": "2026-08-25T15:15:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
@@ -15,6 +28,17 @@
       "triggers": [
         "fraud"
       ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+      "link": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+      "snippet": "The crypto ETF issuer is pushing deeper into onchain asset management as tokenization create new ways to build and manage investments.",
+      "published_at": "2026-08-25T14:50:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Decrypt",
