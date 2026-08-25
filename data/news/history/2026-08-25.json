@@ -1,8 +1,121 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T11:39:31.915980+00:00",
-  "count": 26,
+  "generated_at": "2026-08-25T13:03:09.056060+00:00",
+  "count": 35,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "link": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+      "snippet": "Many in Poland may look back at 2026 as the year European crypto finally grew up, and one of Poland’s brightest economic ambitions faded into darkness, writes Mateusz Kara, founder and CEO of Morphic…",
+      "published_at": "2026-08-25T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+      "link": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+      "snippet": "'Operation Lighthouse' went after child sex abuse materials, working with law enforcement to round up more than 14,000 investigative leads.",
+      "published_at": "2026-08-25T13:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
+      "link": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.",
+      "published_at": "2026-08-25T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "India plans first tokenized bonds using wholesale CBDC: Report",
+      "link": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
+      "published_at": "2026-08-25T12:09:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+      "link": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+      "snippet": "One wallet bought heavily into a yield token, which pushed the price of its paired principal token down just enough to trigger liquidations across borrowers using it as collateral.",
+      "published_at": "2026-08-25T12:03:55+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+      "link": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+      "snippet": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
+      "published_at": "2026-08-25T12:01:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
+      "link": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+      "snippet": "These aren’t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
+      "published_at": "2026-08-25T11:58:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
+      "link": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The funding loss leaves InterPlanetary File System software without dedicated maintainers and puts the future of key public services in Protocol Labs’ hands.",
+      "published_at": "2026-08-25T11:57:33+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+      "link": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+      "snippet": "Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding at least 400 investors out of $24 million.",
+      "published_at": "2026-08-25T11:46:18+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
