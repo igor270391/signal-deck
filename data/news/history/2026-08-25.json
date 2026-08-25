@@ -1,8 +1,73 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T10:44:31.607293+00:00",
-  "count": 21,
+  "generated_at": "2026-08-25T11:39:31.915980+00:00",
+  "count": 26,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+      "snippet": "Your day-ahead look for Aug. 25, 2026",
+      "published_at": "2026-08-25T11:15:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+      "link": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+      "snippet": "Falling open interest and subdued funding rates suggest the rally remains structurally healthy.",
+      "published_at": "2026-08-25T10:57:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin extends 7-day advance to roughly 25%",
+      "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+      "snippet": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%.",
+      "published_at": "2026-08-25T10:52:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
+      "link": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
+      "snippet": "Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.",
+      "published_at": "2026-08-25T10:50:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+      "link": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
+      "published_at": "2026-08-25T10:49:43+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
