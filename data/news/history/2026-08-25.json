@@ -1,8 +1,48 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T13:59:51.937768+00:00",
-  "count": 37,
+  "generated_at": "2026-08-25T14:57:24.372552+00:00",
+  "count": 40,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
+      "link": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
+      "snippet": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
+      "published_at": "2026-08-25T14:56:10+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
+      "link": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
+      "snippet": "Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
+      "published_at": "2026-08-25T14:10:05+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "recovery"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Arcus launches tokenized perp positions on Robinhood Chain",
+      "link": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Arcus introduced transferable ERC-20 tokens for perpetual positions and lets tokenized stocks back leveraged trades without requiring users to sell their holdings.",
+      "published_at": "2026-08-25T14:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
