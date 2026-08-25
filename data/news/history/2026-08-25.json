@@ -1,8 +1,32 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T18:53:05.431791+00:00",
-  "count": 52,
+  "generated_at": "2026-08-25T19:41:16.181830+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+      "link": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+      "snippet": "The $22 billion trading company worked with Olea and Intain on the transaction, following an Injective pilot with LG CNS last month.",
+      "published_at": "2026-08-25T19:40:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "AVAX"
+      ],
+      "note": "Нейтрально щодо AVAX -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
+      "link": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
+      "snippet": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
+      "published_at": "2026-08-25T19:11:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
