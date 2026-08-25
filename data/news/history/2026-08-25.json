@@ -1,8 +1,44 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T20:40:36.670124+00:00",
-  "count": 56,
+  "generated_at": "2026-08-25T21:39:03.862557+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
+      "link": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
+      "snippet": "Alibaba's Qwen team is teasing its next architecture a day early—and the specs say it runs near-frontier scale on a fraction of the power.",
+      "published_at": "2026-08-25T21:16:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
+      "link": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
+      "snippet": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner.",
+      "published_at": "2026-08-25T20:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "World Liberty Financial launches USD1 natively on Canton Network",
+      "link": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
+      "published_at": "2026-08-25T20:35:10+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
