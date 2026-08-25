@@ -1,11 +1,63 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T07:55:11.124782+00:00",
-  "count": 12,
+  "generated_at": "2026-08-25T08:55:51.919559+00:00",
+  "count": 16,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+      "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "link": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
+      "snippet": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023.",
+      "published_at": "2026-08-25T08:47:18+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crackdown"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+      "link": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
+      "published_at": "2026-08-25T08:46:47+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Business owner faces up to 280 years over $24M crypto Ponzi scheme",
+      "link": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A federal jury convicted Brent Kovar of wire fraud, mail fraud and money laundering after he took $24 million from at least 400 investors.",
+      "published_at": "2026-08-25T07:58:10+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+      "link": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
+      "snippet": "Tokenized U.S. treasury and money market funds are one of the fastest-growing segments in the digital asset markets, growing fifteenfold in two years.",
+      "published_at": "2026-08-25T07:55:18+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
       "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
       "snippet": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
       "published_at": "2026-08-25T07:40:11+00:00",
