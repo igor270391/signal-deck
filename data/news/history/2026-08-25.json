@@ -1,8 +1,34 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T19:41:16.181830+00:00",
-  "count": 54,
+  "generated_at": "2026-08-25T20:40:36.670124+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
+      "link": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
+      "snippet": "Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.",
+      "published_at": "2026-08-25T20:16:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+      "link": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
+      "snippet": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported…",
+      "published_at": "2026-08-25T19:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
