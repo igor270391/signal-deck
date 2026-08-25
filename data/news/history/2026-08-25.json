@@ -1,8 +1,51 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T07:02:48.642600+00:00",
-  "count": 9,
+  "generated_at": "2026-08-25T07:55:11.124782+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+      "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "snippet": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
+      "published_at": "2026-08-25T07:40:11+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin ETFs have drawn $2.26 billion over six trading days, while year-to-date net outflows have narrowed to about $2.57 billion.",
+      "published_at": "2026-08-25T07:38:29+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
+      "link": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
+      "snippet": "The billionaire investor argues the intervention removes a vital check on government borrowing and fiscal accountability while markets remain the better judge of prices.",
+      "published_at": "2026-08-25T07:32:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
