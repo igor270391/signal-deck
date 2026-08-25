@@ -1,8 +1,79 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T15:54:56.718204+00:00",
-  "count": 42,
+  "generated_at": "2026-08-25T16:50:07.153003+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+      "link": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
+      "snippet": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
+      "published_at": "2026-08-25T16:45:59+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+      "link": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitwise’s new portfolios automatically rebalance Coinbase tokenized stocks while allowing eligible non-US investors to keep the assets in their own wallets.",
+      "published_at": "2026-08-25T16:32:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+      "link": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
+      "snippet": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
+      "published_at": "2026-08-25T16:28:59+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "link": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+      "snippet": "The trading infrastructure runs on LayerZero's Zero blockchain, backed by Citadel Securities with DTCC and ICE exploring institutional market applications.",
+      "published_at": "2026-08-25T16:22:47+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
+      "link": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "DGAI nearly doubled in its first day of trading as DGrid expands its distributed AI inference network and rolls out hardware for its personal AI agent.",
+      "published_at": "2026-08-25T15:53:05+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "expands"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
@@ -259,6 +330,21 @@
       "triggers": []
     },
     {
+      "source": "Cointelegraph",
+      "title": "BTC RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+      "link": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
+      "published_at": "2026-08-25T10:51:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
       "source": "Decrypt",
       "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
       "link": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
@@ -268,21 +354,6 @@
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
-      "link": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
-      "published_at": "2026-08-25T10:49:43+00:00",
-      "impact": "позитивний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Позитивний тон для BTC за ключовими словами.",
-      "triggers": [
-        "bullish"
-      ]
     },
     {
       "source": "CoinDesk",
@@ -401,7 +472,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
+      "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
       "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
       "snippet": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
       "published_at": "2026-08-25T07:40:11+00:00",
