@@ -1,8 +1,19 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T08:55:51.919559+00:00",
-  "count": 16,
+  "generated_at": "2026-08-25T09:46:26.374625+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+      "link": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
+      "snippet": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
+      "published_at": "2026-08-25T09:30:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
