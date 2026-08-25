@@ -1,8 +1,38 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T16:50:07.153003+00:00",
-  "count": 47,
+  "generated_at": "2026-08-25T17:41:32.260806+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
+      "link": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
+      "snippet": "Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
+      "published_at": "2026-08-25T17:24:54+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+      "link": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
+      "published_at": "2026-08-25T16:47:40+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
