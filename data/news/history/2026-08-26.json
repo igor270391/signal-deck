@@ -1,8 +1,34 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T07:03:12.862579+00:00",
-  "count": 6,
+  "generated_at": "2026-08-26T07:56:49.357296+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
+      "link": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Judge Katherine Polk Failla adjourned the retrial in light of Storm’s pending motion for acquittal and related request for a continuance.",
+      "published_at": "2026-08-26T07:44:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+      "link": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The funds are $390 million short of October 2025’s inflow total after cutting their year-to-date net outflow deficit by more than half.",
+      "published_at": "2026-08-26T07:30:31+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
