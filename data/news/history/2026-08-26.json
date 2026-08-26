@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T04:52:03.627079+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US banking groups plan nationwide blockchain network for 2027",
+      "link": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
+      "published_at": "2026-08-26T04:17:39+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+      "snippet": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%.",
+      "published_at": "2026-08-26T04:13:10+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "XRP"
+      ],
+      "note": "Негативний тон для BTC, ETH, SOL, XRP за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    }
+  ]
+}
