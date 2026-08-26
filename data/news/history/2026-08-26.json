@@ -1,8 +1,69 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T16:27:58.981187+00:00",
-  "count": 40,
+  "generated_at": "2026-08-26T19:14:36.256725+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
+      "link": "https://decrypt.co/376641/bitcoin-wallets-dormant-decade-move-40m",
+      "snippet": "Six wallets that slept through Bitcoin's entire boom woke up between Aug. 16 and Aug. 26, moving tens of millions in BTC.",
+      "published_at": "2026-08-26T18:44:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
+      "link": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
+      "snippet": "Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
+      "published_at": "2026-08-26T17:52:22+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
+      "link": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The blockchain analytics firm said just 14% of the onchain activity it identified is covered by the OECD’s international crypto tax-reporting framework.",
+      "published_at": "2026-08-26T17:48:34+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
+      "link": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
+      "snippet": "Samuel Tunick, facing five years over a wiped phone, said he was secretly placed on a watch list as a suspected terrorist.",
+      "published_at": "2026-08-26T17:24:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
+      "link": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
+      "snippet": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
+      "published_at": "2026-08-26T17:15:33+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "SEC sends crypto custody rule overhaul to White House for review",
@@ -379,7 +440,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin adds to early losses, slipping below $78,000",
+      "title": "Live updates: Bitcoin adds to early losses, slipping to $78,000",
       "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
       "snippet": "Markets are also looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday.",
       "published_at": "2026-08-26T08:51:18+00:00",
