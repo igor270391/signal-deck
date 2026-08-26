@@ -1,8 +1,22 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T08:58:14.900668+00:00",
-  "count": 11,
+  "generated_at": "2026-08-26T09:54:36.646379+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+      "link": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+      "snippet": "Japan's regulators are racing to modernize national settlement systems to prevent institutional investors and foreign capital from fleeing to overseas markets.",
+      "published_at": "2026-08-26T09:06:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "launch"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
