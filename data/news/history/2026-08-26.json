@@ -1,8 +1,50 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T07:56:49.357296+00:00",
-  "count": 8,
+  "generated_at": "2026-08-26T08:58:14.900668+00:00",
+  "count": 11,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+      "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+      "snippet": "The privacy coin's spot ETF began NYSE trading Tuesday, which was one of the catalysts behind its surge to an eight-year high. Now traders are selling the news, with leverage stacked into the move.",
+      "published_at": "2026-08-26T08:51:18+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rally",
+        "surge"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut rolls out euro stablecoin in three European markets",
+      "link": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
+      "published_at": "2026-08-26T08:45:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+      "link": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+      "snippet": "Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices.",
+      "published_at": "2026-08-26T08:01:09+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
