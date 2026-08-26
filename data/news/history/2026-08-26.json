@@ -1,8 +1,122 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T11:40:44.782462+00:00",
-  "count": 21,
+  "generated_at": "2026-08-26T13:09:19.952017+00:00",
+  "count": 29,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The evidence doesn't support the banks' case against stablecoin rewards",
+      "link": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+      "snippet": "",
+      "published_at": "2026-08-26T13:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Students want crypto classes but learn on social media: OKX survey",
+      "link": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll.",
+      "published_at": "2026-08-26T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
+      "link": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+      "snippet": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
+      "published_at": "2026-08-26T12:51:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
+      "link": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bernstein expects Bitcoin to reclaim $125,000 by late 2026 before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.",
+      "published_at": "2026-08-26T12:32:36+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
+      "link": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
+      "snippet": "EURR has gone live for selected customers in Denmark, Poland and Portugal, with a Luxembourg subsidiary of Stripe holding the reserves.",
+      "published_at": "2026-08-26T12:31:13+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-26T12:24:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
+      "link": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Taurus expects first institutional clients to connect in days, with initial DLT transactions through its platforms expected within weeks.",
+      "published_at": "2026-08-26T12:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
+      "link": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
+      "snippet": "The market liked the news, with ZRO up 10% and jumping nearly 50% off its local bottom.",
+      "published_at": "2026-08-26T11:50:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+      "link": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+      "snippet": "Programmable deposits and AI agents may enable instantaneous, automated bank switching for higher yields, driving up bank funding costs.",
+      "published_at": "2026-08-26T11:46:19+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
@@ -130,17 +244,16 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+      "title": "Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings",
       "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
-      "snippet": "The privacy coin's spot ETF began NYSE trading Tuesday, which was one of the catalysts behind its surge to an eight-year high. Now traders are selling the news, with leverage stacked into the move.",
+      "snippet": "Markets are also looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday.",
       "published_at": "2026-08-26T08:51:18+00:00",
-      "impact": "позитивний",
-      "coins": [],
-      "note": "Позитивний тон для загального ринку за ключовими словами.",
-      "triggers": [
-        "rally",
-        "surge"
-      ]
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Cointelegraph",
@@ -195,19 +308,6 @@
       "triggers": [
         "inflow"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-26T06:04:55+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
