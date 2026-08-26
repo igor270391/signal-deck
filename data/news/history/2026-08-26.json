@@ -1,11 +1,57 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T09:54:36.646379+00:00",
-  "count": 12,
+  "generated_at": "2026-08-26T10:45:28.152094+00:00",
+  "count": 16,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+      "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+      "link": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+      "snippet": "The bitcoin treasury company has built nearly four years of preferred-dividend coverage while continuing to repurchase STRC below par.",
+      "published_at": "2026-08-26T10:42:52+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
+      "link": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
+      "snippet": "Judge Katherine Polk Failla adjourned the retrial by more than six months, with Storm's motion for acquittal still undecided.",
+      "published_at": "2026-08-26T10:42:35+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
+      "link": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Form D lists 71 investors and says Kalshi is relying on an exemption that allows certain private offerings without SEC registration.",
+      "published_at": "2026-08-26T10:15:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+      "link": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+      "snippet": "Revolut said the stablecoin’s rollout will start with a select group of customers within Denmark, Poland, and Portugal.",
+      "published_at": "2026-08-26T10:03:43+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Japan to start stocks and bonds tokenization development plans this year",
       "link": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
       "snippet": "Japan's regulators are racing to modernize national settlement systems to prevent institutional investors and foreign capital from fleeing to overseas markets.",
       "published_at": "2026-08-26T09:06:00+00:00",
@@ -13,8 +59,7 @@
       "coins": [],
       "note": "Позитивний тон для загального ринку за ключовими словами.",
       "triggers": [
-        "institutional",
-        "launch"
+        "institutional"
       ]
     },
     {
@@ -33,7 +78,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Revolut rolls out euro stablecoin in three European markets",
+      "title": "Revolut rolls out euro stablecoin in 3 European markets",
       "link": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
       "published_at": "2026-08-26T08:45:41+00:00",
