@@ -1,8 +1,529 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T08:50:31.691910+00:00",
-  "count": 10,
+  "generated_at": "2026-08-27T19:50:04.205130+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+      "link": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
+      "snippet": "Deribit's Friday settlement covers nearly a fifth of the exchange's Bitcoin open interest, and max pain sits well below where BTC is trading right now.",
+      "published_at": "2026-08-27T19:47:21+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-27T19:27:53+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
+      "link": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "While investors in World Liberty Financial‘s USD1 stablecoin “haven’t suffered major losses,” many lost billions of dollars in other Trump ventures, according to Public Citizen.",
+      "published_at": "2026-08-27T19:22:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
+      "link": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times.",
+      "published_at": "2026-08-27T19:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
+      "link": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share of Bitcoin’s market cap leaves room for further upside.",
+      "published_at": "2026-08-27T18:51:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
+      "snippet": "The courtroom combat across state and federal courts is so far producing roughly split outcomes, suggesting a big job may be coming for the Supreme Court.",
+      "published_at": "2026-08-27T18:28:53+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
+      "link": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
+      "snippet": "OneKey demonstrated how an outdated Ethereum app could sign a transaction different from the one shown on a Ledger device, but the wallet maker says the vulnerability had already been fixed.",
+      "published_at": "2026-08-27T18:16:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked",
+        "exploit"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda",
+      "link": "https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda",
+      "snippet": "BTC is holding above $80,000 into a Fed symposium that, for the first time in 40 years, is built around crypto's own turf—payments and financial infrastructure.",
+      "published_at": "2026-08-27T17:36:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
+      "link": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
+      "snippet": "The changes aim to cut investor selling pressure and channel protocol revenue to ENA as Ethena looks to revive USDe growth.",
+      "published_at": "2026-08-27T17:32:20+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
+      "link": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin and crypto joined US stock markets in fresh gains after Nvidia Q2 earnings beat expectations by around $4 billion.",
+      "published_at": "2026-08-27T17:15:43+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI",
+      "link": "https://decrypt.co/376725/nvidia-acquisition-hugging-reshape-open-source-ai",
+      "snippet": "The chipmaker's reported acquisition would concentrate the open-source AI pipeline inside one company, from silicon to distribution — with consequences for builders and users alike.",
+      "published_at": "2026-08-27T17:09:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
+      "link": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
+      "snippet": "The token hit a $25 million market cap on the back of nine days of unreleased Grand Theft Auto VI footage. Its creator has now sold his stack — hours before Rockstar's first official gameplay reveal.",
+      "published_at": "2026-08-27T16:32:38+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ",
+      "link": "https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz",
+      "snippet": "Gold is worth around ten times more than BTC, Changpeng Zhao said, noting that countries face a years-long process to \"shift into Bitcoin.\"",
+      "published_at": "2026-08-27T16:17:28+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
+      "link": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The financial services giant plans to expand Schwab Crypto beyond Bitcoin and Ether just months after rolling out direct crypto trading to retail clients.",
+      "published_at": "2026-08-27T16:13:10+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "AVAX",
+        "LINK"
+      ],
+      "note": "Нейтрально щодо BTC, ETH, SOL, AVAX, LINK -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
+      "link": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
+      "snippet": "Prosecutors are probing allegations that Zondacrypto's CEO gave Radosław Piesiewicz a 40,000 euro watch for help with regulatory hurdles.",
+      "published_at": "2026-08-27T16:12:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
+      "link": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto demand showed BTC exposure can still drive mining equities despite the industry’s AI push.",
+      "published_at": "2026-08-27T16:04:15+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "soar"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK government reports 240 crypto millionaires in 2025",
+      "link": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "About 17,600 people in the UK reported a combined $1.9 billion in gains tied to crypto in the 2024 to 2025 tax year, with 240 each declaring more than $1.4 million.",
+      "published_at": "2026-08-27T15:56:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
+      "link": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
+      "snippet": "",
+      "published_at": "2026-08-27T15:52:21+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "integration"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning",
+      "link": "https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning",
+      "snippet": "The Lightning software project said it is preparing fixes after confirming that several AI-generated vulnerability reports were accurate.",
+      "published_at": "2026-08-27T15:45:28+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025",
+      "link": "https://www.coindesk.com/business/2026/08/27/240-uk-taxpayers-made-more-than-usd1-3-million-each-from-crypto-holdings-in-fiscal-2025",
+      "snippet": "For the first time, the U.K.'s tax office broke out crypto capital gains figures, showing 17,600 people reported $1.87 billion in profits during the 2024-2025 tax year.",
+      "published_at": "2026-08-27T15:36:25+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck",
+      "link": "https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote",
+      "snippet": "Solana is up more than 8% in 24 hours and 44% on the month. Coming changes to the network could add a supply squeeze to the mix.",
+      "published_at": "2026-08-27T15:12:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
+      "snippet": "",
+      "published_at": "2026-08-27T15:10:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Flock CEO Asks Americans to 'Compromise' on Privacy as Camera Backlash Grows",
+      "link": "https://decrypt.co/376690/flock-ceo-asks-americans-to-compromise-on-privacy-as-camera-backlash-grows",
+      "snippet": "Garrett Langley says 99.9% of police are good actors, days after a report identified at least 69 officials accused of misusing plate readers.",
+      "published_at": "2026-08-27T14:33:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
+      "link": "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets",
+      "snippet": "Bain Capital led the investment in the U.S. clearing and custody firm, which plans to expand its digital asset and tokenization infrastructure.",
+      "published_at": "2026-08-27T14:32:41+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
+      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
+      "snippet": "One analyst expects Warsh to take a tough line on inflation, but still sees the Fed holding off on rate hikes until at least after the November mid-term elections.",
+      "published_at": "2026-08-27T14:01:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple Prime expands into US equity derivatives with Delta One business",
+      "link": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Institutional clients can access total return swaps across linked to US-listed equities, indexes and digital assets and cross-margin exposures.",
+      "published_at": "2026-08-27T13:54:22+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "expands"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bank of England set for new innovation mandate covering stablecoins",
+      "link": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
+      "published_at": "2026-08-27T12:51:59+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Clarity Act will put Main Street banks at a disadvantage",
+      "link": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
+      "snippet": "The Blockchain Association’s Summer Mersinger dismisses the harm to community banks in defending the stablecoin rewards language in the Clarity Act, says community banker Nate Franzén.",
+      "published_at": "2026-08-27T12:30:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
+      "link": "https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar",
+      "snippet": "The chain just put up its strongest day since mid-July, with $443 million in DEX volume and more than 3 million transactions.",
+      "published_at": "2026-08-27T12:13:26+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "soar"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
+      "link": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
+      "snippet": "Developers are holding details for two weeks while fixes reach operators, in the second Lightning security emergency this month traced to AI work on Bitcoin code.",
+      "published_at": "2026-08-27T12:08:33+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
+      "link": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
+      "snippet": "Park Hyeon-joo, Mirae Asset Financial Group’s founder, outlined his ambitious stablecoin, RWAs, and STOs plan for Digital X, formerly known as Korbit, in an event for his employees.",
+      "published_at": "2026-08-27T11:37:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
+      "snippet": "Your day-ahead look for Aug. 27, 2026",
+      "published_at": "2026-08-27T11:11:08+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine",
+        "fined"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
+      "link": "https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation",
+      "snippet": "Financial stability stays the Bank's primary objective, with the new duty written into a bill due before the Lords in September.",
+      "published_at": "2026-08-27T11:10:31+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tests its largest supply wall at $80,000, near ETF holders’ average price",
+      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-tests-its-largest-supply-wall-at-usd80-000-near-etf-holders-average-price",
+      "snippet": "Bitcoin is testing its largest supply cluster alongside the key 50-week moving average.",
+      "published_at": "2026-08-27T10:54:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet",
+      "link": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
+      "snippet": "The abandoned bids would have cost over $2 million in base fees alone, leading the firm to prioritize financial viability over broader internet adoption.",
+      "published_at": "2026-08-27T10:51:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
+      "link": "https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k",
+      "snippet": "August is heading for its strongest month of inflows since October 2025 if the pace holds, one analyst noted.",
+      "published_at": "2026-08-27T10:39:10+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
+      "link": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price analysis reveals convergence of multiple trend lines and liquidity structures around spot price, keeping upside in check.",
+      "published_at": "2026-08-27T10:34:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitfinex Securities completes record $50M tokenized capital raise",
+      "link": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.",
+      "published_at": "2026-08-27T10:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+      "link": "https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds",
+      "snippet": "Coordinators pressed agents with little budget left into experiments they called \"permadeath,\" METR's investigation found.",
+      "published_at": "2026-08-27T09:46:19+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
+      "link": "https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.",
+      "published_at": "2026-08-27T09:26:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
@@ -45,19 +566,6 @@
         "inflow",
         "inflows"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-27T06:47:23+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
