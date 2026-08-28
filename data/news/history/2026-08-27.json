@@ -1,8 +1,73 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T19:50:04.205130+00:00",
-  "count": 49,
+  "generated_at": "2026-08-28T04:13:47.224654+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
+      "link": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
+      "snippet": "The transaction used Bitcoin’s existing rules to protect funds from a future quantum attack without requiring a network upgrade.",
+      "published_at": "2026-08-27T22:36:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden",
+      "link": "https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello",
+      "snippet": "Google's new privacy standard scrambles the one field of a web request that still travels in the clear: the name of the site being opened.",
+      "published_at": "2026-08-27T22:06:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes",
+      "link": "https://decrypt.co/376755/bitcoin-sparrow-wallet-update-ai-fixes",
+      "snippet": "Developer Craig Raw said an AI-assisted review produced most of the fixes in version 2.5.4, though none appeared likely to put users’ funds at risk.",
+      "published_at": "2026-08-27T21:36:05+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
+      "link": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+      "snippet": "OpenAI says the model never sees your password—but a signed-in session can persist across tasks, and you can step away while it works.",
+      "published_at": "2026-08-27T21:00:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
+      "link": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The transaction used the Marshall Islands-issued USDM1 bond as collateral and completed the full repo cycle on the Canton Network in under 10 minutes.",
+      "published_at": "2026-08-27T20:39:40+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
