@@ -1,8 +1,124 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T17:20:56.231963+00:00",
-  "count": 40,
+  "generated_at": "2026-08-29T01:44:04.784213+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+      "link": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+      "snippet": "This latest U.S. appeals court ruling sets up a rift between federal courts on event contracts, suggesting the U.S. Supreme Court may need to settle the matter.",
+      "published_at": "2026-08-28T21:28:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
+      "link": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
+      "snippet": "BTC gave back some of its gains after Fed Chair Kevin Warsh talked tough on inflation, but prediction market traders are still leaning bullish.",
+      "published_at": "2026-08-28T21:16:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "bullish"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-28T20:42:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta Tests Robots to Handle Data Center Work",
+      "link": "https://decrypt.co/376843/meta-tests-robots-data-center",
+      "snippet": "The company says it needs more skilled workers as its AI infrastructure expands, but employees fear automation could reduce or eliminate some roles.",
+      "published_at": "2026-08-28T20:19:44+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana validators approve proposal to accelerate SOL disinflation",
+      "link": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The approved proposal doubles Solana’s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
+      "published_at": "2026-08-28T19:53:12+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+      "link": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
+      "snippet": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing—while the firm's XRP stash sits well below what it paid for it.",
+      "published_at": "2026-08-28T19:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
+      "link": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
+      "snippet": "Austin is the latest city to consider restrictions as communities challenge the water and electricity demands of AI infrastructure.",
+      "published_at": "2026-08-28T19:14:37+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+      "link": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
+      "published_at": "2026-08-28T17:46:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+      "link": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
+      "snippet": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
+      "published_at": "2026-08-28T17:44:09+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
@@ -52,7 +168,7 @@
       "source": "CoinDesk",
       "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
       "link": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-      "snippet": "Solana's first network-wide vote went down to the wire, with a Kraken-linked validator switching sides before the disinflation proposal narrowly passed.",
+      "snippet": "Solana's first network-wide vote went down to the wire, with Kraken and Galaxy-linked validators switching sides before the disinflation proposal narrowly passed.",
       "published_at": "2026-08-28T16:12:45+00:00",
       "impact": "нейтральний",
       "coins": [
@@ -204,19 +320,6 @@
       "triggers": [
         "ban"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-28T13:00:00+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
