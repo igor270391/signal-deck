@@ -1,8 +1,33 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T18:21:57.607740+00:00",
-  "count": 14,
+  "generated_at": "2026-08-29T21:41:18.573826+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
+      "published_at": "2026-08-29T20:28:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "link": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
+      "published_at": "2026-08-29T19:12:42+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption",
+        "institutional"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
