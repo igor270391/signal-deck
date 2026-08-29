@@ -1,8 +1,58 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T08:57:59.283259+00:00",
-  "count": 4,
+  "generated_at": "2026-08-29T14:24:46.234588+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+      "link": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+      "snippet": "The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its power and data-center business.",
+      "published_at": "2026-08-29T13:31:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized assets are busier than the data shows",
+      "link": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "snippet": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew…",
+      "published_at": "2026-08-29T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-08-29T12:39:59+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "link": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.",
+      "published_at": "2026-08-29T10:53:41+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "collapse"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Stablecoins not credible for payments at scale, BIS chief says",
