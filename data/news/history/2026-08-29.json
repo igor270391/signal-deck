@@ -1,8 +1,80 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T14:24:46.234588+00:00",
-  "count": 8,
+  "generated_at": "2026-08-29T18:21:57.607740+00:00",
+  "count": 14,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+      "link": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+      "snippet": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash.",
+      "published_at": "2026-08-29T17:31:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "link": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
+      "published_at": "2026-08-29T16:27:28+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+      "link": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+      "snippet": "Galaxy Research shows coins untouched for 10-plus years moving at an unusual pace in 2026, with six ancient wallets shifting $40 million in a single 10-day stretch this month.",
+      "published_at": "2026-08-29T15:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "link": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+      "snippet": "A new survey suggests some of bitcoin's most familiar sales pitches of changing the world may be poorly suited to a majority of prospective buyers.",
+      "published_at": "2026-08-29T15:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "snippet": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
+      "published_at": "2026-08-29T15:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+      "link": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+      "snippet": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet.",
+      "published_at": "2026-08-29T15:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
