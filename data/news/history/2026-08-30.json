@@ -1,8 +1,35 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T19:47:29.014661+00:00",
-  "count": 9,
+  "generated_at": "2026-08-30T22:41:42.987560+00:00",
+  "count": 11,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+      "link": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+      "snippet": "The Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never…",
+      "published_at": "2026-08-30T22:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+      "link": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+      "snippet": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
+      "published_at": "2026-08-30T21:31:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "inflow"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
