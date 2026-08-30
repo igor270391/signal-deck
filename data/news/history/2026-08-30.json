@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T11:47:42.656014+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "link": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
+      "published_at": "2026-08-30T09:45:01+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+      "link": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply.",
+      "published_at": "2026-08-30T08:04:56+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    }
+  ]
+}
