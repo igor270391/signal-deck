@@ -1,8 +1,23 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T21:41:18.573826+00:00",
-  "count": 16,
+  "generated_at": "2026-08-30T00:05:53.336394+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "link": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "snippet": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
+      "published_at": "2026-08-29T23:49:17+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit",
+        "ban"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Polygon discloses security flaws fixed in recent hard forks",
@@ -78,7 +93,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
       "link": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
       "snippet": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
       "published_at": "2026-08-29T15:00:00+00:00",
@@ -178,7 +193,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
       "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
       "snippet": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
       "published_at": "2026-08-29T04:30:00+00:00",
