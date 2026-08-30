@@ -1,8 +1,36 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T16:34:53.687342+00:00",
-  "count": 7,
+  "generated_at": "2026-08-30T19:47:29.014661+00:00",
+  "count": 9,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
+      "link": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
+      "snippet": "A Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's \"We're Back\" post fueled speculation that Strategy may resume buying.",
+      "published_at": "2026-08-30T19:39:55+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+      "link": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
+      "published_at": "2026-08-30T17:59:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
