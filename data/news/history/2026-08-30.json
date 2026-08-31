@@ -1,8 +1,36 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T22:41:42.987560+00:00",
-  "count": 11,
+  "generated_at": "2026-08-31T01:22:59.343535+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.",
+      "published_at": "2026-08-30T23:36:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "SOL"
+      ],
+      "note": "Нейтрально щодо BTC, SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+      "link": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+      "snippet": "Gabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
+      "published_at": "2026-08-30T23:31:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine",
+        "fined"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
@@ -60,7 +88,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+      "title": "Michael Saylor hints at first bitcoin purchase in two months",
       "link": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
       "snippet": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
       "published_at": "2026-08-30T15:39:55+00:00",
