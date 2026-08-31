@@ -1,8 +1,378 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T08:35:53.891859+00:00",
-  "count": 9,
+  "generated_at": "2026-08-31T17:03:32.451589+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
+      "link": "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
+      "snippet": "The largest cryptocurrency is on track for its best month since 2017, holding above $78,000 even as a hawkish Fed and renewed Middle East conflict drag on stocks and lift crude.",
+      "published_at": "2026-08-31T16:55:46+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price action saw sharp moves within its local range as US Treasury Secretary Scott Bessent addressed US bond yields.",
+      "published_at": "2026-08-31T16:38:51+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Wallet in Telegram rebrands to Walt as Gram wallet debuts",
+      "link": "https://cointelegraph.com/news/telegram-gram-wallet-launch-wallet-in-telegram-walt-rebrand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Telegram has rolled out its self-custodial Gram wallet as the default in user settings, while Wallet in Telegram is rebranding as Walt.",
+      "published_at": "2026-08-31T16:38:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sony Argues in Court That Digital Games Can't Be Owned",
+      "link": "https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned",
+      "snippet": "The PlayStation maker is fighting a California class action over \"Buy Now\" buttons, and has asked the judge to send the case to arbitration.",
+      "published_at": "2026-08-31T15:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
+      "link": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitmine has bought Ether for 65 consecutive weeks, maintaining its accumulation strategy through a prolonged crypto downturn and $5.1 billion in paper losses.",
+      "published_at": "2026-08-31T15:39:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
+      "link": "https://www.coindesk.com/policy/2026/08/31/kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos",
+      "snippet": "The prediction market platform banned Santos for manipulation as part of the industry's ongoing efforts to show it's dealing with bad behavior.",
+      "published_at": "2026-08-31T15:33:14+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "banned"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
+      "link": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Strive’s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it the fifth-largest publicly traded corporate holder as crypto markets rebound.",
+      "published_at": "2026-08-31T15:08:12+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June",
+      "link": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
+      "snippet": "The purchase lifts Bitmine's stash to 5.9 million ETH—4.9% of supply—as chairman Tom Lee points to crypto's strong third quarter.",
+      "published_at": "2026-08-31T14:54:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
+      "link": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Regulated cryptocurrency exchanges may see more than $46 billion in crypto trading volume during the first year after legalization, according to estimates from the country’s largest bank.",
+      "published_at": "2026-08-31T14:50:58+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
+      "link": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
+      "snippet": "The deal adds transfer-agent and settlement infrastructure to ICE's plans for an NYSE-affiliated market for tokenized stocks, tZERO said.",
+      "published_at": "2026-08-31T14:44:26+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+      "link": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
+      "snippet": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
+      "published_at": "2026-08-31T14:03:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
+      "link": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The million dollar question is what prompted a Bitcoin OG to send 20 BTC to a custodian, retrieve it back, and then deliberately burn it?",
+      "published_at": "2026-08-31T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ireland bars crypto from new tax-advantaged investment accounts",
+      "link": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts",
+      "snippet": "Eligible assets for the new accounts include listed stocks, bonds, and ETFs, with providers handling tax reporting to simplify investor compliance.",
+      "published_at": "2026-08-31T13:29:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Japanese regulator requests tax filing exemption for trust-type stablecoins in 2027 reform",
+      "link": "https://cointelegraph.com/news/japanese-regulator-tax-exemption-trust-type-stablecoins-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Japan’s FSA requested to exempt trust-type stablecoins from mandatory tax filings starting in fiscal year 2027, arguing that it would improve their use as transaction tools.",
+      "published_at": "2026-08-31T13:20:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet moves 4,800 BTC worth $377M to Coinbase",
+      "link": "https://cointelegraph.com/news/mutiny-metaplanet-moves-4800-btc-worth-377m-to-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Japanese Bitcoin treasury company has transferred 10,270 BTC to Coinbase Prime this week, an amount equal to more than 29% of its reported holdings.",
+      "published_at": "2026-08-31T13:19:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
+      "link": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
+      "snippet": "Company Chairman Lee said crypto’s recent outperformance could draw more institutional investors.",
+      "published_at": "2026-08-31T12:53:17+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
+      "link": "https://cointelegraph.com/news/strategy-buys-370m-bitcoin-first-acquisition-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Strategy added to its BTC treasury for the first time in two months, while continuing to bolster its cash reserves and buy back its perpetual STRC preferred stock.",
+      "published_at": "2026-08-31T12:45:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
+      "link": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
+      "snippet": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
+      "published_at": "2026-08-31T12:37:44+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "soar"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Buys $370M of Bitcoin in First Purchase Since June",
+      "link": "https://decrypt.co/376924/strategy-buys-370m-of-bitcoin-in-first-purchase-since-june",
+      "snippet": "The 4,603 BTC cost an average of $80,318, some 29% above what the company took for the coins it sold this summer.",
+      "published_at": "2026-08-31T12:27:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
+      "link": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
+      "snippet": "It's the first week of bitcoin purchases for the Michael Saylor-led company in about two months.",
+      "published_at": "2026-08-31T12:11:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
+      "link": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
+      "snippet": "The two-month-old network processed a record 5.52 million transactions on Aug. 30 as users launched 22,600 tokens and memecoin trading tools drove most of the $2.66 million in revenue.",
+      "published_at": "2026-08-31T11:53:56+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
+      "link": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
+      "snippet": "The Bank of Russia recently included ETH and USDT in a draft list of cryptocurrencies approved for public trading on Russian exchanges.",
+      "published_at": "2026-08-31T11:26:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/31/here-s-1-metric-on-u-s-debt-that-makes-bitcoin-s-bull-case-look-stronger-than-ever",
+      "snippet": "Your day-ahead look for Aug. 31, 2026",
+      "published_at": "2026-08-31T11:25:34+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
+      "link": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto projects spent a record $638 million on token buybacks so far in 2026, as more protocols are turning their revenue into buybacks to return more value to token holders.",
+      "published_at": "2026-08-31T11:21:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
+      "link": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
+      "snippet": "Shares, bonds, funds, ETFs and insurance products will qualify for the tax-advantaged accounts, which open next year.",
+      "published_at": "2026-08-31T11:10:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Markets pivot to September Fed rate hike: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin approached the August monthly close below key resistance with markets once again pricing in a Federal Reserve interest-rate hike in September.",
+      "published_at": "2026-08-31T10:51:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024",
+      "link": "https://www.coindesk.com/markets/2026/08/31/u-s-strikes-on-iran-fail-to-stir-bitcoin-on-track-for-best-month-since-november-2024",
+      "snippet": "Bitcoin held steady despite a broader risk-off move after the first U.S. strikes against Iran for weeks sent oil higher and stocks lower. The cryptocurrency has gained 24% this month.",
+      "published_at": "2026-08-31T10:44:52+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+      "link": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
+      "snippet": "Some $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.",
+      "published_at": "2026-08-31T09:41:27+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "More Markets lending reserve drained for $9.3M: Blockaid",
+      "link": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Blockaid said an attacker used an Ankr liquid staking token and E-mode to overborrow from More Markets and drain about $9.3 million in WFLOW from a lending reserve.",
+      "published_at": "2026-08-31T08:57:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
@@ -16,9 +386,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar",
+      "title": "Live updates: Bitcoin trades near $78,000; Strategy buys BTC for first time since late June",
       "link": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
-      "snippet": "Bitcoin is holding just under $78,000 as August closes. The dollar strength that pushed the yen past its intervention line is the same force capping crypto.",
+      "snippet": "The price of crude oil is surging higher after overnight military strikes in Iran, with Trump once again proclaiming victory.",
       "published_at": "2026-08-31T08:18:03+00:00",
       "impact": "нейтральний",
       "coins": [
@@ -56,7 +426,7 @@
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-08-31T05:59:08+00:00",
+      "published_at": "2026-08-31T06:01:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
