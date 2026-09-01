@@ -1,8 +1,195 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T13:28:27.266925+00:00",
-  "count": 27,
+  "generated_at": "2026-09-01T17:50:07.075297+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+      "link": "https://cointelegraph.com/news/kalshi-bans-politicians-insider-trading-bets-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The prediction platform permanently banned George Santos and issued a three-year suspension for Laurie Buckhout after investigations into using insider information on event contracts.",
+      "published_at": "2026-09-01T17:39:48+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "banned",
+        "sues"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "link": "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The planned venture will initially focus on a US dollar stablecoin before expanding to other G7 currencies, with a euro-denominated offering next.",
+      "published_at": "2026-09-01T16:39:12+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
+      "link": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
+      "snippet": "X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
+      "published_at": "2026-09-01T16:26:10+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
+      "link": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
+      "snippet": "The investment firm bought 456,059 Block shares across three ETFs and added $3.4 million in Circle stock.",
+      "published_at": "2026-09-01T16:13:28+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "link": "https://cointelegraph.com/news/ethena-launches-usde-powered-money-app-across-48-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The self-custodial app brings USDe into everyday payments, savings and cross-border transfers, with annualized rewards of up to 6%.",
+      "published_at": "2026-09-01T16:06:58+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "link": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "snippet": "The group will focus first on a U.S. dollar stablecoin for payments and digital asset settlement, with a euro token a priority for expansion.",
+      "published_at": "2026-09-01T15:36:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "link": "https://cointelegraph.com/markets/bitcoin-remains-flat-as-global-bond-bear-market-rages-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Global bond yields hit multi-decade highs today as Japan’s 10-year JGB yield reached a 30-year peak, keeping Bitcoin steady near $78,000.",
+      "published_at": "2026-09-01T15:34:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+      "link": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+      "snippet": "Revenue on Robinhood Chain hit a 24-hour record of $1.9 million, driving a 30% rally in ARB as traders chased downstream gains.",
+      "published_at": "2026-09-01T15:28:29+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rally",
+        "soar"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Musk’s X hit by wave of unsolicited password reset emails",
+      "link": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+      "snippet": "Multiple crypto industry figures and CoinDesk staff received unexpected password reset emails on Tuesday, though there is no evidence yet that X itself has been breached.",
+      "published_at": "2026-09-01T14:59:12+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
+      "link": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
+      "snippet": "The actor’s lawyers spent six months negotiating the contract for “Bitcoin: Killing Satoshi” in order to “protect” her performance.",
+      "published_at": "2026-09-01T14:39:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fake Claude desktop app spreads crypto-stealing malware",
+      "link": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.",
+      "published_at": "2026-09-01T14:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+      "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+      "snippet": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
+      "published_at": "2026-09-01T13:56:44+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо BTC, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+      "snippet": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
+      "published_at": "2026-09-01T13:55:26+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
+      "link": "https://cointelegraph.com/magazine/does-bitcoins-rally-mean-we-havent-wasted-our-lives-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto is showing signs of life again, but its biggest wins look different from what early believers imagined. After a decade of building, has it all been worth it?",
+      "published_at": "2026-09-01T13:30:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
@@ -203,7 +390,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report",
+      "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
       "link": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
       "snippet": "The sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
       "published_at": "2026-09-01T09:46:27+00:00",
@@ -280,7 +467,7 @@
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-01T05:58:48+00:00",
+      "published_at": "2026-09-01T06:01:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
