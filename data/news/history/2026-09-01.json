@@ -1,8 +1,124 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T17:50:07.075297+00:00",
-  "count": 41,
+  "generated_at": "2026-09-01T20:58:50.718701+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
+      "link": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The launch gives eligible non-US users access to physically settled options on more than 1,000 US stocks and ETFs through a single Binance account.",
+      "published_at": "2026-09-01T20:42:29+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "expands"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
+      "link": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
+      "snippet": "Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next…",
+      "published_at": "2026-09-01T20:31:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
+      "link": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "UK authorities froze $13.5 million in cash following a January 2025 order from the Westminster Magistrates’ Court as part of an investigation into Sorare.",
+      "published_at": "2026-09-01T20:14:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+      "link": "https://decrypt.co/377099/dropbox-security-breach",
+      "snippet": "Attackers reportedly registered Lenovo IDs using victims’ email addresses, allowing them to sign into existing Dropbox accounts without their passwords.",
+      "published_at": "2026-09-01T20:01:05+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-01T20:00:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+      "link": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
+      "snippet": "Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days",
+      "published_at": "2026-09-01T19:29:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
+      "link": "https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall",
+      "snippet": "Bitcoin just had one its best months in years amid a price rally that broke the crypto winter pattern. But the charts tell a complicated story.",
+      "published_at": "2026-09-01T18:22:09+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "bullish"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+      "link": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+      "snippet": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
+      "published_at": "2026-09-01T18:03:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+      "link": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
+      "published_at": "2026-09-01T17:52:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
@@ -412,7 +528,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
+      "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
       "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
       "snippet": "Bitcoin ETFs took in $217 million on Monday, one session after an outflow ended their nine-day run. Ether ETFs have not had net outflows since mid-August.",
       "published_at": "2026-09-01T08:35:57+00:00",
@@ -460,19 +576,6 @@
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-01T06:01:00+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
