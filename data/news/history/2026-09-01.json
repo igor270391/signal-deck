@@ -1,8 +1,269 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T07:42:44.920389+00:00",
-  "count": 7,
+  "generated_at": "2026-09-01T13:28:27.266925+00:00",
+  "count": 27,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+      "link": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+      "snippet": "Ethena Pay offers a 6% dollar savings rate and 5% card cashback, using Avalanche for settlement.",
+      "published_at": "2026-09-01T13:15:35+00:00",
+      "impact": "негативний",
+      "coins": [
+        "AVAX"
+      ],
+      "note": "Негативний тон для AVAX за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+      "link": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.",
+      "published_at": "2026-09-01T13:13:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "partnership",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kast launches stablecoin-powered business platform after $80M raise",
+      "link": "https://cointelegraph.com/news/kast-launches-stablecoin-business-platform-80m-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Kast aims to onboard between 1,000 and 5,000 active businesses to its new platform by the end of 2026.",
+      "published_at": "2026-09-01T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe",
+      "link": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
+      "snippet": "Authorities targeted funds from a $140 million sponsorship deal with crypto firm Sorare, though law enforcement confirmed no wrongdoing by the Premier League.",
+      "published_at": "2026-09-01T12:37:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
+      "link": "https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
+      "snippet": "Strategy somehow threaded the needle of buying Bitcoin and STRC while also raising cash. Now how will the market respond?",
+      "published_at": "2026-09-01T12:21:23+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "South Korea Arrests Four Over Crypto Payments to Syrian Terror Group",
+      "link": "https://decrypt.co/377015/south-korea-arrests-four-over-crypto-payments-to-syrian-terror-group",
+      "snippet": "Police say the ringleader also took crypto from the group and sent back 11 used cars and two excavators, a first for Korean investigators.",
+      "published_at": "2026-09-01T12:16:24+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
+      "link": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
+      "snippet": "The company's Texas campus has two long-term leases worth $19.6 billion, more than 260 times its latest quarterly revenue, as AI companies race to secure power and data-center capacity.",
+      "published_at": "2026-09-01T12:11:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
+      "link": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto wallets linked to the OFAC-sanctioned Lazarus Group moved $30 million in digital assets through Hyperliquid, weeks after regulators said they were working on a path to introduce the exchange…",
+      "published_at": "2026-09-01T12:01:08+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
+      "link": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
+      "snippet": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
+      "published_at": "2026-09-01T11:28:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
+      "snippet": "Your day-ahead look for Sept. 1, 2026",
+      "published_at": "2026-09-01T11:15:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+      "link": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.",
+      "published_at": "2026-09-01T10:56:41+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+      "link": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+      "snippet": "The country’s financial watchdog says its proposed stablecoin rules are aligned with U.S. and EU frameworks and that it also paves the way for the recognition of foreign stablecoin.",
+      "published_at": "2026-09-01T10:35:21+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+      "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
+      "snippet": "BTC drifted lower after last week's rally to $81,428, while ARB led DeFi gains as Robinhood Chain's daily fees topped $2 million.",
+      "published_at": "2026-09-01T10:29:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+      "link": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.",
+      "published_at": "2026-09-01T10:00:00+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued",
+        "fine"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+      "link": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiting its earlier decision to restrict the framework to domestic issuance.",
+      "published_at": "2026-09-01T09:55:11+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report",
+      "link": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
+      "snippet": "The sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
+      "published_at": "2026-09-01T09:46:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
+      "link": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
+      "snippet": "STRC trades at $97.34 despite Strategy’s growing repurchases, while SATA’s higher dividend rate has helped it hold its $100 par value.",
+      "published_at": "2026-09-01T09:29:33+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
+      "link": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+      "snippet": "Bitcoin ETFs took in $217 million on Monday, one session after an outflow ended their nine-day run. Ether ETFs have not had net outflows since mid-August.",
+      "published_at": "2026-09-01T08:35:57+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+      "link": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+      "snippet": "The LSE is working with Kraken owner Payward, the developer of the xStocks tokenized equities framework, to bring top U.K.-listed stocks onchain.",
+      "published_at": "2026-09-01T07:49:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
+      "link": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below Kalshi’s $22 billion valuation.",
+      "published_at": "2026-09-01T07:47:13+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
