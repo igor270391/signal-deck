@@ -1,8 +1,182 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T13:35:31.989218+00:00",
-  "count": 27,
+  "generated_at": "2026-09-02T17:53:57.295841+00:00",
+  "count": 40,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
+      "link": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
+      "snippet": "Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.",
+      "published_at": "2026-09-02T17:41:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
+      "snippet": "Adding Massachusetts incumbent Auchincloss to the list of winning primary candidates Fairshake supported, the industry's influence moves on to November.",
+      "published_at": "2026-09-02T17:39:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
+      "link": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
+      "snippet": "After multiple appeals courts ruled differently about whether states can crack down on prediction markets' sports products, New Jersey asked SCOTUS to step in.",
+      "published_at": "2026-09-02T17:23:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
+      "link": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
+      "snippet": "The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group…",
+      "published_at": "2026-09-02T16:43:53+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ondo urges SEC, CFTC to bring US stock perpetuals onshore",
+      "link": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ondo says existing US securities laws can accommodate perpetual futures tied to individual stocks as regulators look to bring more derivatives activity onshore.",
+      "published_at": "2026-09-02T16:39:22+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
+      "link": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "One of Bitcoin’s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off.",
+      "published_at": "2026-09-02T16:35:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+      "link": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
+      "snippet": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
+      "published_at": "2026-09-02T15:42:13+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "G20 members tout ‘clear pathways’ for digital asset innovation",
+      "link": "https://cointelegraph.com/news/g20-members-clear-pathways-digital-asset-innovation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Officials in the G20, under the US’ presidency, recognized that digital assets could support “broad-based economic growth” and called for improvements in cross-border transactions.",
+      "published_at": "2026-09-02T15:34:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
+      "link": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
+      "snippet": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
+      "published_at": "2026-09-02T15:18:44+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
+      "snippet": "In this week's Crypto Long & Short, Varun Datta of Truth Ventures writes that crypto venture capital's retreat to later-stage deals is a consensus trade dressed as discipline. With proven companies…",
+      "published_at": "2026-09-02T15:15:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+      "link": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
+      "snippet": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
+      "published_at": "2026-09-02T14:16:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+      "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
+      "published_at": "2026-09-02T13:40:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-02T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
+      "link": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase “3x to 5x pretty quickly.”",
+      "published_at": "2026-09-02T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
@@ -235,16 +409,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trades near $77,000, as yields ease following soft ADP jobs report",
+      "title": "Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage",
       "link": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
       "snippet": "The ADP reported private-sector job growth of just 38,000, missing forecasts and marking the weakest level since January.",
       "published_at": "2026-09-02T08:31:00+00:00",
-      "impact": "нейтральний",
+      "impact": "негативний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
     },
     {
       "source": "Cointelegraph",
@@ -284,19 +460,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red",
       "snippet": "China's \"credit impulse\" is flashing red for risk assets. So far, bitcoin has mostly shrugged it off.",
       "published_at": "2026-09-02T06:53:22+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-02T05:54:06+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
