@@ -1,8 +1,21 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T23:18:02.520989+00:00",
-  "count": 53,
+  "generated_at": "2026-09-03T04:05:41.977486+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+      "link": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+      "snippet": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+      "published_at": "2026-09-02T23:46:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
