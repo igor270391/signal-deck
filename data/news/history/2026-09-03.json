@@ -1,8 +1,155 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T13:33:29.957235+00:00",
-  "count": 25,
+  "generated_at": "2026-09-03T17:49:47.071600+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures",
+      "link": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+      "snippet": "The regulator argues that CME cannot challenge its approval of Kalshi’s Bitcoin perpetual contract without showing concrete financial harm.",
+      "published_at": "2026-09-03T17:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bybit Pay integrates with Mesh to expand crypto payments",
+      "link": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
+      "published_at": "2026-09-03T17:13:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "integrates",
+        "integration"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
+      "link": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
+      "published_at": "2026-09-03T17:06:28+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
+      "link": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
+      "snippet": "Stocks and crypto rallied together after Governor Christopher Waller said he could back holding rates steady, with short sellers absorbing the brunt of the squeeze.",
+      "published_at": "2026-09-03T16:38:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
+      "link": "https://decrypt.co/377313/sony-dismisses-ps5-buyers-508m-tariff-refund-claim-as-illogical",
+      "snippet": "The company raised PlayStation prices for a second time in March, five weeks after the tariffs were struck down.",
+      "published_at": "2026-09-03T16:28:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+      "link": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.",
+      "published_at": "2026-09-03T16:04:11+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+      "link": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+      "snippet": "The bank is now offering institutional crypto spot trading in the region, bringing BTC and ETH onto the same eFX rails that institutions use to trade dollars and euros.",
+      "published_at": "2026-09-03T15:58:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal",
+      "link": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
+      "snippet": "Kraken will list SoFiUSD and gain access to SoFi’s round-the-clock dollar settlement network, while Kraken Prime will execute trades for SoFi’s crypto customers.",
+      "published_at": "2026-09-03T15:40:08+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
+      "snippet": "",
+      "published_at": "2026-09-03T15:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
+      "link": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+      "snippet": "Users paid nearly $6 million in a day to create and trade tokens through Pons, more than they paid to use Pump or Hyperliquid, and even more than they paid to use Robinhood Chain itself.",
+      "published_at": "2026-09-03T14:51:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
+      "link": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+      "snippet": "Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.",
+      "published_at": "2026-09-03T14:41:25+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
+      "link": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered — but that’s of no help if the money was never there in the first place.",
+      "published_at": "2026-09-03T13:30:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "recovery"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -114,7 +261,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises to $78,000, with next week's CPI report looming large",
+      "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
       "link": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
       "snippet": "The government's employment data (due tomorrow) is usually the main economic report of the month, but this time around it's next week's inflation numbers that will decide Fed policy.",
       "published_at": "2026-09-03T10:42:15+00:00",
