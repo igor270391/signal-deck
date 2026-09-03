@@ -1,8 +1,47 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T20:55:38.646945+00:00",
-  "count": 45,
+  "generated_at": "2026-09-03T23:15:31.984081+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
+      "link": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
+      "snippet": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
+      "published_at": "2026-09-03T22:16:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crackdown"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+      "link": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
+      "snippet": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
+      "published_at": "2026-09-03T21:31:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
+      "link": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to file and argued against its claims over crypto perpetual futures.",
+      "published_at": "2026-09-03T21:09:13+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
