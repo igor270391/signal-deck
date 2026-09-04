@@ -1,8 +1,201 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T08:52:21.375554+00:00",
-  "count": 10,
+  "generated_at": "2026-09-04T13:27:47.106589+00:00",
+  "count": 25,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
+      "link": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
+      "snippet": "This morning's report will be key as the Fed considers whether to raise interest rates at its September policy meeting.",
+      "published_at": "2026-09-04T12:31:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Stages Major Rally on Rate Hopes",
+      "link": "https://decrypt.co/377393/morning-minute-crypto-stages-major-rally-on-rate-hopes",
+      "snippet": "Bitcoin soared past $81k, HYPE and ZEC hit smashing new ATHs and the onchain rally leveled up. Is this the first stage of the next leg up?",
+      "published_at": "2026-09-04T12:31:31+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "soar"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "IMF Now Says Donations Funded El Salvador's Bitcoin Growth",
+      "link": "https://decrypt.co/377392/imf-now-says-donations-funded-el-salvadors-bitcoin-growth",
+      "snippet": "A year ago the fund claimed the total had not moved, and that the reserve was only shuffling coins between government wallets.",
+      "published_at": "2026-09-04T12:26:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "67,000 More Trezor Customers Exposed as Data Breach Widens",
+      "link": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens",
+      "snippet": "Some records exposed in the breach date to 2019, years beyond the 90-day retention Trezor said its partners had agreed to.",
+      "published_at": "2026-09-04T11:32:49+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+      "link": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Kalshi’s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.",
+      "published_at": "2026-09-04T11:32:28+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "soar"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+      "snippet": "Your day-ahead look for Sept. 4, 2026",
+      "published_at": "2026-09-04T11:29:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trezor says data breach affects another 67K US customers",
+      "link": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Trezor said an additional 67,000 US users were affected by its shipping provider’s data breach, opening the path to potential phishing attacks and social engineering scams.",
+      "published_at": "2026-09-04T11:19:19+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach",
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korean regulators introduce tokenized securities roadmap",
+      "link": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "South Korea’s financial regulator introduced a three-phase roadmap for the issuance of tokenized assets, as the country prepares to adopt its first tokenized securities framework in February 2027.",
+      "published_at": "2026-09-04T10:42:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "link": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+      "snippet": "ZEC briefly traded above $1,020 as a sharp rally forced traders betting against the token out of leveraged positions.",
+      "published_at": "2026-09-04T10:40:14+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
+      "link": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
+      "snippet": "Monthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.",
+      "published_at": "2026-09-04T10:22:57+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+      "link": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+      "snippet": "BTC pushed through the level that capped it in late August, while zcash gained 16% and dash 19%.",
+      "published_at": "2026-09-04T09:57:01+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AMC chief criticizes Robinhood’s tokenized stock plan",
+      "link": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "AMC’s CEO criticized Robinhood’s tokenized stock offerings for being unregulated in the US and said he will request an investigation from an external securities counsel.",
+      "published_at": "2026-09-04T09:56:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
+      "link": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
+      "snippet": "The IMF confirmed that all bitcoin added to official holdings since June 2025 was sourced from private donations, with no public funds used for accumulation.",
+      "published_at": "2026-09-04T09:47:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+      "link": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+      "snippet": "Financial regulators unveiled a phased roadmap moving traditional capital markets onto distributed ledgers, concluding with onchain stablecoin settlement.",
+      "published_at": "2026-09-04T09:41:31+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
+      "link": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
+      "snippet": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
+      "published_at": "2026-09-04T09:24:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
@@ -21,9 +214,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+      "title": "Live updates: Bitcoin tumbles after blowout August jobs print",
       "link": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
-      "snippet": "Every fund in the complex rose almost 6% on Thursday and net assets crossed $103 billion for the first time. BlackRock's IBIT accounted for well over half the money.",
+      "snippet": "Net assets in spot bitcoin ETFs crossed $103 billion for the first time, with BlackRock's IBIT accounting for well over half the money.",
       "published_at": "2026-09-04T07:34:07+00:00",
       "impact": "нейтральний",
       "coins": [
