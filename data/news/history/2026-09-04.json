@@ -1,8 +1,182 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T13:27:47.106589+00:00",
-  "count": 25,
+  "generated_at": "2026-09-04T17:36:25.719367+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+      "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
+      "published_at": "2026-09-04T17:22:58+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "adoption",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+      "link": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+      "snippet": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin…",
+      "published_at": "2026-09-04T17:19:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
+      "link": "https://cointelegraph.com/news/qufi-launches-post-quantum-verification-platform-with-bitcoin-testnet-proof?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "QuFi’s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks.",
+      "published_at": "2026-09-04T17:09:25+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US law enforcement group moves to ‘neutral’ position on CLARITY Act",
+      "link": "https://cointelegraph.com/news/national-sheriffs-association-clarity-act-neutral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Despite earlier opposition to the CLARITY Act over consumer protection, the National Sheriffs’ Association says it will now “step back and allow the legislative process to proceed.“",
+      "published_at": "2026-09-04T17:05:34+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Hits Highest Price in Nearly a Decade, Crushing Short Bets",
+      "link": "https://decrypt.co/377445/zcash-price-high-decade-shorts-rekt",
+      "snippet": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
+      "published_at": "2026-09-04T16:24:46+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
+      "link": "https://decrypt.co/377412/openai-agents-hack-german-website",
+      "snippet": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.",
+      "published_at": "2026-09-04T15:36:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds",
+      "link": "https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds",
+      "snippet": "The Dow dropped 226 points and Bitcoin erased some of its gains after August payrolls tripled estimates, pushing September rate-hike odds to 58%.",
+      "published_at": "2026-09-04T15:13:28+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "BitMEX Co-Founder Ben Delo Gives Farage's Reform UK Another £4 Million",
+      "link": "https://decrypt.co/377411/bitmex-co-founder-ben-delo-gives-farages-reform-uk-another-4-million",
+      "snippet": "Two April payments supplied three-quarters of the party's donations for the quarter, where the next largest single gift was £180,000.",
+      "published_at": "2026-09-04T15:10:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+      "link": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
+      "snippet": "Adam Aron said synthetic AMC shares could divert demand from the actual stock and strip investors of shareholder rights, drawing support from some tokenization executives.",
+      "published_at": "2026-09-04T14:56:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
+      "link": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
+      "snippet": "The U.K.'s largest retail investment platform, Hargreaves Lansdown, has reversed course following the FCA's decision to lift its retail ban on crypto ETPs in October.",
+      "published_at": "2026-09-04T14:23:11+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
+      "link": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
+      "snippet": "The law enforcement association said it has pivoted its position regarding the Clarity Act to neutral, months after it warned against a law it said would shield crypto crime.",
+      "published_at": "2026-09-04T14:12:34+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+      "link": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
+      "published_at": "2026-09-04T13:34:30+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-04T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Token buybacks are booming. But are they good for crypto projects?",
+      "link": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
+      "published_at": "2026-09-04T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
@@ -218,19 +392,6 @@
       "link": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
       "snippet": "Net assets in spot bitcoin ETFs crossed $103 billion for the first time, with BlackRock's IBIT accounting for well over half the money.",
       "published_at": "2026-09-04T07:34:07+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-04T06:22:29+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
