@@ -1,8 +1,32 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T20:42:25.892997+00:00",
-  "count": 43,
+  "generated_at": "2026-09-04T23:01:38.506733+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
+      "link": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
+      "snippet": "Nearly 30 banks backed the rare unsecured facility as TikTok’s parent company spends heavily on AI chips, models, and overseas data centers.",
+      "published_at": "2026-09-04T21:46:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
+      "link": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
+      "snippet": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today’s encryption and digital signatures.",
+      "published_at": "2026-09-04T21:16:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
@@ -16,6 +40,19 @@
         "launch",
         "launches"
       ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
+      "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
+      "published_at": "2026-09-04T20:30:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Cointelegraph",
