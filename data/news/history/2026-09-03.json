@@ -1,8 +1,25 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T23:15:31.984081+00:00",
-  "count": 48,
+  "generated_at": "2026-09-04T04:07:22.979096+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
+      "link": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie crypto firms face big fines unless they meet licensing deadline.",
+      "published_at": "2026-09-03T23:40:09+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued",
+        "scam",
+        "fine"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",

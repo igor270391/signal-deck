@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T04:07:22.979096+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+      "link": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
+      "snippet": "The Office of the Comptroller of the Currency granted a provisional charter to the new full-service bank, adding it to the growing mix of crypto-native institutions.",
+      "published_at": "2026-09-04T03:26:50+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+      "link": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+      "snippet": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
+      "published_at": "2026-09-04T03:03:25+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
