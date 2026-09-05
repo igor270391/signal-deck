@@ -1,8 +1,60 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T10:28:37.487536+00:00",
-  "count": 3,
+  "generated_at": "2026-09-05T13:53:55.133843+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+      "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+      "snippet": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+      "published_at": "2026-09-05T13:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+      "snippet": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
+      "published_at": "2026-09-05T12:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-05T11:16:19+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
+      "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
+      "published_at": "2026-09-05T10:44:29+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "bankrupt",
+        "bankruptcy"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
