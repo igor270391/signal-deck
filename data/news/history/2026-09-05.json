@@ -1,8 +1,34 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T16:47:44.816015+00:00",
-  "count": 10,
+  "generated_at": "2026-09-05T19:01:11.528292+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "snippet": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
+      "published_at": "2026-09-05T18:05:11+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+      "link": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+      "snippet": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.",
+      "published_at": "2026-09-05T17:01:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
