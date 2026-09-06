@@ -1,8 +1,32 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T17:00:51.366904+00:00",
-  "count": 8,
+  "generated_at": "2026-09-06T19:03:56.006418+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+      "snippet": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court.",
+      "published_at": "2026-09-06T18:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+      "link": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+      "snippet": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+      "published_at": "2026-09-06T17:01:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
