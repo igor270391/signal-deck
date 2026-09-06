@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T10:46:15.766230+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+      "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody.",
+      "published_at": "2026-09-06T09:07:08+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
