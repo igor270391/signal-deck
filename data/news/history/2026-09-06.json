@@ -1,8 +1,47 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T14:09:02.418615+00:00",
-  "count": 5,
+  "generated_at": "2026-09-06T17:00:51.366904+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+      "link": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+      "snippet": "The multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
+      "published_at": "2026-09-06T16:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "link": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "snippet": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
+      "published_at": "2026-09-06T16:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Stablecoins Won't Scale Without Banks",
+      "link": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+      "snippet": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+      "published_at": "2026-09-06T15:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
@@ -34,7 +73,7 @@
       "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
       "link": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
-      "published_at": "2026-09-06T13:01:48+00:00",
+      "published_at": "2026-09-06T13:03:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
