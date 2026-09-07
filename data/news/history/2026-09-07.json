@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T04:09:47.402005+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "snippet": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
+      "published_at": "2026-09-07T03:43:12+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Purported white hat hackers have taken 4000 Bitcoin from the Liquid sidechain in a major security breach. The Bitcoin ETFs see the best three weeks of inflows in 2026.",
+      "published_at": "2026-09-07T00:05:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
