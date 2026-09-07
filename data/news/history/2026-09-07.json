@@ -1,8 +1,164 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T15:50:47.080818+00:00",
-  "count": 33,
+  "generated_at": "2026-09-07T19:52:32.963355+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
+      "link": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
+      "snippet": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
+      "published_at": "2026-09-07T19:47:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
+      "link": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
+      "snippet": "Nearly 600 BTC remains outstanding after Blockstream told the actors in an on-chain message that Liquid’s bridge nodes had been patched.",
+      "published_at": "2026-09-07T19:13:56+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
+      "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump’s memecoin.",
+      "published_at": "2026-09-07T18:53:47+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
+      "link": "https://decrypt.co/377597/middle-east-crypto-activity-350-billion",
+      "snippet": "The Iran conflict has increased demand for digital assets to preserve and transfer wealth, while Gulf crypto businesses have kept operating through disruption, the Bitcoin Policy Institute says.",
+      "published_at": "2026-09-07T18:16:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
+      "link": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Polish prosecutors charged Romana Ż. with organized crime and misappropriation offenses involving $2.1 million in Zondacrypto user funds.",
+      "published_at": "2026-09-07T17:58:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charged"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
+      "link": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
+      "snippet": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.",
+      "published_at": "2026-09-07T17:41:55+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
+      "link": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance of a September rate hike, putting monetary conditions back in focus.",
+      "published_at": "2026-09-07T17:29:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC",
+      "link": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing the French company ahead of H100 Group among publicly traded BTC holders.",
+      "published_at": "2026-09-07T16:42:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP’s Biggest Losers",
+      "link": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
+      "snippet": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
+      "published_at": "2026-09-07T16:26:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Harmony Cites AI Threats in Proposed Blockchain Shutdown",
+      "link": "https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown",
+      "snippet": "The team wants to move ONE to Ethereum and enter the AI-video business, urging users to exit smart contracts before September 10.",
+      "published_at": "2026-09-07T16:16:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
+      "link": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday saw $80,000 once again slip from bulls’ grasp.",
+      "published_at": "2026-09-07T15:57:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
+      "link": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
+      "snippet": "LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes — including a Democratic win in 2028 — comes good.",
+      "published_at": "2026-09-07T15:44:30+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
@@ -262,7 +418,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin struggles at $83,000 sell wall as whales distribution flip into net selling",
+      "title": "Bitcoin struggles at $83,000 'wall' as whales flip into net selling",
       "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds",
       "snippet": "All wallet cohorts have shifted into net distribution for the first time since early June, but a potential golden cross offers bulls some hope.",
       "published_at": "2026-09-07T09:48:51+00:00",
