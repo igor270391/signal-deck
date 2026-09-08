@@ -1,8 +1,182 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T05:57:41.258068+00:00",
-  "count": 5,
+  "generated_at": "2026-09-08T11:06:32.312103+00:00",
+  "count": 20,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
+      "link": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
+      "snippet": "Validators rolled back nearly two hours of blockchain history to recover user assets. But the attackers still managed to get away with $9.19 million before Cronos halted the network.",
+      "published_at": "2026-09-08T10:39:33+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
+      "snippet": "Bitcoin fell 0.42% since midnight UTC to $78,874, but the CoinDesk 20 rose 0.2% and the memecoin index gained 0.41% as BNB Chain tokens rallied.",
+      "published_at": "2026-09-08T10:33:17+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "BNB"
+      ],
+      "note": "Негативний тон для BTC, BNB за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "selloff"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
+      "link": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Humo Digital will test HUMO payments with more than 20 merchants under a sandbox jointly overseen by NAPP and Uzbekistan’s central bank.",
+      "published_at": "2026-09-08T10:07:10+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ledger CTO urges AI bug hunter responsibility, warns against ‘attention farming’",
+      "link": "https://cointelegraph.com/news/ledger-trezor-warn-ai-bug-hunters-attention-farming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ledger and Trezor said researchers have a responsibility to publish their findings if vendors fail to fix bugs within an agreed disclosure window.",
+      "published_at": "2026-09-08T10:03:30+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
+      "link": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
+      "snippet": "Two chief executives of the exchange have now vanished, four years apart, leaving 1.3 million clients locked out.",
+      "published_at": "2026-09-08T09:54:59+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood chain to generate $160M in annual fees by 2028: Bernstein",
+      "link": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Growing demand for tokenized stock trading may drive the Robinhood chain’s annual fees to $160 million by 2028, predicted analysts from Bernstein.",
+      "published_at": "2026-09-08T09:54:40+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
+      "link": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
+      "snippet": "South Korea’s budget office warned that stablecoin adoption could reduce banks' roles as credit intermediaries and potentially destabilize token pegs during mass redemptions.",
+      "published_at": "2026-09-08T09:51:01+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+      "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.",
+      "published_at": "2026-09-08T09:40:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
+      "link": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system",
+      "snippet": "The firms say their combination of physical authentication, digital traceability and enterprise process design has no precedent in supply chains, and cocoa is just the start.",
+      "published_at": "2026-09-08T09:39:36+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
+      "link": "https://www.coindesk.com/tech/2026/09/08/live-updates",
+      "snippet": "Bitcoin, gold and technology stocks fall as the yen rallies, while oil prices and government bond yields climb globally.",
+      "published_at": "2026-09-08T08:30:30+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "rallies"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+      "link": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4 million, with 7.6% transferred off-network before validators intervened.",
+      "published_at": "2026-09-08T08:10:44+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+      "link": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Financial market operator SIX and payment app TWINT have joined numerous banks in the sandbox seeking to develop a Swiss franc-based stablecoin.",
+      "published_at": "2026-09-08T07:18:32+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
+      "link": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
+      "snippet": "The unit formalizes past operations, building on 1.5 million euros in seized crypto the exchange processed in 2025 for agencies including Interpol and Europol.",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
+      "link": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
+      "snippet": "Kraken deleted a promotional post after backlash, while a media group named in the token's distribution publicly distanced itself from the project.",
+      "published_at": "2026-09-08T06:23:53+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s golden cross is here",
@@ -17,6 +191,19 @@
       "triggers": [
         "bullish"
       ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-08T05:52:38+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Cointelegraph",
