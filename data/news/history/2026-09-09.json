@@ -1,8 +1,307 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T09:36:56.091867+00:00",
-  "count": 13,
+  "generated_at": "2026-09-09T14:24:44.902912+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
+      "link": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+      "snippet": "The expansion gives institutional and automated traders access to full-depth political prediction-market order books ahead of the U.S. midterms.",
+      "published_at": "2026-09-09T14:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "expansion"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "PayPal expands stablecoin rails with custom token issuance platform",
+      "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+      "snippet": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.",
+      "published_at": "2026-09-09T14:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+      "link": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+      "snippet": "LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain records show tokens had been distributed to market makers for a week before trading began.",
+      "published_at": "2026-09-09T13:57:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
+      "link": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryptocurrencies, departing from current laws that make crypto gains tax-free after one year of holding.",
+      "published_at": "2026-09-09T13:49:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "10 of the greatest unsolved crypto mysteries",
+      "link": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.",
+      "published_at": "2026-09-09T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
+      "link": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
+      "snippet": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
+      "published_at": "2026-09-09T13:28:52+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "soar",
+        "soars"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMart misses roadmap deadline, appoints financial adviser",
+      "link": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BitMart provided no asset figures or withdrawal timetable and will launch a feedback portal within five working days during a financial adviser review.",
+      "published_at": "2026-09-09T13:04:28+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
+      "link": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
+      "snippet": "Privacy-preserving identity verification systems could allow individuals to prove only what a service needs to know while keeping the underlying information under their control, writes Coin Center’s…",
+      "published_at": "2026-09-09T13:02:49+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
+      "link": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
+      "snippet": "The former Chainlink and Curv executive will lead the blockchain organization’s push into institutional finance and quantum-resistant security.",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "LINK"
+      ],
+      "note": "Позитивний тон для LINK за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
+      "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
+      "published_at": "2026-09-09T12:36:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Italy’s central bank orders sanctions screening for crypto transfers",
+      "link": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Banca d’Italia ordered crypto service providers to implement internal controls to screen for crypto transfers tied to sanctioned entities.",
+      "published_at": "2026-09-09T12:20:33+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
+      "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
+      "snippet": "Existing holdings would keep the current tax treatment, which can allow tax-free sales after a 12-month holding period.",
+      "published_at": "2026-09-09T12:13:59+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
+      "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
+      "snippet": "The motion for a preliminary injunction comes a few weeks after the Crypto Council for Innovation and Blockchain Association sued to block the law.",
+      "published_at": "2026-09-09T12:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "What could happen if the CLARITY Act fails to pass in 2026",
+      "link": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US Senate has a limited window to pass a crypto market structure bill, but if it were to fail, the legislation could be completely remade or scrapped under Democrats in 2027.",
+      "published_at": "2026-09-09T11:54:41+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
+      "link": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
+      "snippet": "The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
+      "published_at": "2026-09-09T11:43:53+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
+      "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
+      "snippet": "The fifth-largest U.S. commercial bank said it is exploring USBDC stablecoin for treasury payments, liquidity management and collateral after completing a live transaction.",
+      "published_at": "2026-09-09T11:40:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
+      "link": "https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting",
+      "snippet": "An internal model more powerful than GPT-6 Astra produced a proposed solution to one of mathematics’ seven Millennium Prize Problems, though questions are emerging over how independently it got there.",
+      "published_at": "2026-09-09T11:23:50+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
+      "snippet": "Your day-ahead look for Sept. 9, 2026",
+      "published_at": "2026-09-09T11:23:36+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
+      "link": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.",
+      "published_at": "2026-09-09T11:15:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
+      "link": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
+      "snippet": "Bitcoin advanced to as high as $79,700 while Brent crude topped $100 and European shares fell, leaving crypto tracking gold rather than equities.",
+      "published_at": "2026-09-09T10:47:23+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
+      "link": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin aggregate onchain profit entered its fourth week, but a popular analyst warned that BTC price “downside risk” remained in place.",
+      "published_at": "2026-09-09T10:12:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
+      "link": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Alan Lane said a “coordinated attack” by the Biden administration made Silvergate’s continued operation untenable and prompted its liquidation.",
+      "published_at": "2026-09-09T10:05:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "liquidation"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+      "link": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
+      "snippet": "Exporters can use overseas earnings to fund imports directly, bypassing the official foreign-exchange system, the FT reported.",
+      "published_at": "2026-09-09T09:59:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
+      "link": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
+      "snippet": "Malone Lam, a Miami resident charged with stealing 4,100 bitcoin, led a ring of fraudsters who stole crypto via online scams and home invasions.",
+      "published_at": "2026-09-09T09:54:42+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charged",
+        "fraud",
+        "scam"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
@@ -68,9 +367,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
+      "title": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
       "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-      "snippet": "Japanese yen extends its rally against the U.S. dollar, briefly strengthening past 153 per dollar.",
+      "snippet": "The Japanese yen extended its rally against the greenback, briefly strengthening past 153 per dollar.",
       "published_at": "2026-09-09T07:20:51+00:00",
       "impact": "позитивний",
       "coins": [
