@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T04:19:10.774566+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Malone Lam pleads guilty in $245M crypto theft conspiracy",
+      "link": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US prosecutors said Lam organized an international network that targeted cryptocurrency holders through social engineering and home break-ins.",
+      "published_at": "2026-09-09T04:09:51+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    }
+  ]
+}
