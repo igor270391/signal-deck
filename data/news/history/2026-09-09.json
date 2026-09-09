@@ -1,8 +1,278 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T14:24:44.902912+00:00",
-  "count": 37,
+  "generated_at": "2026-09-09T18:31:43.362080+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+      "link": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+      "snippet": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
+      "published_at": "2026-09-09T17:50:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "TRM Labs doubles valuation to $2B in Series C expansion",
+      "link": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The blockchain intelligence firm said its annual recurring revenue has quadrupled over the past three years as it expands its AI-powered investigations business.",
+      "published_at": "2026-09-09T17:30:06+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "expands",
+        "expansion"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+      "snippet": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
+      "published_at": "2026-09-09T17:16:08+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
+      "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
+      "snippet": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
+      "published_at": "2026-09-09T16:46:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+      "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
+      "snippet": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
+      "published_at": "2026-09-09T16:40:50+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+      "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain.",
+      "published_at": "2026-09-09T16:37:08+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
+      "link": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin trended lower with US stocks on Iran escalation while US Treasury Secretary Scott Bessent contributed to fears of a yen carry-trade unwind.",
+      "published_at": "2026-09-09T16:28:19+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
+      "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
+      "snippet": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
+      "published_at": "2026-09-09T16:16:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+      "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "snippet": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
+      "published_at": "2026-09-09T16:11:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+      "snippet": "Chinese-language platform Xinbi is accused of operating on crypto transactions as it offered services to other criminal networks.",
+      "published_at": "2026-09-09T16:05:11+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
+      "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
+      "published_at": "2026-09-09T15:58:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
+      "link": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Following on their earlier lawsuit, CCI and the Blockchain Association seek to block Illinois’ 0.2% crypto tax, arguing it is unconstitutional and would impose costly compliance burdens.",
+      "published_at": "2026-09-09T15:57:07+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "snippet": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.",
+      "published_at": "2026-09-09T15:51:25+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
+      "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+      "snippet": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
+      "published_at": "2026-09-09T15:47:09+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "crashes"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "snippet": "The threat is not here yet, but fault-tolerant machines and crypto’s migration plans are starting to converge on the same 2029 window.",
+      "published_at": "2026-09-09T15:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+      "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+      "snippet": "The existing company, Consensys Software Inc., will rebrand as MetaMask under Ethereum co-founder Joe Lubin as chairman and CEO.",
+      "published_at": "2026-09-09T15:24:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
+      "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms in more than 60 countries.",
+      "published_at": "2026-09-09T15:21:44+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
+      "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
+      "snippet": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
+      "published_at": "2026-09-09T15:15:01+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
+      "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+      "snippet": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
+      "published_at": "2026-09-09T15:07:24+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+      "snippet": "Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and more than 300 to 1 onchain. Euro-pegged stablecoins total €711 million, under 1% of supply.…",
+      "published_at": "2026-09-09T14:58:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
+      "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+      "snippet": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
+      "published_at": "2026-09-09T14:37:18+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
@@ -117,17 +387,6 @@
       "triggers": [
         "institutional"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-      "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
-      "published_at": "2026-09-09T12:36:00+00:00",
-      "impact": "нейтральний",
-      "coins": [],
-      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
