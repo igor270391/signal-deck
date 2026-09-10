@@ -1,8 +1,24 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T21:40:56.320962+00:00",
-  "count": 61,
+  "generated_at": "2026-09-10T00:04:56.832629+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+      "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+      "snippet": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
+      "published_at": "2026-09-09T23:02:23+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
