@@ -1,8 +1,105 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T18:20:29.514755+00:00",
-  "count": 47,
+  "generated_at": "2026-09-10T21:36:29.339743+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
+      "link": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
+      "snippet": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
+      "published_at": "2026-09-10T21:18:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+      "link": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+      "snippet": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
+      "published_at": "2026-09-10T21:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+      "link": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+      "snippet": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+      "published_at": "2026-09-10T20:34:50+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "link": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+      "snippet": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
+      "published_at": "2026-09-10T20:21:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+      "link": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
+      "published_at": "2026-09-10T20:10:29+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+      "snippet": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
+      "published_at": "2026-09-10T19:01:30+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+      "snippet": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
+      "published_at": "2026-09-10T18:51:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+      "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
+      "snippet": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
+      "published_at": "2026-09-10T18:46:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "bearish",
+        "selloff"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
