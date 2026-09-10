@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T04:16:39.195931+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
+      "link": "https://cointelegraph.com/news/us-sanctions-xinbi-restrains-52m-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Justice Department seized Xinbi’s Telegram channels and two wallets as investigators pursued 47 additional wallets across its alleged laundering network.",
+      "published_at": "2026-09-10T04:05:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued",
+        "scam"
+      ]
+    }
+  ]
+}
