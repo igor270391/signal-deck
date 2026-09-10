@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-10T04:16:39.195931+00:00",
+  "generated_at": "2026-09-10T09:35:45.934297+00:00",
   "count": 62,
   "items": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+      "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
       "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain.",
       "published_at": "2026-09-09T16:37:08+00:00",
