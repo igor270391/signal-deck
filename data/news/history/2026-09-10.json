@@ -1,8 +1,292 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T09:35:45.934297+00:00",
-  "count": 10,
+  "generated_at": "2026-09-10T14:17:12.988578+00:00",
+  "count": 31,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
+      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
+      "snippet": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
+      "published_at": "2026-09-10T13:56:54+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+      "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
+      "published_at": "2026-09-10T13:35:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-10T13:20:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
+      "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
+      "snippet": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
+      "published_at": "2026-09-10T13:04:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
+      "link": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+      "snippet": "A paper shared with CoinDesk shows humans and AI agents beating Google’s March result on a core calculation used by Shor’s algorithm, adding another variable to crypto’s quantum clock.",
+      "published_at": "2026-09-10T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana sees record 263K tokens issued in a single day",
+      "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
+      "published_at": "2026-09-10T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
+      "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
+      "snippet": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
+      "published_at": "2026-09-10T12:10:48+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "crashes",
+        "plunge"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+      "link": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe’s supervisory board as the company works to expand beyond its sterling payment system.",
+      "published_at": "2026-09-10T12:02:16+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
+      "link": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
+      "snippet": "Pablo Hernandez cited historical railway and dot-com bubbles to caution that spending driven by hype over actual profits risks broad economic corrections.",
+      "published_at": "2026-09-10T12:00:36+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+      "link": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
+      "snippet": "Long-term yields moved higher despite a $6 billion Treasury buyback, as debt concerns and rising oil prices continue to pressure global bond markets.",
+      "published_at": "2026-09-10T11:47:41+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+      "link": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
+      "published_at": "2026-09-10T11:41:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
+      "link": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
+      "snippet": "Bybit has an electronic money institution license in Austria and is about to snag a MiFID license too, CEO Ben Zhou told Coindesk.",
+      "published_at": "2026-09-10T11:36:01+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
+      "link": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
+      "snippet": "Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
+      "published_at": "2026-09-10T11:28:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
+      "snippet": "The investment expands a strategic partnership to bring tokenized, voting-enabled equities to crypto exchange users.",
+      "published_at": "2026-09-10T11:21:21+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "partnership",
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders dial down bullish plays ahead of U.S. inflation data",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/10/bitcoin-traders-dial-down-bullish-plays-ahead-of-u-s-inflation-data",
+      "snippet": "Your day-ahead look for Sept. 10, 2026",
+      "published_at": "2026-09-10T11:15:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
+      "link": "https://www.coindesk.com/markets/2026/09/10/bitcoin-trades-near-usd78-000-as-memecoins-small-caps-lead-a-broad-crypto-retreat",
+      "snippet": "Bitcoin fell 2% over 24 hours to $78,111 as 95 of the 100 CoinDesk 100 constituents declined, with most of the damage done overnight.",
+      "published_at": "2026-09-10T10:24:14+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Treasury Secretary Bessent urges CLARITY Act passage after Senate returns",
+      "link": "https://cointelegraph.com/news/treasury-secretary-bessent-urges-clarity-act-passage-senate-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Secretary Scott Bessent warned that failing to pass the CLARITY Act would send a “troubling signal” about America’s leadership in the digital asset industry.",
+      "published_at": "2026-09-10T10:20:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
+      "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
+      "snippet": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
+      "published_at": "2026-09-10T10:11:52+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
+      "link": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
+      "published_at": "2026-09-10T10:08:46+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "crashes"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "ARKB led Wednesday’s Bitcoin ETF outflows as Ether and Solana funds returned to net inflows.",
+      "published_at": "2026-09-10T09:59:32+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Позитивний тон для BTC, ETH, SOL за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+      "link": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+      "snippet": "Arya.ag is using Avalanche technology to tokenize grain deposits to help lenders verify crops backing agricultural loans.",
+      "published_at": "2026-09-10T09:42:59+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "AVAX"
+      ],
+      "note": "Нейтрально щодо AVAX -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view",
+      "link": "https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin investors showed little sign of panic selling as BTC held most of its August gains and sell-side risk fell to rare lows, data showed.",
+      "published_at": "2026-09-10T09:36:42+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "India’s Arya.ag to put grain ownership records on Avalanche",
@@ -31,16 +315,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+      "title": "Live updates: Bitcoin slumps as ECB hikes rates and U.S. core PPI eases, but remains hot",
       "link": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
-      "snippet": "Bitcoin trades around $78,000 as gold slips below $4,400 an ounce amid rising treasury yields and oil prices.",
+      "snippet": "Treasury yields and the price of oil continued to surge, with both hitting new cycle highs on Thursday.",
       "published_at": "2026-09-10T07:45:46+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
     },
     {
       "source": "CoinDesk",
@@ -67,19 +353,6 @@
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-10T05:59:21+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
