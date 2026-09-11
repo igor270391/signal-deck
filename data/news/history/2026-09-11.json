@@ -1,8 +1,60 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T18:24:59.017663+00:00",
-  "count": 40,
+  "generated_at": "2026-09-11T21:43:09.132496+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-11T21:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+      "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+      "snippet": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
+      "published_at": "2026-09-11T20:53:39+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+      "link": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
+      "published_at": "2026-09-11T19:46:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+      "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+      "published_at": "2026-09-11T18:45:15+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
@@ -183,19 +235,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-11T12:57:24+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
       "link": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
@@ -283,7 +322,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
       "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "snippet": "Core CPI rose a faster-than-forecast 0.3% in August, but the yearly pace of 2.4% was in line and the slowest rate since early 2021.",
       "published_at": "2026-09-11T11:04:12+00:00",
