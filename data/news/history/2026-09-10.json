@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-11T00:00:43.823378+00:00",
+  "generated_at": "2026-09-11T04:14:33.340527+00:00",
   "count": 56,
   "items": [
     {
@@ -224,7 +224,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+      "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
       "link": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
       "snippet": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
       "published_at": "2026-09-10T15:53:24+00:00",
@@ -234,8 +234,7 @@
       ],
       "note": "Негативний тон для ONDO за ключовими словами -- варто звернути увагу.",
       "triggers": [
-        "ban",
-        "sues"
+        "ban"
       ]
     },
     {
