@@ -1,8 +1,138 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T14:18:03.532437+00:00",
-  "count": 30,
+  "generated_at": "2026-09-11T18:24:59.017663+00:00",
+  "count": 40,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+      "link": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+      "snippet": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
+      "published_at": "2026-09-11T18:16:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
+      "link": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
+      "snippet": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
+      "published_at": "2026-09-11T17:22:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+      "snippet": "The fallen leader of the former top exchange FTX is looking for answers from the U.S. Supreme Court.",
+      "published_at": "2026-09-11T17:12:45+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
+      "link": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
+      "snippet": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
+      "published_at": "2026-09-11T16:16:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "DOGE"
+      ],
+      "note": "Нейтрально щодо DOGE -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+      "link": "https://cointelegraph.com/news/anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US federally chartered crypto bank will allow institutional clients to hold, mint, redeem and stake Frgmnt’s fUSD stablecoin through its custody platform.",
+      "published_at": "2026-09-11T16:05:15+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rally",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+      "link": "https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin briefly rebounded past $79,000 and US stocks turned green as US CPI inflation data met expectations.",
+      "published_at": "2026-09-11T16:03:37+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "With Fed rate hike all but assured, here's how markets might react",
+      "link": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
+      "snippet": "Traders could look past an expected Fed hike and weigh what higher rates are signaling about the economy.",
+      "published_at": "2026-09-11T15:45:56+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+      "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
+      "snippet": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.",
+      "published_at": "2026-09-11T15:32:08+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
+      "link": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
+      "snippet": "Maharashtra is drafting a policy to tokenize the state's assets, including the electricity transmission infrastructure.",
+      "published_at": "2026-09-11T15:17:08+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+      "link": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+      "snippet": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned.",
+      "published_at": "2026-09-11T14:17:38+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "theft"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
@@ -153,7 +283,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin heads higher as investors look past looming Fed rate hike",
+      "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
       "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "snippet": "Core CPI rose a faster-than-forecast 0.3% in August, but the yearly pace of 2.4% was in line and the slowest rate since early 2021.",
       "published_at": "2026-09-11T11:04:12+00:00",
