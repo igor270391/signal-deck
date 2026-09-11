@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T09:32:11.338169+00:00",
+  "count": 11,
+  "items": [
+    {
+      "source": "Decrypt",
+      "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+      "link": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
+      "snippet": "SBF’s lawyers say he was barred from arguing customers lost nothing, and call the $11 billion forfeiture an \"crushing fine.\"",
+      "published_at": "2026-09-11T09:04:11+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "fraud",
+        "fine"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC",
+      "link": "https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Blockstream said it would work with law enforcement, exchanges and forensic specialists to recover the Bitcoin if the hackers do not return it.",
+      "published_at": "2026-09-11T08:43:19+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise to put down Dogecoin ETF less than a year after launch",
+      "link": "https://cointelegraph.com/news/bitwise-put-down-dogecoin-etf-year-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BWOW held about $688,000 in net assets as of Sept. 9. Trading is expected to end Oct. 14, with cash payouts to follow around Oct. 22.",
+      "published_at": "2026-09-11T07:47:13+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "DOGE"
+      ],
+      "note": "Позитивний тон для DOGE за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SBF asks Supreme Court to overturn conviction, $11B forfeiture: Report",
+      "link": "https://cointelegraph.com/news/sbf-appeals-supreme-court-conviction-forfeiture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bankman-Fried’s lawyers challenged the exclusion of evidence about customer losses and argued that his $11 billion forfeiture was excessive.",
+      "published_at": "2026-09-11T07:43:19+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
+      "link": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
+      "snippet": "The prediction-market operator plans to seek U.S. approval for about 60 stock and ETF perps, taking one of crypto's biggest trading products into equities.",
+      "published_at": "2026-09-11T06:17:31+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-11T06:14:41+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
+      "link": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.",
+      "published_at": "2026-09-11T06:08:26+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+      "link": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+      "snippet": "SEBI’s Demat 2.0 pilot turns corporate bonds into digital tokens and settles payment through the RBI’s wholesale digital rupee, with secondary trading and retail access expected in later phases.",
+      "published_at": "2026-09-11T05:13:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+      "link": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+      "snippet": "Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week.",
+      "published_at": "2026-09-11T04:46:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+      "link": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+      "snippet": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
+      "published_at": "2026-09-11T04:25:21+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Brevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+      "link": "https://cointelegraph.com/news/brevo-login-flaw-trezor-bitbox-cointracking-phishing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Trezor told Cointelegraph that the phishing email was sent to 347,000 subscribers and said it is treating every address as “known to the attacker and possibly reusable for phishing.”",
+      "published_at": "2026-09-11T04:21:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
