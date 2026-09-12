@@ -1,8 +1,45 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T16:58:42.305457+00:00",
-  "count": 12,
+  "generated_at": "2026-09-12T19:11:32.801767+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "snippet": "The combined haul equals the largest individual political donations in U.K. history, sharply scaling up crypto industry backing.",
+      "published_at": "2026-09-12T18:51:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "snippet": "Anthropic’s Dario Amodei, OpenAI’s Sam Altman and Elon Musk have agreed on an unusual position: frontier AI development may need to slow as systems become capable of helping build their own…",
+      "published_at": "2026-09-12T18:43:33+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+      "link": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+      "snippet": "The fintech company fulfilled a fraudulent information request sent from a government agency's own email domain, exposing ID documents and full crypto transaction histories for a \"limited\" number of…",
+      "published_at": "2026-09-12T17:01:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -79,9 +116,9 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Farage’s Reform UK gets biggest donation ever from crypto billionaire: Reports",
+      "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
       "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage’s Reform UK party.",
+      "snippet": "Ben Delo, co-founder of BitMEX, donated almost $50 million to Nigel Farage’s Reform UK party, matched a day later by Christopher Harborne.",
       "published_at": "2026-09-12T15:50:14+00:00",
       "impact": "нейтральний",
       "coins": [],
