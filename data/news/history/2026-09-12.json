@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T13:34:24.803300+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "Decrypt",
+      "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+      "link": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+      "snippet": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
+      "published_at": "2026-09-12T13:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "snippet": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+      "published_at": "2026-09-12T10:11:01+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "fraud"
+      ]
+    }
+  ]
+}
