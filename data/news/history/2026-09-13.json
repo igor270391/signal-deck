@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T11:37:37.343255+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Anthropic chief urges slowdown in AI development to safer pace",
+      "link": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year.",
+      "published_at": "2026-09-13T11:09:54+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut says customer data exposed through fake government email",
+      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain.",
+      "published_at": "2026-09-13T09:27:21+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    }
+  ]
+}
