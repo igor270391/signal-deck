@@ -1,8 +1,56 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T11:37:37.343255+00:00",
-  "count": 2,
+  "generated_at": "2026-09-13T16:05:53.501968+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Agents Spending Money Online? New Research Says Not Really",
+      "link": "https://decrypt.co/378103/ai-agents-spending-money-research",
+      "snippet": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
+      "published_at": "2026-09-13T13:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "snippet": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
+      "published_at": "2026-09-13T13:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "snippet": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
+      "published_at": "2026-09-13T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "snippet": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
+      "published_at": "2026-09-13T12:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Anthropic chief urges slowdown in AI development to safer pace",
