@@ -1,8 +1,217 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T10:01:46.704843+00:00",
-  "count": 18,
+  "generated_at": "2026-09-15T14:53:39.319154+00:00",
+  "count": 34,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
+      "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+      "snippet": "The 12-month test will put a beta version of the central bank currency through online, mobile, in-store and peer-to-peer payments.",
+      "published_at": "2026-09-15T14:15:06+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
+      "snippet": "Prediction markets sharply marked down the crypto market structure bill’s near-term prospects as negotiations remained stuck hours before a key Senate vote.",
+      "published_at": "2026-09-15T14:13:44+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "plunge"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
+      "link": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
+      "snippet": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
+      "published_at": "2026-09-15T14:05:47+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+      "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+      "snippet": "Two software bugs allowed the attacker to create more than 2,000 times Bitcoin’s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC.",
+      "published_at": "2026-09-15T13:43:50+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
+      "link": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.",
+      "published_at": "2026-09-15T13:37:31+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
+      "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
+      "snippet": "The bank expects tokenization to make Arbitrum a favored network for traditional finance, even though ARB holders currently have no direct claim on the fees.",
+      "published_at": "2026-09-15T13:25:52+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
+      "link": "https://decrypt.co/378203/ai-slowdown-us-china-pressure",
+      "snippet": "Atlantic Council experts argue corporate pledges need enforceable safety standards, while U.S.–China distrust limits prospects for an international agreement.",
+      "published_at": "2026-09-15T13:00:05+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
+      "link": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
+      "snippet": "Congress needs 60 Senators willing to put innovation first and provide critical relief to the digital asset industry, argues Rep. Shri Thanedar (D-Mich.)",
+      "published_at": "2026-09-15T12:00:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+      "snippet": "Your day-ahead look for Sept. 15, 2026",
+      "published_at": "2026-09-15T11:15:44+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH",
+        "SOL",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо ETH, SOL, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+      "link": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+      "snippet": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
+      "published_at": "2026-09-15T11:01:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why banks should stop worrying and learn to love the Clarity Act",
+      "link": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
+      "snippet": "They could be the biggest winners from regulatory clarity, argues Alex Tapscott, CEO of CMCC Global Capital Markets.",
+      "published_at": "2026-09-15T11:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+      "link": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+      "snippet": "The investment brings Velocity's Series A round to $48 million and values the London-based payments infrastructure firm at $200 million, CEO Eric Queathem said.",
+      "published_at": "2026-09-15T11:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP",
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо XRP, ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
+      "snippet": "Bitcoin fell 1.7% since midnight UTC to $76,862, unwinding a late Monday rally as Polymarket odds on the Clarity Act becoming law this year halved overnight.",
+      "published_at": "2026-09-15T10:41:35+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+      "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+      "snippet": "Security firms traced the $7.8 million loss to a helper contract the wallet owner had authorized, not to Safe itself.",
+      "published_at": "2026-09-15T10:27:55+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nigel Farage-backed Stack BTC plans to acquire a gold dealer for $16 million to fund bitcoin buy",
+      "link": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
+      "snippet": "The proposed acquisition would use cash flow from precious metals sales to build bitcoin holdings.",
+      "published_at": "2026-09-15T10:06:40+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US House crypto tax package omits mining, staking reward deferral",
+      "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.",
+      "published_at": "2026-09-15T10:04:21+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
@@ -85,16 +294,15 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
+      "title": "Live updates: Bitcoin slides below $76,000 as Clarity Act passage odds fade",
       "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
-      "snippet": "Senators take a procedural vote on the crypto market structure bill later Tuesday. Bitcoin has given back 3% since touching $79,530 overnight, with XRP and zcash the only majors gaining ground.",
+      "snippet": "CoinDesk will be live-streaming and blogging the vote on our website, which is expected to start at 2:15pm ET.",
       "published_at": "2026-09-15T06:37:24+00:00",
       "impact": "нейтральний",
       "coins": [
-        "BTC",
-        "XRP"
+        "BTC"
       ],
-      "note": "Нейтрально щодо BTC, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
@@ -117,7 +325,7 @@
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-15T05:39:15+00:00",
+      "published_at": "2026-09-15T05:50:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
