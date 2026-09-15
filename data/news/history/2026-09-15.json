@@ -1,8 +1,200 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T14:53:39.319154+00:00",
-  "count": 34,
+  "generated_at": "2026-09-15T18:55:34.371102+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
+      "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
+      "snippet": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
+      "published_at": "2026-09-15T18:54:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "snippet": "The years-long effort to set U.S. regulations for crypto markets couldn't muster enough support to make the leap over the Senate's final 60-vote hurdle.",
+      "published_at": "2026-09-15T18:50:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+      "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+      "snippet": "Michael Weisz will lead Kamino from a new New York headquarters as the DeFi lender is expanding into tokenized assets.",
+      "published_at": "2026-09-15T18:02:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "expansion"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+      "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A Bank of England policy maker said digital dollars could expand access to the US currency while turning stablecoin issuers into bigger buyers of government debt.",
+      "published_at": "2026-09-15T17:53:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+      "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+      "snippet": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
+      "published_at": "2026-09-15T17:49:23+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charged",
+        "fraud"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
+      "link": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
+      "snippet": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate holds a make-or-break cloture vote Tuesday afternoon.",
+      "published_at": "2026-09-15T17:43:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+      "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The crypto exchange is expanding its traditional finance offerings with 11 US-listed exchange-traded funds focused on US Treasurys and investment-grade bonds.",
+      "published_at": "2026-09-15T17:22:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
+      "link": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
+      "snippet": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran’s government and military.",
+      "published_at": "2026-09-15T17:06:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
+      "link": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
+      "snippet": "The proposal would overhaul federal tax treatment of digital assets but still requires approval from Congress.",
+      "published_at": "2026-09-15T16:34:35+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board.",
+      "published_at": "2026-09-15T16:02:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+      "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by 2030.",
+      "published_at": "2026-09-15T15:50:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
+      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
+      "snippet": "As the parties dig in their heels, the market structure bill hasn't yet amassed the votes it would need to clear the first Senate hurdle scheduled for Tuesday.",
+      "published_at": "2026-09-15T15:50:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+      "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address.",
+      "published_at": "2026-09-15T15:21:26+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
+      "link": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
+      "snippet": "Democrats are pushing for further concessions as Republicans insist their latest text is their final offer ahead of today’s 60-vote test.",
+      "published_at": "2026-09-15T15:08:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Sinks as the Senate's Clarity Act Showdown Looms",
+      "link": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
+      "snippet": "Bitcoin just gave back its entire post-golden-cross rally in one red candle, with a make-or-break Senate vote landing this afternoon and the Fed staring down a rate hike.",
+      "published_at": "2026-09-15T14:58:57+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "European Central Bank calls for merchants to participate in digital euro pilot",
