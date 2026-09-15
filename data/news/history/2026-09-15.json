@@ -1,11 +1,157 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T04:34:31.470642+00:00",
-  "count": 7,
+  "generated_at": "2026-09-15T10:01:46.704843+00:00",
+  "count": 18,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
+      "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.",
+      "published_at": "2026-09-15T09:40:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
       "source": "CoinDesk",
-      "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+      "snippet": "Founder and CEO Haipo Yang cited mounting security and compliance risks and said he rejected a sale in favor of a “clean ending.”",
+      "published_at": "2026-09-15T09:30:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin short-term holders approached a full month in partial profit as analysis saw improving odds of an enduring bullish BTC price reversal.",
+      "published_at": "2026-09-15T09:30:31+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
+      "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
+      "snippet": "The asset manager funded the entire purchase through preferred stock, pushing SATA's notional value past $1 billion for the first time.",
+      "published_at": "2026-09-15T09:01:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US seeks $61M in USDT allegedly tied to sanctioned Iranian oil sales",
+      "link": "https://cointelegraph.com/news/doj-61m-usdt-forfeiture-iranian-oil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tether froze $61.19 million across 10 Tron addresses in 2025 that prosecutors allege were connected to black-market Iranian oil proceeds.",
+      "published_at": "2026-09-15T08:46:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana more than triples transaction size limit with mainnet upgrade",
+      "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Solana raised its transaction size limit to 4,096 bytes, giving developers more room for zero-knowledge proofs and transactions with multiple signatures.",
+      "published_at": "2026-09-15T08:18:53+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
+      "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+      "snippet": "Senators take a procedural vote on the crypto market structure bill later Tuesday. Bitcoin has given back 3% since touching $79,530 overnight, with XRP and zcash the only majors gaining ground.",
+      "published_at": "2026-09-15T06:37:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо BTC, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+      "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+      "snippet": "Batch V1.1 would let users bundle up to eight linked transactions into one operation, with 27 of 35 trusted validators now backing the change.",
+      "published_at": "2026-09-15T05:58:41+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-15T05:39:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
+      "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.",
+      "published_at": "2026-09-15T05:32:12+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+      "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+      "snippet": "Prosecutors have filed a civil forfeiture complaint against what they call Iran's illegal crypto proceeds that are used to fund its military.",
+      "published_at": "2026-09-15T05:12:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
       "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
       "snippet": "Transaction V1 raises Solana’s limit to 4,096 bytes from 1,232, giving developers more room for multi-step trades, company-wallet approvals and privacy proofs.",
       "published_at": "2026-09-15T04:34:10+00:00",
