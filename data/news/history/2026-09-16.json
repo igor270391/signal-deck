@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T05:55:28.280928+00:00",
+  "count": 5,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+      "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood token listings.",
+      "published_at": "2026-09-16T04:48:20+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charges"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "snippet": "Bullish crypto futures bets worth millions have been liquidated in 24 hours. Bitcoin and ether longs have taken in the most losses.",
+      "published_at": "2026-09-16T04:07:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The $450 million withdrawal came as Bitcoin fell 2.5% and the CLARITY Act failed to advance in the Senate, with Fidelity and BlackRock funds leading the outflows.",
+      "published_at": "2026-09-16T04:05:39+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "snippet": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
+      "published_at": "2026-09-16T03:37:45+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо BTC, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto industry turns to US regulators after CLARITY setback",
+      "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The CLARITY Act still has a procedural path after Senator Thom Tillis moved to reconsider the failed cloture vote, though industry executives are divided over whether Congress has enough time left.",
+      "published_at": "2026-09-16T02:24:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
