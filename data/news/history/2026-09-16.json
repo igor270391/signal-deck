@@ -1,8 +1,54 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T20:01:27.400461+00:00",
-  "count": 59,
+  "generated_at": "2026-09-16T22:53:46.334827+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
+      "link": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
+      "snippet": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
+      "published_at": "2026-09-16T21:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
+      "link": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+      "snippet": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
+      "published_at": "2026-09-16T21:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
+      "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Digital Sovereignty Alliance managing director Adrian Wall said senators from both parties are considering another attempt to advance the crypto market structure bill before the current Congress ends.",
+      "published_at": "2026-09-16T20:51:38+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+      "link": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+      "snippet": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own incident report never fully described.",
+      "published_at": "2026-09-16T20:31:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
@@ -221,9 +267,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
       "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-      "snippet": "Hamas’ military wing advised donors not to use Binance to handle funds but rather to use Bybit, OKX, Kast and Redotpay, according to recent U.S. Department of Justice documents.",
+      "snippet": "Hamas’ military wing advised donors not to use Binance to handle funds but rather to use Trust Wallet, Bybit, OKX, Kast and Redotpay to send funds to an external TRON wallet, according to recent U.S.…",
       "published_at": "2026-09-16T15:25:41+00:00",
       "impact": "нейтральний",
       "coins": [],
