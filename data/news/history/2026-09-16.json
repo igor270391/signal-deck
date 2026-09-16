@@ -1,8 +1,303 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T05:55:28.280928+00:00",
-  "count": 5,
+  "generated_at": "2026-09-16T11:20:37.349089+00:00",
+  "count": 27,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
+      "snippet": "Your day-ahead look for Sept. 16, 2026",
+      "published_at": "2026-09-16T11:16:51+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+      "snippet": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears.",
+      "published_at": "2026-09-16T11:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+      "snippet": "Two Prime expands into onchain finance with a bitcoin lending vault built on Pareto for institutional investors.",
+      "published_at": "2026-09-16T11:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+      "snippet": "U.S. spot bitcoin ETFs shed $450 million, the most since June, as the Senate's failure to advance the Clarity Act sent regulatory-sensitive tokens sharply lower.",
+      "published_at": "2026-09-16T10:48:44+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
+      "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "snippet": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.",
+      "published_at": "2026-09-16T10:46:28+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
+      "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+      "snippet": "The privacy token is up 130% over 30 days and trades near its all-time highs from 2016, while bitcoin sits at a three-and-a-half-week low below $76,000.",
+      "published_at": "2026-09-16T10:37:46+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "all-time high"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+      "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
+      "published_at": "2026-09-16T10:33:12+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "approval",
+        "institutional",
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+      "link": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+      "snippet": "The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment giants pile into the stablecoin market.",
+      "published_at": "2026-09-16T10:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
+      "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin miners generated 35% of the state-owned power producer’s revenue last year, but declining reservoir inflows led the utility to prioritize households and manufacturers.",
+      "published_at": "2026-09-16T10:11:39+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Italy investigates government email breach linked to Revolut data leak",
+      "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Italy is probing the Revolut-linked breach after its cyber agency reported more than 650 cases involving abused or illicit certified email accounts.",
+      "published_at": "2026-09-16T09:58:48+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
+      "snippet": "Weakening U.S. demand, a setback for the Clarity act and expectations of a fed rate hike weigh on bitcoin.",
+      "published_at": "2026-09-16T09:57:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
+      "link": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin exchange demand on Coinbase declined after the US Senate voted against the CLARITY Act, while traders sent BTC to exchanges at an unrealized loss.",
+      "published_at": "2026-09-16T09:55:16+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+      "snippet": "U.S. prosecutors allege two engineers used confidential Robinhood token listing data to front-run announcements using Hyperliquid perpetual futures.",
+      "published_at": "2026-09-16T09:42:37+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charged"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
+      "link": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
+      "snippet": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at £100 billion a year in the UK.",
+      "published_at": "2026-09-16T09:41:53+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crackdown"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
+      "link": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
+      "snippet": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
+      "published_at": "2026-09-16T09:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB seeks online merchants for 2027 digital euro pilot",
+      "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Euro-area online and mobile merchants can apply until Oct. 27 to test beta digital euro payments in a 12-month pilot.",
+      "published_at": "2026-09-16T08:36:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum, Base give up on common wallet standard after months of talks",
+      "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+      "snippet": "Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130, leaving wallets and apps that span both networks facing different transaction systems.",
+      "published_at": "2026-09-16T08:07:59+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
+      "link": "https://decrypt.co/378324/coinex-shutting-down",
+      "snippet": "The Hong Kong-founded exchange blamed a prolonged crypto winter and rising compliance costs, closing the books on a run that began in December 2017.",
+      "published_at": "2026-09-16T08:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+      "snippet": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central…",
+      "published_at": "2026-09-16T06:42:22+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
+      "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Federico Variola says AI has diverted capital from crypto and is empowering attackers, while rising cybersecurity costs could push the industry toward greater centralization.",
+      "published_at": "2026-09-16T06:38:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+      "link": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "snippet": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network’s existing halving schedule.",
+      "published_at": "2026-09-16T05:54:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-16T05:52:31+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
