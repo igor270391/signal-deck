@@ -1,8 +1,145 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T16:41:47.409415+00:00",
-  "count": 49,
+  "generated_at": "2026-09-16T20:01:27.400461+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+      "link": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+      "snippet": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
+      "published_at": "2026-09-16T19:43:24+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-16T19:25:46+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK FCA sets crypto authorization guidance ahead of September application window",
+      "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The FCA’s new guidance outlines which crypto activities may require authorization as firms prepare for the UK’s incoming digital asset regulatory regime.",
+      "published_at": "2026-09-16T19:19:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "snippet": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings.",
+      "published_at": "2026-09-16T19:07:34+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+      "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+      "snippet": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
+      "published_at": "2026-09-16T18:53:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+      "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+      "snippet": "The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
+      "published_at": "2026-09-16T18:15:38+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A bipartisan House committee vote advanced legislation that would reshape federal tax rules for stablecoins, staking, crypto lending and digital asset transactions.",
+      "published_at": "2026-09-16T18:01:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "snippet": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
+      "published_at": "2026-09-16T17:54:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "snippet": "The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long position that sits awkwardly with the lender's delta-neutral marketing.",
+      "published_at": "2026-09-16T17:34:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues",
+        "crash",
+        "liquidation"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
+      "link": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
+      "snippet": "Michael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.",
+      "published_at": "2026-09-16T17:17:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
+      "link": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
+      "snippet": "Attackers ran 108 malicious ads through the streaming service’s verified account, directing users to fake software downloads.",
+      "published_at": "2026-09-16T17:06:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
@@ -545,19 +682,6 @@
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-16T06:00:00+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
