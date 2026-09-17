@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T01:18:29.123391+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The legislation would effectively codify Trump’s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years.",
+      "published_at": "2026-09-17T00:23:44+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
