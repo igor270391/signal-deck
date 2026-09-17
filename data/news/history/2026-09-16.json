@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-17T07:32:57.355218+00:00",
+  "generated_at": "2026-09-17T13:21:49.518159+00:00",
   "count": 63,
   "items": [
     {
@@ -86,15 +86,15 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
       "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-      "snippet": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings.",
+      "snippet": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
       "published_at": "2026-09-16T19:07:34+00:00",
       "impact": "негативний",
       "coins": [],
       "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
       "triggers": [
-        "hack"
+        "breach"
       ]
     },
     {

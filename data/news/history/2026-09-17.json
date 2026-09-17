@@ -1,8 +1,276 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T07:32:57.355218+00:00",
-  "count": 8,
+  "generated_at": "2026-09-17T13:21:49.518159+00:00",
+  "count": 28,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
+      "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
+      "snippet": "Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.",
+      "published_at": "2026-09-17T13:15:21+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+      "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
+      "snippet": "The U.S. Securities and Exchange Commission issued a blanket 5-year exemption for listing and trading tokenized securities without registering as an exchange.",
+      "published_at": "2026-09-17T13:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
+      "link": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "S&P Global agreed to buy OpenZeppelin, which says its smart contracts have facilitated more than $37 trillion in value transfers.",
+      "published_at": "2026-09-17T12:56:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+      "link": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
+      "snippet": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
+      "published_at": "2026-09-17T12:53:01+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto adoption blooming in Germany, while UK is falling ‘behind,’ says CoinShares researcher",
+      "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "German crypto adoption is progressing through family offices and wealth managers, while the UK’s retail-facing cryptocurrency market remains “nascent,” according to the researcher.",
+      "published_at": "2026-09-17T12:34:11+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023",
+      "link": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
+      "snippet": "The Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are green and alt leaders are flying. What does it mean?",
+      "published_at": "2026-09-17T12:13:20+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
+      "link": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
+      "snippet": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
+      "published_at": "2026-09-17T12:05:13+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+      "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
+      "snippet": "Leverton will lead the DCG-owned mining company as it pursues a public listing through its proposed merger with HeartSciences.",
+      "published_at": "2026-09-17T12:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+      "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "North Korea-linked hackers used Tron, Aptos and BNB Chain to maintain malware infrastructure, while suspected Iran-linked actors embedded directions in Bitcoin transactions.",
+      "published_at": "2026-09-17T12:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "BNB"
+      ],
+      "note": "Нейтрально щодо BTC, BNB -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
+      "snippet": "Circle blockchain Arc's first day was dominated by memecoins, and the traders behind them had already moved on by Thursday morning.",
+      "published_at": "2026-09-17T11:42:22+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+      "snippet": "Your day-ahead look for Sept. 17, 2026",
+      "published_at": "2026-09-17T11:19:09+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin rises as oil sinks on report of China intervention on Iran",
+      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+      "snippet": "U.S. stocks are set for a sharply higher open one day after the Fed hikes interest rates for the first time in more than three years.",
+      "published_at": "2026-09-17T10:41:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto rallies through the Fed's first rate increase since 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "snippet": "Bitcoin rose 0.88% over 24 hours to $76,621 as the central bank's projections implied only one further hike. Zcash jumped 23% to a record after Paradigm disclosed a stake.",
+      "published_at": "2026-09-17T10:40:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+      "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Zcash rose about 20% in 24 hours as Paradigm co-founder Matt Huang disclosed that the firm invested in ZEC amid a broader crypto market rally.",
+      "published_at": "2026-09-17T10:35:29+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
+      "link": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
+      "snippet": "A substitute text adopted before the vote strips out the Federal Reserve funding routes and thins the transparency rules.",
+      "published_at": "2026-09-17T10:24:21+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
+      "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Revolut says it received no direct contact despite separate ransom demands for $3 million in Monero and 10,000 Bitcoin from competing breach claimants.",
+      "published_at": "2026-09-17T09:57:51+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polymarket users referred to prosecutors in South Korea: Report",
+      "link": "https://cointelegraph.com/news/south-korea-polymarket-users-prosecutors-gambling-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "South Korean police reportedly referred 18 Polymarket users to prosecutors in a gambling probe involving 26 people and $12.7 million in bets.",
+      "published_at": "2026-09-17T09:37:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
+      "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin corporate treasuries remained at an unrealized loss on their holdings as the price fell below $80,000 and fresh capital inflows dwindled.",
+      "published_at": "2026-09-17T09:00:31+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
+      "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+      "snippet": "Bitcoin’s drawdown mirrors its position before the Fed’s first hike in March 2022, raising questions over whether a relief rally could precede further losses.",
+      "published_at": "2026-09-17T08:41:48+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+      "snippet": "The update expands support for automated payments in XRP and RLUSD, with tools that let agents pay repeatedly for services and manage wallets across blockchains.",
+      "published_at": "2026-09-17T07:54:33+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
