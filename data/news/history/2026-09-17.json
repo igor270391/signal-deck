@@ -1,8 +1,238 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T13:21:49.518159+00:00",
-  "count": 28,
+  "generated_at": "2026-09-17T18:10:03.633010+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
+      "link": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
+      "snippet": "The former presidential candidate said lawmakers should impose liability rules and waiting periods on frontier AI firms as autonomous agents raise new cyber and labor concerns.",
+      "published_at": "2026-09-17T18:06:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
+      "link": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
+      "snippet": "King Charles hosted senior AI executives at his Scottish estate to discuss keeping the technology \"in the service of humanity,\" days after industry leaders called for a slowdown.",
+      "published_at": "2026-09-17T17:36:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+      "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
+      "published_at": "2026-09-17T17:31:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Bounces as Markets Brace for the Fed’s Next Move",
+      "link": "https://decrypt.co/378506/bitcoin-bounces-wall-street-fed-next-move",
+      "snippet": "The Federal Reserve's first rate increase since 2023 barely dented crypto prices, but what comes next could change calculations on Wall Street.",
+      "published_at": "2026-09-17T17:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Is there any chance left to save the CLARITY Act?",
+      "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "CLARITY isn’t dead after failing a key Senate vote, but with time running short and Democrats still demanding changes, its path forward is narrowing.",
+      "published_at": "2026-09-17T17:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Financial Data Giant S&P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
+      "link": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
+      "snippet": "S&P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
+      "published_at": "2026-09-17T16:33:12+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+      "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin made modest daily gains as US stocks saw upside in the aftermath of the US Federal Reserve’s first interest-rate hike since July 2023.",
+      "published_at": "2026-09-17T16:22:23+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
+      "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Former Hut 8 CEO Jaime Leverton will take the helm at Fortitude as the Zcash-focused miner expands its operations and moves toward a planned public listing.",
+      "published_at": "2026-09-17T15:58:33+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
+      "link": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
+      "snippet": "\"Anyone running an unregistered peer-to-peer crypto business should assume we are looking at them,\" the FCA's enforcement chief said.",
+      "published_at": "2026-09-17T15:21:19+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
+      "snippet": "Increased enforcement coincides with detailed regulatory guidance issued to crypto firms ahead of the full framework taking effect in late 2027.",
+      "published_at": "2026-09-17T15:08:24+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
+      "snippet": "The U.S. Securities and Exchange Commission dug into plans for around-the-clock trading in an event on the same morning it approved tokenized securities.",
+      "published_at": "2026-09-17T15:03:19+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Beyond bitcoin and ether",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+      "snippet": "",
+      "published_at": "2026-09-17T14:57:11+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+      "link": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+      "snippet": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and…",
+      "published_at": "2026-09-17T14:52:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+      "snippet": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
+      "published_at": "2026-09-17T14:50:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "link": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "snippet": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+      "published_at": "2026-09-17T14:40:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-17T13:53:14+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
+      "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto.com’s CEO said its sister exchange was cleared to offer US access to single-stock perpetual futures, as the latest platform to bridge TradFi and digital assets.",
+      "published_at": "2026-09-17T13:35:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC grants temporary exemption for tokenized US stock trading",
+      "link": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+      "published_at": "2026-09-17T13:34:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin treasury companies promise to amplify returns over investing in Bitcoin alone, but does the potential upside outweigh the risks to the downside?",
+      "published_at": "2026-09-17T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
@@ -51,6 +281,21 @@
       "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
       "triggers": [
         "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+      "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+      "snippet": "The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.",
+      "published_at": "2026-09-17T12:37:21+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
       ]
     },
     {
@@ -147,16 +392,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises as oil sinks on report of China intervention on Iran",
+      "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-      "snippet": "U.S. stocks are set for a sharply higher open one day after the Fed hikes interest rates for the first time in more than three years.",
+      "snippet": "The SEC debuted its long-awaited \"innovation exemption,\" providing a roadmap for blockchain-based venues to offer tokenized securities.",
       "published_at": "2026-09-17T10:41:15+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
     },
     {
       "source": "CoinDesk",
@@ -277,19 +524,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
       "snippet": "Record diesel prices could feed through to consumer price inflation, confirming more Fed rate hikes. The central bank appears determined to raise rates into a oil supply shock.",
       "published_at": "2026-09-17T07:27:07+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-17T06:01:31+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
