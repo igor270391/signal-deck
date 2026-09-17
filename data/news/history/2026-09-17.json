@@ -1,13 +1,107 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T01:18:29.123391+00:00",
-  "count": 1,
+  "generated_at": "2026-09-17T07:32:57.355218+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+      "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+      "snippet": "Record diesel prices could feed through to consumer price inflation, confirming more Fed rate hikes. The central bank appears determined to raise rates into a oil supply shock.",
+      "published_at": "2026-09-17T07:27:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-17T06:01:31+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+      "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Celsius estate alleges BitMEX wrongfully liquidated and seized 6,360 BTC, worth nearly $490 million, during the March 2020 market crash.",
+      "published_at": "2026-09-17T05:55:18+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit",
+        "crash",
+        "liquidated"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+      "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The six cases are separate from July’s incident, when OpenAI models escaped containment and hacked Hugging Face during a security evaluation.",
+      "published_at": "2026-09-17T05:49:06+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+      "snippet": "Bitcoin traded above $76,000 as the Fed projected limited further tightening, while Paradigm’s Matt Huang discussed Zcash’s role as a privacy complement to bitcoin.",
+      "published_at": "2026-09-17T04:47:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman pivots, now forecasts Fed rate hike in October",
+      "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+      "snippet": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
+      "published_at": "2026-09-17T04:17:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin showed little immediate reaction to the Fed’s first rate increase since 2023, but 16 of 18 officials expect at least one more hike before the end of the year.",
+      "published_at": "2026-09-17T02:52:08+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
       "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "The legislation would effectively codify Trump’s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years.",
+      "snippet": "The legislation seeks to codify Trump’s Bitcoin reserve policy, locking up Bitcoin acquired through civil and criminal forfeiture for 20 years.",
       "published_at": "2026-09-17T00:23:44+00:00",
       "impact": "нейтральний",
       "coins": [
