@@ -1,8 +1,109 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T14:23:02.023655+00:00",
-  "count": 31,
+  "generated_at": "2026-09-18T18:20:44.441614+00:00",
+  "count": 39,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto stocks rebound after CLARITY Act selloff",
+      "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Coinbase, Strategy and other crypto-linked stocks rallied Friday as the CFTC and SEC moved ahead with crypto-related actions under existing authority.",
+      "published_at": "2026-09-18T17:55:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+      "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+      "snippet": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
+      "published_at": "2026-09-18T16:42:32+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Позитивний тон для BTC, XRP за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges",
+        "rebound"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
+      "link": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+      "snippet": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's…",
+      "published_at": "2026-09-18T16:08:13+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC submits crypto market regulation plan for White House review",
+      "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US commodities regulator submitted a new crypto market regulatory action for White House review days after the Senate failed to advance the CLARITY Act.",
+      "published_at": "2026-09-18T16:04:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price action made swift gains at the start of Friday’s Wall Street trading session as US 30-year bond yields began rising again.",
+      "published_at": "2026-09-18T15:35:59+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
+      "link": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
+      "snippet": "Bitcoin just ripped 5.88% higher in a single session, tearing back toward its 2026 highs. The charts say the move is real, but they also say it's gotten ahead of itself.",
+      "published_at": "2026-09-18T15:22:49+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "snippet": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
+      "published_at": "2026-09-18T15:16:37+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+      "snippet": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
+      "published_at": "2026-09-18T15:06:31+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
@@ -199,16 +300,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open",
+      "title": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
       "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "snippet": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.",
       "published_at": "2026-09-18T09:49:51+00:00",
-      "impact": "нейтральний",
+      "impact": "негативний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
     },
     {
       "source": "Cointelegraph",
