@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T04:32:56.032742+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Cardano’s IOG warns users to avoid YouTube channel amid giveaway scam",
+      "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to “double your wealth.”",
+      "published_at": "2026-09-18T04:11:40+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ADA"
+      ],
+      "note": "Негативний тон для ADA за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "World launches self-custodial ‘super app’ World Money",
+      "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app.",
+      "published_at": "2026-09-18T03:40:28+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+      "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+      "snippet": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
+      "published_at": "2026-09-18T03:03:38+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
+      "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US Treasury says the Iranian exchange processed payments received through Iran’s Strait of Hormuz maritime scheme and helped move hundreds of millions of dollars in Bitcoin to the IRGC.",
+      "published_at": "2026-09-18T01:33:54+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    }
+  ]
+}
