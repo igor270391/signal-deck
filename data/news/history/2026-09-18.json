@@ -1,8 +1,88 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T18:20:44.441614+00:00",
-  "count": 39,
+  "generated_at": "2026-09-18T21:38:46.545275+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "link": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+      "snippet": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
+      "published_at": "2026-09-18T21:01:30+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-18T21:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase files to bring single-stock perpetual futures to US market",
+      "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval.",
+      "published_at": "2026-09-18T19:53:54+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Is Running—Devs Want to Make It Faster",
+      "link": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+      "snippet": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
+      "published_at": "2026-09-18T19:16:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance is joining a growing number of crypto exchanges offering around-the-clock exposure to foreign exchange markets through perpetual futures.",
+      "published_at": "2026-09-18T19:06:30+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
+      "link": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+      "snippet": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
+      "published_at": "2026-09-18T18:35:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto stocks rebound after CLARITY Act selloff",
@@ -116,19 +196,6 @@
       "triggers": [
         "ban"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-18T13:34:11+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
