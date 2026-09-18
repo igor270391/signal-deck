@@ -1,22 +1,175 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T04:32:56.032742+00:00",
-  "count": 4,
+  "generated_at": "2026-09-18T09:37:59.507276+00:00",
+  "count": 16,
   "items": [
     {
       "source": "Cointelegraph",
-      "title": "Cardano’s IOG warns users to avoid YouTube channel amid giveaway scam",
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
+      "published_at": "2026-09-18T09:14:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+      "link": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
+      "snippet": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
+      "published_at": "2026-09-18T09:01:55+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed to securing authorization in Europe.",
+      "published_at": "2026-09-18T08:50:38+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
+      "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulations and warns against anchoring to an October low.",
+      "published_at": "2026-09-18T08:47:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "snippet": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
+      "published_at": "2026-09-18T07:37:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
+      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "snippet": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage…",
+      "published_at": "2026-09-18T06:52:23+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+      "snippet": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
+      "published_at": "2026-09-18T06:16:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-18T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+      "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+      "snippet": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
+      "published_at": "2026-09-18T05:43:21+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+      "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+      "snippet": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
+      "published_at": "2026-09-18T05:23:29+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+      "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
+      "published_at": "2026-09-18T04:51:29+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
+      "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+      "snippet": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run.",
+      "published_at": "2026-09-18T04:49:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо ETH, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
       "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Input Output Group told users to avoid its YouTube channel after it began livestreaming a suspected AI-manipulated Charles Hoskinson video promising to “double your wealth.”",
       "published_at": "2026-09-18T04:11:40+00:00",
-      "impact": "негативний",
+      "impact": "нейтральний",
       "coins": [
         "ADA"
       ],
-      "note": "Негативний тон для ADA за ключовими словами -- варто звернути увагу.",
-      "triggers": [
-        "scam"
-      ]
+      "note": "Нейтрально щодо ADA -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Cointelegraph",
