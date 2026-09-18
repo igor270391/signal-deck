@@ -1,8 +1,69 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T21:23:02.518650+00:00",
-  "count": 55,
+  "generated_at": "2026-09-18T00:06:23.992601+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
+      "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "North Korea and Iran account for the majority of onchain malware, while Malaysia has been named among the most crypto curious Islamic nations.",
+      "published_at": "2026-09-17T23:49:23+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
+      "link": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
+      "snippet": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
+      "published_at": "2026-09-17T22:31:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+      "snippet": "The SEC is giving tokenized stocks a regulated U.S. pathway, while keeping trading volumes, access and issuer rights tightly controlled.",
+      "published_at": "2026-09-17T21:47:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
+      "link": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
+      "snippet": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
+      "published_at": "2026-09-17T21:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+      "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+      "snippet": "The estranged daughter of 77-year-old Kathleen Allman has petitioned a Hawaiian court to establish a limited conservatorship to protect her parents’ share of her brother’s stake in Ondo.",
+      "published_at": "2026-09-17T21:28:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
