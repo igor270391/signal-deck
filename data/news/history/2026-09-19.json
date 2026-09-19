@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T09:24:30.855894+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+      "published_at": "2026-09-19T07:50:58+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    }
+  ]
+}
