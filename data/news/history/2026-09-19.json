@@ -1,8 +1,90 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T09:24:30.855894+00:00",
-  "count": 1,
+  "generated_at": "2026-09-19T13:54:17.628341+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
+      "snippet": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an…",
+      "published_at": "2026-09-19T13:39:15+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "note": "Позитивний тон для ETH, XRP за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+      "link": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+      "snippet": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
+      "published_at": "2026-09-19T13:01:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+      "snippet": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+      "published_at": "2026-09-19T12:13:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+      "snippet": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
+      "published_at": "2026-09-19T12:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+      "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+      "snippet": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
+      "published_at": "2026-09-19T12:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bastion wins conditional OCC approval for national trust bank charter",
+      "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
+      "published_at": "2026-09-19T11:47:29+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rally",
+        "approval"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
