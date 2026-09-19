@@ -1,8 +1,35 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T17:11:13.420235+00:00",
-  "count": 13,
+  "generated_at": "2026-09-19T20:30:09.500381+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
+      "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
+      "published_at": "2026-09-19T19:14:38+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+      "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
+      "published_at": "2026-09-19T18:35:16+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
