@@ -1,8 +1,58 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T11:10:05.794011+00:00",
-  "count": 2,
+  "generated_at": "2026-09-20T14:45:40.560286+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
+      "link": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+      "snippet": "A Glassnode and Bybit report frames the divergence as the defining feature of this cycle, with froth pooling in the market's riskiest corners even as Bitcoin does the heavy lifting.",
+      "published_at": "2026-09-20T14:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+      "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.",
+      "published_at": "2026-09-20T12:00:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+      "snippet": "Goldman Sachs and Citizens analysts said the agency's move create new opportunities in custody, tokenization infrastructure and stablecoin settlement, while giving brokers room to expand onchain…",
+      "published_at": "2026-09-20T12:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "snippet": "Market experts view bitcoin’s price stability as evidence of its fundamental independence from Washington, maintaining that global liquidity and adoption cycles remain the primary growth drivers.",
+      "published_at": "2026-09-20T12:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "adoption"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
