@@ -1,8 +1,32 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T14:45:40.560286+00:00",
-  "count": 6,
+  "generated_at": "2026-09-20T18:14:27.179465+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+      "link": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+      "snippet": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital…",
+      "published_at": "2026-09-20T16:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "snippet": "The crypto platform’s market value has fallen to about $753 million, putting fresh attention on the licenses, custody infrastructure and customer relationships a buyer could inherit.",
+      "published_at": "2026-09-20T14:54:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
