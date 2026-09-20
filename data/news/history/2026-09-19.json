@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-20T06:02:23.415994+00:00",
+  "generated_at": "2026-09-20T11:10:05.794011+00:00",
   "count": 15,
   "items": [
     {
@@ -8,7 +8,7 @@
       "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
       "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The new ASSX fund offers 2x daily exposure to Strive shares, giving traders a leveraged way to bet on the Bitcoin treasury company.",
-      "published_at": "2026-09-19T19:14:38+00:00",
+      "published_at": "2026-09-19T19:18:00+00:00",
       "impact": "позитивний",
       "coins": [
         "BTC"
@@ -21,10 +21,10 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Kalshi joins Coinbase with filing for US stock perpetual futures",
+      "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
       "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
-      "published_at": "2026-09-19T18:35:16+00:00",
+      "published_at": "2026-09-19T18:40:00+00:00",
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
@@ -46,7 +46,7 @@
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "VanEck said Metaplanet’s executive equity exposure remains well above its digital asset treasury peers, even after the company cut its potential share pool by 41%.",
-      "published_at": "2026-09-19T16:15:27+00:00",
+      "published_at": "2026-09-19T16:20:00+00:00",
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
@@ -178,7 +178,7 @@
       "title": "Bastion wins conditional OCC approval for national trust bank charter",
       "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
-      "published_at": "2026-09-19T11:47:29+00:00",
+      "published_at": "2026-09-19T11:51:00+00:00",
       "impact": "позитивний",
       "coins": [],
       "note": "Позитивний тон для загального ринку за ключовими словами.",
@@ -189,10 +189,10 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "title": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report",
       "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
-      "published_at": "2026-09-19T07:50:58+00:00",
+      "published_at": "2026-09-19T07:52:00+00:00",
       "impact": "негативний",
       "coins": [],
       "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T11:10:05.794011+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
+      "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "At the close of trading on Sept. 28, shareholders will receive two extra shares for each one they hold.",
+      "published_at": "2026-09-20T09:14:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
+      "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
+      "published_at": "2026-09-20T07:51:24+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "partnership"
+      ]
+    }
+  ]
+}
