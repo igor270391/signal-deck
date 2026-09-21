@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T04:48:17.508749+00:00",
+  "count": 5,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn’t enough to confirm a new bull run.",
+      "published_at": "2026-09-21T04:29:59+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.",
+      "published_at": "2026-09-21T04:27:32+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+      "snippet": "Bitcoin extended a slow climb through the Asian session while regional equities and U.S. stock futures rose on progress in trade talks between Washington and Beijing.",
+      "published_at": "2026-09-21T04:03:43+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "NEAR"
+      ],
+      "note": "Нейтрально щодо BTC, NEAR -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+      "snippet": "Bitcoin's price has topped its 50-week average for the first time in 45 weeks, a major bullish signal.",
+      "published_at": "2026-09-21T03:56:23+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+      "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
+      "published_at": "2026-09-21T01:42:53+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
