@@ -1,8 +1,180 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T17:01:09.694385+00:00",
-  "count": 40,
+  "generated_at": "2026-09-21T21:00:53.044019+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+      "snippet": "Bitcoin has broken out to $86,000, but analysts say the next leg depends on whether spot buyers continue to show up as leverage builds.",
+      "published_at": "2026-09-21T20:39:39+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+      "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Saudi Arabia has left mBridge, a cross-border CBDC platform that has drawn scrutiny from US policymakers, according to the Financial Times.",
+      "published_at": "2026-09-21T20:37:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+      "link": "https://decrypt.co/378877/x-sues-bitcoin-influencers-bot-army-creator-payout",
+      "snippet": "A lawsuit accuses UK users of running six coordinated accounts to pull at least $278,000 from X's now-defunct Creator Revenue Sharing Program.",
+      "published_at": "2026-09-21T20:16:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit",
+        "sues"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-21T19:53:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "link": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+      "snippet": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
+      "published_at": "2026-09-21T19:26:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+      "snippet": "TD Cowen expects limited demand for tokenized stocks despite new SEC rules opening a path for trading outside traditional markets.",
+      "published_at": "2026-09-21T19:08:40+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+      "link": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+      "snippet": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
+      "published_at": "2026-09-21T19:00:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+      "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ondo’s new in-kind conversion system allows approved institutions to mint and redeem tokenized stocks and ETFs using the underlying securities instead of cash.",
+      "published_at": "2026-09-21T18:35:43+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Позитивний тон для ONDO за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
+      "link": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
+      "snippet": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
+      "published_at": "2026-09-21T18:31:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
+      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-sherrod-brown-ohio-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The digital asset-aligned PAC joined other groups to spend more than a combined $300 million in the 2024 Ohio Senate race, resulting in Sherrod Brown’s loss to Bernie Moreno.",
+      "published_at": "2026-09-21T18:15:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Can a Fruit Fly Brain Mine Bitcoin? These Companies Are Testing It",
+      "link": "https://decrypt.co/378836/fruit-fly-brain-mine-bitcoin-these-companies-testing",
+      "snippet": "The HashFly browser experiment uses a digital neural model for Bitcoin hashing and projects greater efficiency from a hypothetical biological version.",
+      "published_at": "2026-09-21T17:46:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
+      "link": "https://decrypt.co/378824/xai-launches-grok-4-7",
+      "snippet": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
+      "published_at": "2026-09-21T17:16:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Circle is bringing Bitcoin-backed borrowing to institutional clients, allowing them to tap BTC holdings for USDC liquidity without selling their Bitcoin.",
+      "published_at": "2026-09-21T16:56:53+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "institutional",
+        "launch",
+        "launches"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
@@ -44,7 +216,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid",
+      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
       "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
       "snippet": "It's the biggest spending from the industry's campaign arm in 2026, much like Fairshake's $40 million against Brown two years ago was its largest-ever outlay.",
       "published_at": "2026-09-21T16:01:36+00:00",
@@ -455,19 +627,6 @@
         "ETH"
       ],
       "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-21T04:44:48+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
