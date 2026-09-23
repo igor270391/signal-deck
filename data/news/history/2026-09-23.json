@@ -1,8 +1,282 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T11:21:06.690207+00:00",
-  "count": 24,
+  "generated_at": "2026-09-23T16:42:53.338065+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+      "link": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+      "snippet": "Blockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.",
+      "published_at": "2026-09-23T16:36:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Americans Would Use Stablecoins—If They Came With Bank Protections, Visa Study Finds",
+      "link": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa",
+      "snippet": "A Visa survey found U.S. willingness to use stablecoins for cross-border transfers rises from 36% to 56% when paired with hypothetical bank-level fraud protection and deposit insurance.",
+      "published_at": "2026-09-23T16:26:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "fraud"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+      "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE’s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.",
+      "published_at": "2026-09-23T15:56:20+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "partnership"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Dips, But Its Forks Are Flying Again",
+      "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
+      "snippet": "A CME futures listing and a fresh Grayscale ETF filing sent Bitcoin's two biggest forks soaring, even as the flagship coin cooled off its seven-month high.",
+      "published_at": "2026-09-23T15:56:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "soar"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+      "link": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+      "snippet": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into…",
+      "published_at": "2026-09-23T15:41:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the FBI’s little-known annual crypto crime gathering",
+      "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+      "snippet": "The Virtual Asset Technical Exchange brings together investigators, law enforcement officials, and crypto-security specialists to exchange intelligence on a wide range of crimes involving digital…",
+      "published_at": "2026-09-23T15:26:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "snippet": "Tron launched as a content-distribution project and has become the settlement layer for a large share of the world's USDT, processing roughly $150 billion to $190 billion of stablecoin transfers a…",
+      "published_at": "2026-09-23T15:07:21+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+      "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold.",
+      "published_at": "2026-09-23T14:52:11+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
+      "published_at": "2026-09-23T14:28:50+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+      "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
+      "published_at": "2026-09-23T13:40:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-23T13:39:08+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+      "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+      "published_at": "2026-09-23T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+      "snippet": "Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility.",
+      "published_at": "2026-09-23T13:02:43+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+      "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+      "snippet": "The acquisition will support MoonPay’s aim of supporting mass adoption of tokenized real-world assets, CEO Ivan Soto-Wright said.",
+      "published_at": "2026-09-23T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+      "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
+      "published_at": "2026-09-23T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+      "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
+      "published_at": "2026-09-23T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
+      "link": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
+      "snippet": "Crypto majors continue their climb while alt leaders hit new ATHs. What’s driving the recent run up?",
+      "published_at": "2026-09-23T12:26:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
+      "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "EU supervisors warn quantum computing could weaken blockchain security as Bitcoin developers weigh a draft migration plan and Ethereum targets 2029.",
+      "published_at": "2026-09-23T12:22:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
+      "link": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
+      "snippet": "A seven-agency advisory ties the WaterPlum hacking crew and Pyongyang's remote IT worker scheme to the same bureau.",
+      "published_at": "2026-09-23T12:15:18+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
+      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
+      "snippet": "Bitcoin matched Monday's high near $87,300 before running into selling, while bitcoin cash surged 28% on a CME futures listing and ZEC added 9%.",
+      "published_at": "2026-09-23T11:29:30+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
+      "snippet": "Your day-ahead look for Sept. 22, 2026",
+      "published_at": "2026-09-23T11:28:50+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
@@ -91,19 +365,6 @@
       ]
     },
     {
-      "source": "Cointelegraph",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
-      "published_at": "2026-09-23T09:42:39+00:00",
-      "impact": "негативний",
-      "coins": [],
-      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
-      "triggers": [
-        "ban"
-      ]
-    },
-    {
       "source": "CoinDesk",
       "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
       "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
@@ -179,19 +440,6 @@
         "inflow",
         "inflows"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-23T05:43:01+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
