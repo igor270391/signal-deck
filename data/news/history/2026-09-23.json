@@ -1,8 +1,148 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T16:42:53.338065+00:00",
-  "count": 43,
+  "generated_at": "2026-09-23T20:11:38.963876+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-23T19:39:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
+      "link": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
+      "snippet": "21Shares listed Europe's first Zcash exchange-traded product on Euronext Paris and Amsterdam this week as ZEC continues its banner year.",
+      "published_at": "2026-09-23T19:36:15+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
+      "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "President Donald Trump disclosed a July purchase of Strategy shares as his administration continues to advance crypto policy through federal regulators and Congress.",
+      "published_at": "2026-09-23T19:05:14+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+      "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
+      "snippet": "The prediction market says unusual patterns in its ether perpetual market are the result of liquidity incentives.",
+      "published_at": "2026-09-23T19:04:52+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "snippet": "The crypto community is seeking answers after 37-year-old growth executive Hsin-Ju Chuang was found dead in a remote California desert vehicle.",
+      "published_at": "2026-09-23T18:59:36+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
+      "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
+      "snippet": "Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.",
+      "published_at": "2026-09-23T18:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
+      "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The survey released by Visa posited that bank-like protections for stablecoins could increase adoption in the US as companies are preparing for the enactment of the GENIUS Act.",
+      "published_at": "2026-09-23T18:17:48+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge",
+        "adoption"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
+      "link": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
+      "snippet": "The product lets users lock in their rate and repayment date when borrowing USDC against Bitcoin, marking the first enterprise-scale deployment of Morpho Midnight and a shift away from on-chain…",
+      "published_at": "2026-09-23T18:15:06+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
+      "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "snippet": "President Donald Trump's crypto adviser, Patrick Witt, accused Democrats of unfairly amplifying Trump's crypto ties as a political weapon.",
+      "published_at": "2026-09-23T18:04:11+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users Need to Know",
+      "link": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
+      "snippet": "BitMEX ended trading at 04:00 UTC Wednesday and is urging users to withdraw their remaining funds, as fees now apply to balances left on the exchange.",
+      "published_at": "2026-09-23T17:31:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+      "link": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
+      "snippet": "RBC, TD, BMO, Scotiabank, CIBC and National Bank are jointly exploring a Canadian-dollar tokenized deposit system, starting with transfers between the banks themselves.",
+      "published_at": "2026-09-23T17:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
@@ -14,6 +154,21 @@
       "note": "Позитивний тон для загального ринку за ключовими словами.",
       "triggers": [
         "approval"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+      "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.",
+      "published_at": "2026-09-23T16:34:27+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches",
+        "expands"
       ]
     },
     {
@@ -136,19 +291,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-23T13:39:08+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Winners and losers of the SEC’s new tokenized stocks rules",
       "link": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
@@ -253,9 +395,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
+      "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
       "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-      "snippet": "Bitcoin matched Monday's high near $87,300 before running into selling, while bitcoin cash surged 28% on a CME futures listing and ZEC added 9%.",
+      "snippet": "The 10-year U.S. Treasury yield has soared 18 basis points on Wednesday to its highest level since 2007.",
       "published_at": "2026-09-23T11:29:30+00:00",
       "impact": "позитивний",
       "coins": [
@@ -263,7 +405,7 @@
       ],
       "note": "Позитивний тон для BTC за ключовими словами.",
       "triggers": [
-        "surge"
+        "soar"
       ]
     },
     {
@@ -366,14 +508,16 @@
     },
     {
       "source": "CoinDesk",
-      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
       "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
       "snippet": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
       "published_at": "2026-09-23T09:17:53+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [],
-      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption"
+      ]
     },
     {
       "source": "Cointelegraph",
