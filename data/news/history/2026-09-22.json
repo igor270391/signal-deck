@@ -1,8 +1,19 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T22:00:25.777445+00:00",
-  "count": 52,
+  "generated_at": "2026-09-23T00:18:36.253189+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+      "link": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+      "snippet": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei—who has spent a year calling China's government the industry's biggest threat.",
+      "published_at": "2026-09-22T22:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
