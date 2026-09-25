@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T01:24:16.958772+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+      "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacking group.",
+      "published_at": "2026-09-25T00:32:46+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    }
+  ]
+}

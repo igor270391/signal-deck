@@ -1,8 +1,57 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T22:15:37.473521+00:00",
-  "count": 62,
+  "generated_at": "2026-09-25T01:24:16.958772+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+      "link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
+      "published_at": "2026-09-24T23:27:17+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+      "snippet": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
+      "published_at": "2026-09-24T22:41:44+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "snippet": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
+      "published_at": "2026-09-24T22:28:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
+      "published_at": "2026-09-24T22:10:09+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
@@ -31,7 +80,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitget confirms $351M security breach, suspends withdrawals",
+      "title": "Bitget confirms $352M security breach, suspends withdrawals",
       "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
       "published_at": "2026-09-24T21:47:17+00:00",
