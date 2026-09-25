@@ -1,8 +1,100 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T01:24:16.958772+00:00",
-  "count": 1,
+  "generated_at": "2026-09-25T07:35:56.836149+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Samourai Wallet co-founder faces new transfer after 30-day ordeal",
+      "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Keonne Rodriguez says he and 70 others face another move after their treatment program was deactivated. His previous transfer took 30 days.",
+      "published_at": "2026-09-25T07:28:18+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+      "snippet": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.",
+      "published_at": "2026-09-25T07:09:11+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "selloff"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-25T05:30:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
+      "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Anthony Albanese said governments must help shape AI’s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal.",
+      "published_at": "2026-09-25T05:06:22+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach",
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum…",
+      "published_at": "2026-09-25T04:41:06+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
+      "snippet": "Bitget lost $351.6 million after attackers compromised a wallet backend, spoofed transaction data, Chen said on X.",
+      "published_at": "2026-09-25T04:29:34+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
+      "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open payment standard enabling agentic AI commerce.",
+      "published_at": "2026-09-25T02:00:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
