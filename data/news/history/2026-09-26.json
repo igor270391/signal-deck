@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T07:28:41.221712+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
+      "published_at": "2026-09-26T06:59:29+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "snippet": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
+      "published_at": "2026-09-26T05:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "snippet": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
+      "published_at": "2026-09-26T04:30:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "link": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "snippet": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+      "published_at": "2026-09-26T04:02:13+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
