@@ -1,8 +1,49 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T13:51:28.514117+00:00",
-  "count": 5,
+  "generated_at": "2026-09-27T18:18:39.672769+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+      "link": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+      "snippet": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
+      "published_at": "2026-09-27T16:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+      "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+      "snippet": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
+      "published_at": "2026-09-27T15:01:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "breakthrough"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "snippet": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
+      "published_at": "2026-09-27T14:29:13+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
