@@ -1,8 +1,23 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T22:03:31.516828+00:00",
-  "count": 8,
+  "generated_at": "2026-09-28T00:33:08.673369+00:00",
+  "count": 9,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
+      "published_at": "2026-09-27T23:43:18+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
