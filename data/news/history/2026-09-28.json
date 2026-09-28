@@ -1,8 +1,247 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T15:19:01.124104+00:00",
-  "count": 32,
+  "generated_at": "2026-09-28T21:51:27.971377+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+      "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+      "snippet": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+      "published_at": "2026-09-28T21:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+      "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+      "snippet": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
+      "published_at": "2026-09-28T21:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+      "link": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.",
+      "published_at": "2026-09-28T20:41:44+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charges",
+        "fraud"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+      "snippet": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
+      "published_at": "2026-09-28T20:36:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+      "link": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
+      "published_at": "2026-09-28T20:28:13+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+      "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+      "snippet": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
+      "published_at": "2026-09-28T20:06:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+      "snippet": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for…",
+      "published_at": "2026-09-28T19:36:21+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-28T19:02:45+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+      "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+      "snippet": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
+      "published_at": "2026-09-28T18:46:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US SEC follows CFTC in staff guidance for crypto",
+      "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
+      "published_at": "2026-09-28T18:39:09+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
+      "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+      "snippet": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.",
+      "published_at": "2026-09-28T18:16:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "link": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
+      "published_at": "2026-09-28T18:02:54+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+      "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+      "snippet": "The bank is bringing its roughly $100 billion Treasury fund to institutional crypto firms without creating a tokenized version of it.",
+      "published_at": "2026-09-28T18:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+      "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+      "snippet": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
+      "published_at": "2026-09-28T17:51:14+00:00",
+      "impact": "негативний",
+      "coins": [
+        "LINK"
+      ],
+      "note": "Негативний тон для LINK за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
+      "link": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Fairshake pledged an initial $30 million on media opposing the Democratic candidate in Ohio’s Senate race in what some see as a repeat of spending by the crypto industry in 2024.",
+      "published_at": "2026-09-28T16:48:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+      "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+      "snippet": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.",
+      "published_at": "2026-09-28T16:29:42+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "snippet": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
+      "published_at": "2026-09-28T16:24:51+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+      "snippet": "Democrats on the Senate's Permanent Subcommittee on Intelligence published a report alleging that USDT had become a key tool for the Iranian government.",
+      "published_at": "2026-09-28T16:16:40+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+      "link": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
+      "snippet": "Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.",
+      "published_at": "2026-09-28T15:26:28+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
@@ -27,19 +266,6 @@
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-28T13:32:34+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
@@ -230,18 +456,16 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips back to $83,000 as bond yields surge to new cycle highs",
+      "title": "Live updates: Bitcoin remains under pressure as Iran denies report of peace progress",
       "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
-      "snippet": "The U.S. 10-year Treasury yield is sharply higher again, rising above 5.25% as oil jumps 3%",
+      "snippet": "The U.S. 10-year Treasury yield is sharply higher again, rising to a new cycle high above 5.27%.",
       "published_at": "2026-09-28T10:02:37+00:00",
-      "impact": "позитивний",
+      "impact": "нейтральний",
       "coins": [
         "BTC"
       ],
-      "note": "Позитивний тон для BTC за ключовими словами.",
-      "triggers": [
-        "surge"
-      ]
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Cointelegraph",
