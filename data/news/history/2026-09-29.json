@@ -1,8 +1,218 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T15:41:45.711247+00:00",
-  "count": 28,
+  "generated_at": "2026-09-29T20:42:44.266684+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
+      "link": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
+      "snippet": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
+      "published_at": "2026-09-29T20:36:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "NEAR"
+      ],
+      "note": "Позитивний тон для NEAR за ключовими словами.",
+      "triggers": [
+        "soar",
+        "soars",
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+      "link": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
+      "snippet": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existential risks to humanity.",
+      "published_at": "2026-09-29T20:06:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto regulation at SEC, CFTC to come down to 3 commissioners following key resignation",
+      "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Seven commissioner seats at the SEC and CFTC will be empty after Friday, leaving only a few leaders at financial regulators to oversee aspects of the $3 trillion crypto industry.",
+      "published_at": "2026-09-29T19:59:43+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+      "link": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.",
+      "published_at": "2026-09-29T19:55:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+      "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizing Korean-listed equities and expanding their availability to investors in international markets.",
+      "published_at": "2026-09-29T19:49:53+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-29T19:42:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
+      "link": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
+      "snippet": "Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed Relapse, while Sony argues in court that players don't own their digital games.",
+      "published_at": "2026-09-29T19:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+      "link": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+      "snippet": "OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announcement, explained for people who don't speak AI.",
+      "published_at": "2026-09-29T18:55:22+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+      "snippet": "The agreement opens the door to tokenized derivatives as some of Wall Street's biggest institutions, including Nasdaq, NYSE and DTCC, move traditional markets onchain.",
+      "published_at": "2026-09-29T18:21:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
+      "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
+      "snippet": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.",
+      "published_at": "2026-09-29T18:18:33+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge",
+        "inflow"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "BBC Director-General Deems AI-Generated Doctor Who Episode 'Pretty Good'",
+      "link": "https://decrypt.co/379561/bbc-director-general-ai-generated-doctor-who-pretty-good",
+      "snippet": "Matt Brittin, who joined the BBC from Google, argued that \"not all creativity is bad,\" while noting that the technology won't replace humans.",
+      "published_at": "2026-09-29T17:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows.",
+      "published_at": "2026-09-29T17:14:36+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "NEAR"
+      ],
+      "note": "Позитивний тон для NEAR за ключовими словами.",
+      "triggers": [
+        "rallies",
+        "surge",
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
+      "link": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
+      "snippet": "Bitcoin is up 7.33% in September, edging past 2024 as the best September on record, with one day left before the monthly candle closes.",
+      "published_at": "2026-09-29T16:50:46+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+      "link": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin failed to make another run at $85,000 as sellers held the line above current levels, while surging US bond yields weighed on stocks and precious metals.",
+      "published_at": "2026-09-29T16:26:11+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+      "link": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered.",
+      "published_at": "2026-09-29T16:18:06+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
+      "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
+      "snippet": "The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.",
+      "published_at": "2026-09-29T16:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Democrats killed the Clarity Act",
@@ -39,19 +249,6 @@
         "XRP"
       ],
       "note": "Нейтрально щодо BTC, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-29T13:08:04+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
@@ -99,18 +296,16 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
       "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
       "snippet": "Your day-ahead look for Sept. 29, 2026",
       "published_at": "2026-09-29T11:34:55+00:00",
-      "impact": "позитивний",
+      "impact": "нейтральний",
       "coins": [
         "BTC"
       ],
-      "note": "Позитивний тон для BTC за ключовими словами.",
-      "triggers": [
-        "surge"
-      ]
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "CoinDesk",
