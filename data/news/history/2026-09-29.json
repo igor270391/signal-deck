@@ -1,8 +1,293 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T08:19:05.498263+00:00",
-  "count": 8,
+  "generated_at": "2026-09-29T15:41:45.711247+00:00",
+  "count": 28,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Democrats killed the Clarity Act",
+      "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
+      "snippet": "Democrats should remember the people they represent and do what's best for them, not what's best for their political calculus, consultants, and special interests, writes Sen. Tim Scott (R-S.C.).",
+      "published_at": "2026-09-29T14:08:18+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
+      "link": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
+      "snippet": "Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.",
+      "published_at": "2026-09-29T14:07:44+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+      "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "An October pullback could offer a buying opportunity before Bitcoin’s next cycle peak, which Brandt expects between $300,000 and $600,000. He’s not sold on “fool coin” XRP.",
+      "published_at": "2026-09-29T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо BTC, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-09-29T13:08:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "CoinShares says IBIT offers clues to institutional buying, but basis trades mean inflows are not necessarily bets on rising Bitcoin prices.",
+      "published_at": "2026-09-29T12:40:12+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+      "link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+      "snippet": "Plus, crypto majors rebound as oil and yields fall and Saylor’s Strategy returns to buying Bitcoin.",
+      "published_at": "2026-09-29T12:05:18+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB puts AI agent payments on the digital euro drawing board",
+      "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The ECB is seeking firms to explore AI agents and machine-to-machine interactions as it prepares a separate digital euro pilot for 2027.",
+      "published_at": "2026-09-29T12:00:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
+      "snippet": "Your day-ahead look for Sept. 29, 2026",
+      "published_at": "2026-09-29T11:34:55+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+      "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+      "snippet": "Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.",
+      "published_at": "2026-09-29T11:15:30+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Glamsterdam will bring proposer-builder separation, block-level access lists and new gas pricing, while its mainnet date remains unset.",
+      "published_at": "2026-09-29T10:46:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
+      "link": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
+      "snippet": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
+      "published_at": "2026-09-29T10:38:29+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+      "snippet": "Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.",
+      "published_at": "2026-09-29T10:28:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+      "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot crypto ETF inflows fell about 80% from Friday as Bitcoin, Ether, Solana and XRP funds attracted $64.8 million combined on Monday.",
+      "published_at": "2026-09-29T10:15:19+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "XRP"
+      ],
+      "note": "Позитивний тон для BTC, ETH, SOL, XRP за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
+      "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
+      "snippet": "The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions.",
+      "published_at": "2026-09-29T10:14:41+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "plunge",
+        "plunges"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
+      "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
+      "snippet": "The London-based crypto services company confidentially filed for an initial public offering with the Securities and Exchange Commission earlier this year.",
+      "published_at": "2026-09-29T10:13:40+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price action consolidated after early-week losses while protecting a “trend-defining” support zone.",
+      "published_at": "2026-09-29T10:04:42+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Greece gets first MiCA entrants as watchdog denies Binance-Lagarde claim",
+      "link": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
+      "published_at": "2026-09-29T09:50:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+      "snippet": "Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.",
+      "published_at": "2026-09-29T09:45:31+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+      "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
+      "snippet": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
+      "published_at": "2026-09-29T09:38:57+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
+      "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
+      "snippet": "Why yields are rising matters more for bitcoin than how high they go.",
+      "published_at": "2026-09-29T09:06:11+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
+      "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BitMine could reach 5% of Ether’s supply by early November, while Tom Lee has left open whether it would continue buying beyond that level.",
+      "published_at": "2026-09-29T08:51:25+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
@@ -15,19 +300,6 @@
       "triggers": [
         "hack"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-09-29T05:37:56+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
