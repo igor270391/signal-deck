@@ -1,8 +1,195 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T13:37:33.858475+00:00",
-  "count": 34,
+  "generated_at": "2026-09-30T19:07:20.211327+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+      "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Base’s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers.",
+      "published_at": "2026-09-30T19:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bloomberg brings onchain stablecoin data to its Terminal",
+      "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.",
+      "published_at": "2026-09-30T18:49:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+      "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+      "snippet": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive jurisdiction as states sue prediction-market…",
+      "published_at": "2026-09-30T18:39:21+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
+      "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
+      "snippet": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
+      "published_at": "2026-09-30T17:27:43+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration.",
+      "published_at": "2026-09-30T17:17:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ADA"
+      ],
+      "note": "Нейтрально щодо ADA -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
+      "snippet": "In the first half of this year, the sector poured millions into lobbying, with most of it tied to pushing the U.S. market structure bill to a goal it never reached.",
+      "published_at": "2026-09-30T17:16:31+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+      "link": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
+      "snippet": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.",
+      "published_at": "2026-09-30T16:36:10+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
+      "link": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 “absorbed the financial impact of the incident“ that resulted in $388 million in user losses.",
+      "published_at": "2026-09-30T16:28:30+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+      "link": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
+      "snippet": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight—but carries no penalties and drew criticism for its thin…",
+      "published_at": "2026-09-30T16:06:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
+      "link": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
+      "snippet": "The Fed's favorite inflation gauge came in cooler than expected, rate-hike odds fell and Bitcoin traders took the hint.",
+      "published_at": "2026-09-30T15:50:25+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "snippet": "The “overwhelming majority” of Open Standard’s equity will be distributed over time to partners based on how much they help grow the stablecoin, CEO Zach Abrams said.",
+      "published_at": "2026-09-30T15:34:50+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC seeks event contract definitions that may defy states' gambling claims",
+      "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+      "snippet": "As it battles with states over prediction markets, the CFTC sent two related rules on swaps definitions for White House review.",
+      "published_at": "2026-09-30T15:19:36+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
+      "link": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
+      "snippet": "Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have now valued the theft at more than 30 times that.",
+      "published_at": "2026-09-30T15:17:45+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: What will the AI agents run on?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+      "snippet": "",
+      "published_at": "2026-09-30T14:56:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+      "snippet": "The five-month application window precedes the new regulatory framework’s planned introduction in October 2027, after years of legislative development.",
+      "published_at": "2026-09-30T14:04:19+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Could THORChain face prosecution over stolen Bitget funds?",
@@ -165,7 +352,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
       "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
       "snippet": "Six companies signed a safety pact covering hacking and biological threats, with no penalties or deadline for putting the checks in place.",
       "published_at": "2026-09-30T10:43:43+00:00",
@@ -202,16 +389,19 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
+      "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-      "snippet": "Core PCE prices rose just 0.2% in August versus the 0.3% forecast, and were higher by 3% year-over-year versus the 3.3% estimate.",
+      "snippet": "Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.",
       "published_at": "2026-09-30T10:18:34+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [
-        "BTC"
+        "BTC",
+        "ETH"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
     },
     {
       "source": "Cointelegraph",
