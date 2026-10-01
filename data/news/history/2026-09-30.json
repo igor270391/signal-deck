@@ -1,8 +1,19 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T23:01:23.975409+00:00",
-  "count": 56,
+  "generated_at": "2026-10-01T02:01:45.880776+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+      "link": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "snippet": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
+      "published_at": "2026-09-30T23:20:59+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",

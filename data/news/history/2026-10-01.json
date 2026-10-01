@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T02:01:45.880776+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+      "link": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The classification could assist the CFTC’s claim that it has exclusive federal jurisdiction over event contracts offered on regulated prediction markets.",
+      "published_at": "2026-10-01T01:07:46+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+      "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "MetaMask said it is investigating the threat internally and said it has found no immediate threat to its wallets.",
+      "published_at": "2026-10-01T00:15:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
