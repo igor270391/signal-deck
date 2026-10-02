@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-02T15:43:20.322945+00:00",
+  "generated_at": "2026-10-02T20:39:29.591243+00:00",
   "count": 49,
   "items": [
     {
@@ -282,7 +282,7 @@
       "source": "CoinDesk",
       "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
       "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-      "snippet": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.",
+      "snippet": "The popular cross-chain trading system said Friday the exploiter returned all stolen assets a day later a bug affected deposits and withdrawals across several networks.",
       "published_at": "2026-10-01T14:18:14+00:00",
       "impact": "негативний",
       "coins": [
@@ -291,7 +291,8 @@
       "note": "Негативний тон для NEAR за ключовими словами -- варто звернути увагу.",
       "triggers": [
         "hack",
-        "exploit"
+        "exploit",
+        "stolen"
       ]
     },
     {
