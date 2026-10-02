@@ -1,8 +1,19 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T21:47:47.587382+00:00",
-  "count": 48,
+  "generated_at": "2026-10-02T01:34:29.866701+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+      "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Singapore’s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it’s watching the blockchain.",
+      "published_at": "2026-10-01T23:17:47+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
