@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:28:10.801260+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-03T12:20:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "NEAR Intents recovers entire stolen $3.8M after ultimatum to exploiter",
+      "link": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond.",
+      "published_at": "2026-10-03T11:59:10+00:00",
+      "impact": "негативний",
+      "coins": [
+        "NEAR"
+      ],
+      "note": "Негативний тон для NEAR за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Community banks sue OCC over trust bank charters of crypto firms",
+      "link": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
+      "published_at": "2026-10-03T09:25:01+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "lawsuit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "link": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs.",
+      "published_at": "2026-10-03T07:06:08+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
