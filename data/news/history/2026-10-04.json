@@ -1,14 +1,118 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T12:12:32.407715+00:00",
-  "count": 2,
+  "generated_at": "2026-10-04T17:29:39.478623+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+      "snippet": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits…",
+      "published_at": "2026-10-04T17:01:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Негативний тон для XRP за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit",
+        "sued"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+      "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+      "snippet": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks.",
+      "published_at": "2026-10-04T16:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "sues"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+      "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+      "snippet": "Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.",
+      "published_at": "2026-10-04T15:01:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "snippet": "Crypto firms have spent years building financial products on blockchains. Getting people to use them — and keep using them — is becoming the next challenge.",
+      "published_at": "2026-10-04T14:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles.",
+      "published_at": "2026-10-04T13:48:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+      "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+      "snippet": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds.",
+      "published_at": "2026-10-04T13:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "snippet": "Crypto M&A has hit record levels, but the Clarity Act’s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
+      "published_at": "2026-10-04T13:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions.",
+      "published_at": "2026-10-04T12:42:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
       "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
-      "published_at": "2026-10-04T09:39:51+00:00",
+      "published_at": "2026-10-04T09:40:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
@@ -21,7 +125,7 @@
       "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
       "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
-      "published_at": "2026-10-04T07:16:53+00:00",
+      "published_at": "2026-10-04T07:18:00+00:00",
       "impact": "негативний",
       "coins": [
         "ETH"
