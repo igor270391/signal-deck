@@ -1,8 +1,128 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T00:44:28.060063+00:00",
-  "count": 1,
+  "generated_at": "2026-10-05T06:50:47.723171+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "snippet": "Ether waiting to enter staking has fallen by more than a quarter since early September, while the exit queue hit its longest of 2026.",
+      "published_at": "2026-10-05T06:40:29+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-05T05:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "snippet": "OKXICE, the joint venture of OKX and ICE, plans to launch tokenized U.S. stocks under SEC's new innovation exemption.",
+      "published_at": "2026-10-05T04:45:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+      "snippet": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet launch.",
+      "published_at": "2026-10-05T04:41:35+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "snippet": "Bitcoin came within about $500 of its late-September peak before sellers pushed it back under $86,000. It's the second rally in a week to stall.",
+      "published_at": "2026-10-05T04:23:25+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+      "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+      "snippet": "Ether beat bitcoin in the third quarter, but its market liquidity got thinner, according to Coingecko.",
+      "published_at": "2026-10-05T03:50:29+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "rally"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation.",
+      "published_at": "2026-10-05T03:47:19+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+      "link": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC’s recently introduced innovation exemption.",
+      "published_at": "2026-10-05T03:44:09+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+      "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Greenfield Capital said it sought changes to Safe Ecosystem Foundation’s board for months before turning to the Swiss regulator.",
+      "published_at": "2026-10-05T03:12:21+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Zcash gets a Washington lobbyist to push crypto policy",
