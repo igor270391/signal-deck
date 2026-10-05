@@ -1,8 +1,24 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T21:14:55.900572+00:00",
-  "count": 12,
+  "generated_at": "2026-10-05T00:44:28.060063+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as $600K by 2029.",
+      "published_at": "2026-10-04T22:31:12+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Позитивний тон для BTC, XRP за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
