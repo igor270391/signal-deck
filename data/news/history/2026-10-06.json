@@ -1,8 +1,302 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T10:06:59.157185+00:00",
-  "count": 17,
+  "generated_at": "2026-10-06T16:42:25.780942+00:00",
+  "count": 38,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
+      "link": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
+      "snippet": "Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the largest coins over the last 24 hours.",
+      "published_at": "2026-10-06T16:38:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
+      "link": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
+      "snippet": "Attacks grew more sophisticated and less predictable over the period, according to researchers who scanned more than 20 billion transactions.",
+      "published_at": "2026-10-06T15:26:41+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ripple Prime will provide prime brokerage, clearing and financing services to funds managed by the $35 billion alternative investment manager.",
+      "published_at": "2026-10-06T15:24:51+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Позитивний тон для XRP за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+      "snippet": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent…",
+      "published_at": "2026-10-06T15:20:30+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Sepolia marks one of the final major rehearsals before the final activation of Glamsterdam, aimed at bringing more efficiency and scalability to the Ethereum mainnet.",
+      "published_at": "2026-10-06T14:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade",
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-06T13:41:33+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OKX exchange raises fresh capital at $25B valuation",
+      "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investment round led by the parent company of the New York Stock Exchange.",
+      "published_at": "2026-10-06T13:32:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
+      "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption.",
+      "published_at": "2026-10-06T13:30:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH",
+        "SOL"
+      ],
+      "note": "Позитивний тон для ETH, SOL за ключовими словами.",
+      "triggers": [
+        "rally",
+        "adoption"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "snippet": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics.",
+      "published_at": "2026-10-06T13:02:33+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US crypto rules need to survive the next election",
+      "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US crypto rules could be vulnerable to political change after the midterms. Former New York Gov. Andrew Cuomo argues Congress needs to pass durable, bipartisan legislation.",
+      "published_at": "2026-10-06T13:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
+      "link": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Paxos’ USDG stablecoin is now live on Arbitrum as the network proposes 100 million ARB in incentives to support adoption and liquidity.",
+      "published_at": "2026-10-06T13:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption",
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
+      "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Polymarket begins its Protocol V2 rollout ahead of a planned November transition for new prediction markets, while existing positions remain on the current system.",
+      "published_at": "2026-10-06T12:54:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+      "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+      "snippet": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
+      "published_at": "2026-10-06T12:53:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP",
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо XRP, ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+      "snippet": "Adam Iza’s sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery.",
+      "published_at": "2026-10-06T12:31:51+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
+      "link": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
+      "snippet": "Clear rules of the road are here. So what does it all mean and what is the overall impact?",
+      "published_at": "2026-10-06T12:27:11+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
+      "link": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
+      "snippet": "The No Betting on Your Own Race Act also gives prediction markets cover to close accounts and report candidates to regulators.",
+      "published_at": "2026-10-06T12:11:50+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fine"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+      "snippet": "Your day-ahead look for Oct. 6, 2026",
+      "published_at": "2026-10-06T11:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+      "link": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+      "snippet": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians.",
+      "published_at": "2026-10-06T10:36:57+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
+      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "snippet": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday.",
+      "published_at": "2026-10-06T10:35:49+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "record high"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
+      "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
+      "snippet": "Leading the gains is BTW, the native token of Bitway, a bitcoin-compatible layer-1, which jumped 25% in the past 24 hours and is up 170% over the past 30 days.",
+      "published_at": "2026-10-06T10:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
+      "link": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.",
+      "published_at": "2026-10-06T10:16:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+      "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.",
+      "published_at": "2026-10-06T09:59:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
@@ -44,9 +338,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
       "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "snippet": "he product converts more than 50 local currencies into stablecoins, offers rewards of up to 10% on eligible USDG balances and includes virtual and physical payment cards.",
+      "snippet": "OKX appears to be designing products to keep the blockchain element abstracted or out of sight for users who simply want to hold digital dollars and use a card.",
       "published_at": "2026-10-06T09:02:01+00:00",
       "impact": "нейтральний",
       "coins": [],
@@ -96,19 +390,6 @@
         "ETH"
       ],
       "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-10-06T06:00:00+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {
