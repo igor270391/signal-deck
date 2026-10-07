@@ -1,13 +1,206 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T16:20:26.954048+00:00",
-  "count": 42,
+  "generated_at": "2026-10-07T21:57:13.575133+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+      "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+      "snippet": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+      "published_at": "2026-10-07T21:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+      "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+      "snippet": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.",
+      "published_at": "2026-10-07T21:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within the financial software they already use.",
+      "published_at": "2026-10-07T20:48:34+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "partnership"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+      "link": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+      "snippet": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.",
+      "published_at": "2026-10-07T20:46:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+      "snippet": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership.",
+      "published_at": "2026-10-07T20:16:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+      "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+      "snippet": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
+      "published_at": "2026-10-07T19:46:04+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+      "link": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
+      "snippet": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
+      "published_at": "2026-10-07T19:10:31+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+      "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+      "snippet": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
+      "published_at": "2026-10-07T18:59:32+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-07T18:55:36+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Lets You Build a Video Game by Typing a Description",
+      "link": "https://decrypt.co/380326/google-build-video-game-typing-description",
+      "snippet": "Google's Playground turns a typed description into a playable, shareable game, no coding required. It's live for U.S. adults, with creation access tiered by Google AI subscription.",
+      "published_at": "2026-10-07T18:08:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+      "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+      "published_at": "2026-10-07T18:00:10+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+      "link": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.",
+      "published_at": "2026-10-07T17:46:59+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "milestone"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+      "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+      "snippet": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's…",
+      "published_at": "2026-10-07T16:56:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "BNB"
+      ],
+      "note": "Нейтрально щодо BTC, BNB -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+      "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+      "snippet": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator.",
+      "published_at": "2026-10-07T16:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "link": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+      "published_at": "2026-10-07T16:25:38+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
       "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
+      "snippet": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient.",
       "published_at": "2026-10-07T16:06:03+00:00",
       "impact": "нейтральний",
       "coins": [],
@@ -117,19 +310,6 @@
       "triggers": []
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-10-07T13:07:40+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
       "source": "CoinDesk",
       "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
       "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
@@ -236,19 +416,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
+      "title": "Live updates: Bitcoin edges up from worst levels as yields pull back",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "snippet": "Ether underperformed, losing 6% after Tom Lee said Bitmine would soon stop purchasing additional ETH.",
       "published_at": "2026-10-07T11:09:50+00:00",
-      "impact": "позитивний",
+      "impact": "нейтральний",
       "coins": [
         "BTC",
         "ETH"
       ],
-      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
-      "triggers": [
-        "surge"
-      ]
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Decrypt",
