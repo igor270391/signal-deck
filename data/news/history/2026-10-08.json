@@ -1,8 +1,192 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T01:47:10.513122+00:00",
-  "count": 2,
+  "generated_at": "2026-10-08T08:48:19.089603+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+      "link": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+      "snippet": "Eligible users will be able to send USDC abroad or send local-currency payouts to bank accounts in more than 60 countries, starting late October.",
+      "published_at": "2026-10-08T08:39:23+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+      "link": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Eligible US Galaxy will be able to send USDC to crypto wallets and transfer funds to bank accounts in more than 60 countries.",
+      "published_at": "2026-10-08T08:24:24+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "NEAR enters crypto’s top 20 after 140% surge in 30 days",
+      "link": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR Intents surpassed $31 billion in cumulative transaction volume.",
+      "published_at": "2026-10-08T08:17:14+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "NEAR"
+      ],
+      "note": "Позитивний тон для NEAR за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "link": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore.",
+      "published_at": "2026-10-08T08:08:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Greece plans 10% capital gains tax on cryptocurrencies",
+      "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Greece’s draft bill proposes a 10% tax on crypto capital gains, with exemptions for annual gains of up to 500 euros and crypto-to-crypto swaps.",
+      "published_at": "2026-10-08T08:03:47+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
+      "link": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+      "snippet": "CEO Tim Grant will lead AI venture TensorX, while CIO Stuart Connolly stays to oversee the firm’s formal unwind in January.",
+      "published_at": "2026-10-08T08:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin ETFs erased October’s net inflows with $485 million in withdrawals, while Ether funds logged a seventh straight outflow session.",
+      "published_at": "2026-10-08T07:30:42+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+      "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+      "snippet": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+      "published_at": "2026-10-08T06:17:13+00:00",
+      "impact": "негативний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Негативний тон для XRP за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-08T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+      "snippet": "Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling.",
+      "published_at": "2026-10-08T05:40:41+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
+      "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.",
+      "published_at": "2026-10-08T05:06:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
+      "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Canton CEO Yuval Rooz compared blockchain adoption to Uber and Airbnb, arguing that widespread adoption could help insulate it from potential policy reversals.",
+      "published_at": "2026-10-08T04:28:27+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
+      "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+      "snippet": "The Sepolia rehearsal has raised its processing budget more than threefold, but sampled blocks used less than half that allowance.",
+      "published_at": "2026-10-08T04:23:23+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+      "snippet": "Bitcoin has slipped under a level FxPro says opens a \"quick path to $80,000.\" Brent crude climbed above $102 and pushed Treasury yields back toward their highest since 2002.",
+      "published_at": "2026-10-08T04:00:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
@@ -21,7 +205,7 @@
       "source": "Cointelegraph",
       "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
       "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Ethereum researchers say crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+      "snippet": "Ethereum researchers say crypto users should consider an orderly migration of funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
       "published_at": "2026-10-08T00:04:32+00:00",
       "impact": "нейтральний",
       "coins": [
