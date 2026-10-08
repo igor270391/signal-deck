@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T01:47:10.513122+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "snippet": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
+      "published_at": "2026-10-08T00:35:24+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "plunge",
+        "plunges"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ethereum researchers say crypto users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum computers do.",
+      "published_at": "2026-10-08T00:04:32+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
