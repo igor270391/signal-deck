@@ -1,8 +1,19 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T22:01:47.003463+00:00",
-  "count": 66,
+  "generated_at": "2026-10-09T01:59:46.261957+00:00",
+  "count": 67,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+      "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia.",
+      "published_at": "2026-10-08T22:35:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
