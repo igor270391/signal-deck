@@ -1,8 +1,43 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T13:34:39.019226+00:00",
-  "count": 12,
+  "generated_at": "2026-10-10T18:28:43.161688+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "snippet": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the…",
+      "published_at": "2026-10-10T17:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "snippet": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe…",
+      "published_at": "2026-10-10T16:01:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+      "link": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "snippet": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
+      "published_at": "2026-10-10T15:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
