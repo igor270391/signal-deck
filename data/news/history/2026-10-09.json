@@ -1,8 +1,19 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T20:51:39.176640+00:00",
-  "count": 51,
+  "generated_at": "2026-10-10T00:44:55.536854+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+      "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+      "snippet": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
+      "published_at": "2026-10-09T21:21:54+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
