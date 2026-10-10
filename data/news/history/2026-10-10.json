@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T06:58:37.130220+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "snippet": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+      "published_at": "2026-10-10T05:43:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "snippet": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+      "published_at": "2026-10-10T04:44:35+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "snippet": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+      "published_at": "2026-10-10T04:20:07+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "snippet": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
+      "published_at": "2026-10-10T03:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
