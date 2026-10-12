@@ -1,8 +1,21 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T20:12:00.227964+00:00",
-  "count": 12,
+  "generated_at": "2026-10-12T00:27:47.787820+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
+      "published_at": "2026-10-11T22:57:53+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
