@@ -1,8 +1,159 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T15:52:16.614794+00:00",
-  "count": 37,
+  "generated_at": "2026-10-13T21:11:51.910260+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+      "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+      "snippet": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
+      "published_at": "2026-10-13T20:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
+      "published_at": "2026-10-13T19:48:06+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL",
+        "BNB"
+      ],
+      "note": "Нейтрально щодо SOL, BNB -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+      "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+      "snippet": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
+      "published_at": "2026-10-13T19:38:12+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-13T19:33:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.",
+      "published_at": "2026-10-13T19:07:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+      "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+      "snippet": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
+      "published_at": "2026-10-13T18:15:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
+      "link": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
+      "snippet": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.",
+      "published_at": "2026-10-13T17:37:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
+      "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
+      "published_at": "2026-10-13T16:51:25+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+      "link": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
+      "snippet": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
+      "published_at": "2026-10-13T16:46:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+      "snippet": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
+      "published_at": "2026-10-13T16:14:50+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "recovery"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+      "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
+      "published_at": "2026-10-13T15:57:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+      "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "snippet": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
+      "published_at": "2026-10-13T15:52:09+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
@@ -18,7 +169,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
       "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
       "snippet": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country.",
       "published_at": "2026-10-13T15:24:52+00:00",
@@ -63,19 +214,6 @@
       "triggers": [
         "adoption"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-10-13T13:26:42+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
@@ -229,9 +367,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
       "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-      "snippet": "The third-quarter U.S. earnings season is kicking off today, with results from Goldman Sachs, JPMorgan, and UnitedHealthcare, among others. The key September CPI report comes tomorrow.",
+      "snippet": "The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.",
       "published_at": "2026-10-13T10:46:57+00:00",
       "impact": "нейтральний",
       "coins": [
@@ -309,7 +447,7 @@
       "source": "CoinDesk",
       "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
       "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-      "snippet": "Ledger announces MediaMarket Saturn also stopped selling devices after a customer found a corrupted signer in Germany. It also it is investigating who tampered with the devices.",
+      "snippet": "Ledger announced MediaMarket Saturn stopped selling devices after a customer found a corrupted signer in Germany.",
       "published_at": "2026-10-13T09:27:47+00:00",
       "impact": "нейтральний",
       "coins": [],
