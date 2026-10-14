@@ -1,8 +1,114 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T17:02:37.539844+00:00",
-  "count": 45,
+  "generated_at": "2026-10-14T20:36:04.171808+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+      "link": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+      "snippet": "A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
+      "published_at": "2026-10-14T20:16:05+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "snippet": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+      "published_at": "2026-10-14T19:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Sets a Date for Its Next Major Upgrade",
+      "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+      "snippet": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.",
+      "published_at": "2026-10-14T19:16:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-14T19:13:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+      "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
+      "published_at": "2026-10-14T19:03:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US authorities dismantle crypto scam network that stole tens of millions",
+      "link": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
+      "published_at": "2026-10-14T17:56:45+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+      "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+      "snippet": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
+      "published_at": "2026-10-14T17:46:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OCC report finds debanking efforts tied to crypto activities",
+      "link": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
+      "published_at": "2026-10-14T17:03:20+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
@@ -170,19 +276,6 @@
       "triggers": [
         "launch"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-10-14T13:36:56+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
@@ -426,7 +519,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin tumbles more than 1% after disappointing inflation report",
+      "title": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
       "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
       "snippet": "Bond yields and Fed rate hike expectations are jumping higher after the September CPI report was hotter than expected at both the headline and core levels.",
       "published_at": "2026-10-14T09:45:53+00:00",
@@ -441,7 +534,7 @@
       "source": "CoinDesk",
       "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
       "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-      "snippet": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+      "snippet": "Chainalysis' regional sales director in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
       "published_at": "2026-10-14T08:48:11+00:00",
       "impact": "нейтральний",
       "coins": [],
