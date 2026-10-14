@@ -1,8 +1,69 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T21:11:51.910260+00:00",
-  "count": 48,
+  "generated_at": "2026-10-14T01:07:46.056318+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+      "published_at": "2026-10-13T23:28:19+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "snippet": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+      "published_at": "2026-10-13T23:23:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "snippet": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+      "published_at": "2026-10-13T21:52:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+      "link": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+      "snippet": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+      "published_at": "2026-10-13T21:46:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+      "link": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+      "snippet": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
+      "published_at": "2026-10-13T21:16:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "bankrupt",
+        "bankruptcy"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
