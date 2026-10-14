@@ -1,8 +1,43 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T20:36:04.171808+00:00",
-  "count": 52,
+  "generated_at": "2026-10-14T23:52:35.777488+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+      "link": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "snippet": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+      "published_at": "2026-10-14T21:46:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+      "link": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+      "snippet": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+      "published_at": "2026-10-14T21:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+      "link": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.",
+      "published_at": "2026-10-14T20:56:22+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
@@ -521,7 +556,7 @@
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin falls back to $82,000 after inflation rises more than forecast",
       "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-      "snippet": "Bond yields and Fed rate hike expectations are jumping higher after the September CPI report was hotter than expected at both the headline and core levels.",
+      "snippet": "An historic turnaround lower in interest rates suggests the possibility that the bond bear market may have run its course.",
       "published_at": "2026-10-14T09:45:53+00:00",
       "impact": "нейтральний",
       "coins": [
