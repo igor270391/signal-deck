@@ -1,8 +1,133 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T14:52:30.286549+00:00",
-  "count": 36,
+  "generated_at": "2026-10-15T19:04:18.080441+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "At the White House, crypto policy vacancy looms large",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "snippet": "The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain.",
+      "published_at": "2026-10-15T18:48:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+      "link": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
+      "snippet": "Speaking after BlackRock’s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous—calling the backlash “misinformation” as data…",
+      "published_at": "2026-10-15T18:16:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code",
+      "link": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
+      "snippet": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.",
+      "published_at": "2026-10-15T17:36:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
+      "published_at": "2026-10-15T17:14:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.",
+      "published_at": "2026-10-15T16:49:59+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+      "snippet": "The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic…",
+      "published_at": "2026-10-15T16:28:50+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "integration",
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+      "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
+      "published_at": "2026-10-15T15:46:05+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "integration",
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+      "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+      "snippet": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
+      "published_at": "2026-10-15T15:20:41+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation",
+        "liquidated"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
+      "published_at": "2026-10-15T15:10:44+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "snippet": "",
+      "published_at": "2026-10-15T15:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
@@ -220,16 +345,14 @@
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
       "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-      "snippet": "Jitters across equity markets are sending money into fixed income, with Western bond markets rallying strongly on Thursday.",
+      "snippet": "Stocks have also turned positive after big early losses, helped by sharply lower bond yields.",
       "published_at": "2026-10-15T10:16:15+00:00",
-      "impact": "позитивний",
+      "impact": "нейтральний",
       "coins": [
         "BTC"
       ],
-      "note": "Позитивний тон для BTC за ключовими словами.",
-      "triggers": [
-        "rally"
-      ]
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "Decrypt",
