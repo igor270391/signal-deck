@@ -1,8 +1,21 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T19:56:17.887757+00:00",
-  "count": 41,
+  "generated_at": "2026-10-16T22:47:45.839087+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
+      "link": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+      "snippet": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
+      "published_at": "2026-10-16T20:16:04+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
@@ -380,14 +393,20 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Crypto gives up more ground as AI selloff picks up steam",
+      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
       "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-      "snippet": "A Friday surge in oil prices is hitting already-shaky equity markets, sending the Nasdaq down more than 2%.",
+      "snippet": "A Friday surge in oil prices hit already-shaky equity markets, sending the Nasdaq down more than 2%.",
       "published_at": "2026-10-16T09:48:14+00:00",
-      "impact": "нейтральний",
-      "coins": [],
-      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge",
+        "soar",
+        "soars"
+      ]
     },
     {
       "source": "CoinDesk",
