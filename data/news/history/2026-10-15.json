@@ -1,8 +1,47 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T22:08:26.270564+00:00",
-  "count": 50,
+  "generated_at": "2026-10-16T00:22:18.311105+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+      "published_at": "2026-10-15T23:34:19+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
+      "published_at": "2026-10-15T22:42:58+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+      "link": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+      "snippet": "Researchers added hidden text to contact AI agents probing Alibaba’s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
+      "published_at": "2026-10-15T22:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
