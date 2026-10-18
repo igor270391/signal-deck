@@ -1,8 +1,32 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T04:09:21.261137+00:00",
-  "count": 1,
+  "generated_at": "2026-10-18T08:52:55.088610+00:00",
+  "count": 3,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "snippet": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
+      "published_at": "2026-10-18T07:13:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The round brings AIsa’s total funding to more than $9 million.",
+      "published_at": "2026-10-18T06:26:53+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
