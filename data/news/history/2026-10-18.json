@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T04:09:21.261137+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "snippet": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+      "published_at": "2026-10-18T01:06:35+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
