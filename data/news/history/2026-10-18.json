@@ -1,8 +1,19 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T17:16:52.252033+00:00",
-  "count": 16,
+  "generated_at": "2026-10-18T20:29:52.977908+00:00",
+  "count": 17,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "snippet": "Patrick Witt announced his departure from the White House last week.",
+      "published_at": "2026-10-18T18:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
