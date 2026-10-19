@@ -1,14 +1,239 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T12:52:32.233820+00:00",
-  "count": 29,
+  "generated_at": "2026-10-19T19:15:56.343761+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+      "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+      "published_at": "2026-10-19T19:03:23+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
+      "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
+      "snippet": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
+      "published_at": "2026-10-19T18:46:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
+      "link": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
+      "snippet": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
+      "published_at": "2026-10-19T18:16:04+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "banned"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+      "snippet": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
+      "published_at": "2026-10-19T17:31:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+      "published_at": "2026-10-19T17:24:49+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "expansion"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+      "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+      "snippet": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
+      "published_at": "2026-10-19T16:47:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
+      "link": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
+      "snippet": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it’s among the wallets named in the “Noah Doe” lawsuit.",
+      "published_at": "2026-10-19T16:46:05+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "lawsuit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal",
+      "link": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The transaction would give Metaplanet access to US capital markets, where it plans to use preferred stock offerings to finance additional Bitcoin purchases.",
+      "published_at": "2026-10-19T16:41:55+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+      "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
+      "published_at": "2026-10-19T16:30:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+      "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
+      "published_at": "2026-10-19T16:05:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+      "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+      "snippet": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
+      "published_at": "2026-10-19T16:05:09+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+      "link": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+      "snippet": "The purchase lifts Bitmine’s stash to 6.04 million ETH—4.9% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee framed a market-wide selloff as an attractive entry point.",
+      "published_at": "2026-10-19T15:13:42+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "selloff"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+      "snippet": "The launch comes as Zerohash bids for a federal trust charter.",
+      "published_at": "2026-10-19T14:58:40+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
+      "link": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated disclosure program, with reduced penalties for eligible taxpayers.",
+      "published_at": "2026-10-19T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-19T13:19:50+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+      "link": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Nine public companies objected to having their shares offered in tokenized form by OKX and ICE, testing whether platforms can create blockchain-based markets without issuer consent.",
+      "published_at": "2026-10-19T13:13:53+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+      "link": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc",
+      "snippet": "The Bitcoin treasury firm raised its preferred stock buyback cap to $3 billion and now holds 848,517 BTC, bought at an average of $75,446.",
+      "published_at": "2026-10-19T13:04:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
       "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred stock buyback program to $3 billion.",
-      "published_at": "2026-10-19T12:21:40+00:00",
+      "published_at": "2026-10-19T12:30:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
@@ -96,7 +321,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
       "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
       "snippet": "Your day-ahead look for Oct. 19, 2026",
       "published_at": "2026-10-19T11:15:00+00:00",
@@ -111,9 +336,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
+      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
       "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-      "snippet": "Tech futures bounced after last week’s 5.5% rout; earnings this week put the AI trade to the test again.",
+      "snippet": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.",
       "published_at": "2026-10-19T11:05:54+00:00",
       "impact": "позитивний",
       "coins": [
@@ -191,7 +416,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
       "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
       "snippet": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
       "published_at": "2026-10-19T10:03:47+00:00",
@@ -297,19 +522,6 @@
       "triggers": [
         "fraud"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-10-19T05:48:07+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "CoinDesk",
