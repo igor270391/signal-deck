@@ -1,8 +1,98 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T01:33:57.783613+00:00",
-  "count": 1,
+  "generated_at": "2026-10-21T07:28:10.048174+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+      "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.",
+      "published_at": "2026-10-21T05:56:29+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+      "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+      "snippet": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.",
+      "published_at": "2026-10-21T05:25:57+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website.",
+      "published_at": "2026-10-21T05:15:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+      "snippet": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
+      "published_at": "2026-10-21T04:35:52+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "snippet": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. This is a generic, not crypto-specific, risk.",
+      "published_at": "2026-10-21T04:11:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "snippet": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
+      "published_at": "2026-10-21T04:07:07+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
     {
       "source": "Cointelegraph",
       "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
