@@ -1,8 +1,22 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T23:09:27.495107+00:00",
-  "count": 54,
+  "generated_at": "2026-10-21T01:33:57.783613+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The network’s validators approved a recovery plan and opened claims until May 1, 2027.",
+      "published_at": "2026-10-20T23:26:02+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approved",
+        "recovery"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
