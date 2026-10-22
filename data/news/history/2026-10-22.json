@@ -1,8 +1,106 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T01:28:10.514709+00:00",
-  "count": 1,
+  "generated_at": "2026-10-22T07:28:35.690494+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "snippet": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims’ claims to the coins.",
+      "published_at": "2026-10-22T06:24:10+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-10-22T05:56:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
+      "published_at": "2026-10-22T05:35:38+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "exploited"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+      "snippet": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.",
+      "published_at": "2026-10-22T05:24:58+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "snippet": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
+      "published_at": "2026-10-22T04:41:59+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rally",
+        "rallies",
+        "inflow"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+      "snippet": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.",
+      "published_at": "2026-10-22T04:36:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+      "snippet": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
+      "published_at": "2026-10-22T03:51:34+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
