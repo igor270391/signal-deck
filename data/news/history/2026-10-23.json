@@ -1,8 +1,93 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T18:16:14.824601+00:00",
-  "count": 38,
+  "generated_at": "2026-10-23T22:02:26.602673+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "link": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
+      "published_at": "2026-10-23T21:32:16+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "link": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+      "snippet": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+      "published_at": "2026-10-23T21:16:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "link": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul.",
+      "published_at": "2026-10-23T20:54:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
+      "link": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+      "snippet": "Sen. Richard Blumenthal demanded Tether’s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+      "published_at": "2026-10-23T20:16:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+      "link": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+      "snippet": "SpaceX’s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its “controlling shareholder.”",
+      "published_at": "2026-10-23T19:36:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "link": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+      "snippet": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+      "published_at": "2026-10-23T18:54:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+      "published_at": "2026-10-23T18:39:02+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "How I Vibe Coded My Smart TV—And Claude Killed It",
