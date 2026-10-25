@@ -1,8 +1,19 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T15:59:57.122225+00:00",
-  "count": 5,
+  "generated_at": "2026-10-25T18:56:02.258245+00:00",
+  "count": 6,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "link": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+      "snippet": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.",
+      "published_at": "2026-10-25T16:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
