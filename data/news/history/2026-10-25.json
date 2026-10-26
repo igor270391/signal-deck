@@ -1,13 +1,13 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-26T00:06:21.794171+00:00",
+  "generated_at": "2026-10-26T04:34:39.604772+00:00",
   "count": 7,
   "items": [
     {
       "source": "Cointelegraph",
       "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.",
+      "snippet": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. ‘Steal My Bitcoin’ site successfully hacked.",
       "published_at": "2026-10-25T22:48:40+00:00",
       "impact": "негативний",
       "coins": [
@@ -16,7 +16,8 @@
       ],
       "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
       "triggers": [
-        "hack"
+        "hack",
+        "hacked"
       ]
     },
     {
