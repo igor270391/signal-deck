@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T02:01:23.532105+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple wins final US approval for national trust bank",
+      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody.",
+      "published_at": "2026-10-27T00:06:41+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
