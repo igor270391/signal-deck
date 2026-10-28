@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T05:14:45.514622+00:00",
+  "count": 6,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "snippet": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
+      "published_at": "2026-10-28T05:10:36+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "hacked",
+        "breach"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "snippet": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
+      "published_at": "2026-10-28T04:15:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
+      "published_at": "2026-10-28T03:55:57+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "snippet": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
+      "published_at": "2026-10-28T03:11:14+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bithumb discloses data leak after internal system breach: Report",
+      "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The breach impacted its in-house mobile system, used by employees for work and information sharing.",
+      "published_at": "2026-10-28T02:18:47+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+      "published_at": "2026-10-28T00:47:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
