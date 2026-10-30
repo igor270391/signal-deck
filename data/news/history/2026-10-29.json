@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-30T01:52:32.050594+00:00",
+  "generated_at": "2026-10-30T08:29:55.943096+00:00",
   "count": 67,
   "items": [
     {
@@ -63,20 +63,20 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "title": "Binance investigates multibillion-dollar security breach",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Follow live updates as Binance says $3 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.",
+      "snippet": "Binance is investigating a potential multibillion-dollar security breach that is estimated to have impacted $6.3 billion in funds.",
       "published_at": "2026-10-29T21:24:36+00:00",
       "impact": "негативний",
       "coins": [],
       "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
       "triggers": [
-        "hack"
+        "breach"
       ]
     },
     {
       "source": "CoinDesk",
-      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "snippet": "Crypto prices are sliding on the news, with bitcoin falling back to $77,000, though Binance's co-CEO said it would cover all losses.",
       "published_at": "2026-10-29T21:12:45+00:00",
