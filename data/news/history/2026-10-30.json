@@ -1,8 +1,222 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T15:49:51.388810+00:00",
-  "count": 37,
+  "generated_at": "2026-10-30T20:42:17.942844+00:00",
+  "count": 51,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+      "snippet": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase,…",
+      "published_at": "2026-10-30T20:06:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "theft"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "snippet": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+      "published_at": "2026-10-30T19:55:00+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+      "link": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
+      "snippet": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals, while weaker user growth and disappointing fourth-quarter guidance…",
+      "published_at": "2026-10-30T19:31:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "plunge",
+        "plunges"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+      "link": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The stablecoin issuer’s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
+      "published_at": "2026-10-30T19:01:58+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+      "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+      "snippet": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
+      "published_at": "2026-10-30T18:45:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "crash"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+      "link": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+      "snippet": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest “wrench attack” prosecutions…",
+      "published_at": "2026-10-30T18:16:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+      "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+      "snippet": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
+      "published_at": "2026-10-30T17:50:26+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+      "link": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
+      "published_at": "2026-10-30T17:48:27+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach",
+        "selloff"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
+      "published_at": "2026-10-30T17:09:31+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "XRP"
+      ],
+      "note": "Негативний тон для BTC, XRP за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Recap: How Binance’s record $6.3B hack unfolded",
+      "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
+      "published_at": "2026-10-30T16:53:46+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "As it happened: Binance’s record $6.3B crypto hack",
+      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.",
+      "published_at": "2026-10-30T16:49:50+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "link": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+      "snippet": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
+      "published_at": "2026-10-30T16:34:21+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "snippet": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+      "published_at": "2026-10-30T16:31:17+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit",
+        "breach"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+      "link": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+      "snippet": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
+      "published_at": "2026-10-30T16:25:06+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+      "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
+      "published_at": "2026-10-30T16:06:28+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sell-off"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
@@ -26,20 +240,6 @@
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
-      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
-      "published_at": "2026-10-30T14:12:26+00:00",
-      "impact": "негативний",
-      "coins": [],
-      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
-      "triggers": [
-        "hack",
-        "stolen"
-      ]
     },
     {
       "source": "Cointelegraph",
@@ -316,7 +516,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
       "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "snippet": "The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more than 2%.",
       "published_at": "2026-10-30T08:36:52+00:00",
