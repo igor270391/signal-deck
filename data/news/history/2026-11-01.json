@@ -1,8 +1,22 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01T02:06:24.442680+00:00",
-  "count": 1,
+  "generated_at": "2026-11-01T09:08:19.014195+00:00",
+  "count": 2,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
+      "published_at": "2026-11-01T07:44:38+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
