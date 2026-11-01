@@ -1,8 +1,32 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01T16:01:50.096042+00:00",
-  "count": 12,
+  "generated_at": "2026-11-01T20:28:49.952756+00:00",
+  "count": 14,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "snippet": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
+      "published_at": "2026-11-01T19:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "link": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "snippet": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake.",
+      "published_at": "2026-11-01T17:00:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
