@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T02:06:24.442680+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "snippet": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+      "published_at": "2026-11-01T01:10:05+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "note": "Негативний тон для BTC, ETH, SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    }
+  ]
+}
