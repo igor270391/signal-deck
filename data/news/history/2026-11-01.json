@@ -1,8 +1,32 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01T20:28:49.952756+00:00",
-  "count": 14,
+  "generated_at": "2026-11-02T00:34:01.995212+00:00",
+  "count": 16,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets.",
+      "published_at": "2026-11-01T23:59:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.",
+      "published_at": "2026-11-01T23:09:13+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
