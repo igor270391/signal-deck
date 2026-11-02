@@ -1,8 +1,494 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T07:36:21.614114+00:00",
-  "count": 7,
+  "generated_at": "2026-11-02T18:10:18.926579+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+      "link": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The regulatory approval marks another step in Animoca’s shift from blockchain gaming and venture investing toward regulated institutional financial services.",
+      "published_at": "2026-11-02T18:00:16+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+      "link": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+      "snippet": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
+      "published_at": "2026-11-02T17:36:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+      "snippet": "The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown.",
+      "published_at": "2026-11-02T17:21:04+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+      "link": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+      "snippet": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
+      "published_at": "2026-11-02T17:07:28+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+      "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+      "snippet": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
+      "published_at": "2026-11-02T16:46:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
+      "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+      "snippet": "A key provider of shareholder voting and corporate services on Wall Street, Broadridge will help bring investor rights onchain for the exchange's upcoming venue.",
+      "published_at": "2026-11-02T16:41:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+      "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+      "snippet": "The chairman laid out six reasons the market’s “muted” 4% ETH drop after the record Binance theft shows crypto is “increasingly resilient,” as the firm’s stash neared its 5% supply goal.",
+      "published_at": "2026-11-02T16:23:24+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "theft"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "snippet": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
+      "published_at": "2026-11-02T15:53:29+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "snippet": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
+      "published_at": "2026-11-02T15:26:43+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+      "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+      "snippet": "The Claude developer generated $17 billion in quarterly revenue, but higher computing costs resulted in a $567 million operating loss.",
+      "published_at": "2026-11-02T15:18:55+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "link": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+      "snippet": "The bank uses Hong Kong's EnsembleTX system to move deposits between participating banks around the clock, settling in central bank money.",
+      "published_at": "2026-11-02T15:05:24+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+      "link": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+      "snippet": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+      "published_at": "2026-11-02T15:01:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+      "link": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
+      "snippet": "Regardless of how the midterm elections unfold or which party secures the presidency in 2028, our industry must adhere to its established playbook, writes Solana Policy Institute’s Colin McLaren.",
+      "published_at": "2026-11-02T15:00:09+00:00",
+      "impact": "негативний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Негативний тон для SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
+      "link": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
+      "snippet": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery.",
+      "published_at": "2026-11-02T14:29:33+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "recovery"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+      "link": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+      "snippet": "The digital securities firm plans to list on NYSE American under TZRO early next year after more than a decade building blockchain-based trading infrastructure.",
+      "published_at": "2026-11-02T14:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+      "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
+      "published_at": "2026-11-02T13:48:28+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+      "link": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+      "snippet": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
+      "published_at": "2026-11-02T13:34:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
+      "link": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Who better to judge a dispute between AI agents than a jury of different AI models? That’s the idea behind GenLayer, which is already issuing thousands of judgements each day.",
+      "published_at": "2026-11-02T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-02T13:29:29+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+      "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Binance’s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.",
+      "published_at": "2026-11-02T13:21:47+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+      "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+      "snippet": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
+      "published_at": "2026-11-02T13:19:36+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.",
+      "published_at": "2026-11-02T12:56:07+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+      "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
+      "published_at": "2026-11-02T12:40:45+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "SOL"
+      ],
+      "note": "Негативний тон для BTC, SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen",
+        "theft"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+      "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+      "snippet": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected.",
+      "published_at": "2026-11-02T12:37:24+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "XRP"
+      ],
+      "note": "Нейтрально щодо XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's 'volatility curve' has a midterm bump",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+      "snippet": "Your day-ahead look for Nov. 2, 2026",
+      "published_at": "2026-11-02T12:30:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+      "link": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+      "snippet": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
+      "published_at": "2026-11-02T12:24:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+      "link": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+      "snippet": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents.",
+      "published_at": "2026-11-02T11:57:45+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+      "snippet": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million.",
+      "published_at": "2026-11-02T11:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+      "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month’s historically strong returns, as analysts reassess seasonal signals.",
+      "published_at": "2026-11-02T11:19:18+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+      "link": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Trezor cited July’s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.",
+      "published_at": "2026-11-02T10:46:59+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+      "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+      "snippet": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
+      "published_at": "2026-11-02T10:36:19+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "link": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
+      "published_at": "2026-11-02T10:14:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.",
+      "published_at": "2026-11-02T09:41:36+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+      "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+      "snippet": "The company is starting with $366,000 worth of copper stored in Germany, hoping to build a market for investors to own and trade physical metal onchain.",
+      "published_at": "2026-11-02T09:33:20+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+      "snippet": "Your look at what’s coming in the week starting Nov. 2.",
+      "published_at": "2026-11-02T09:04:49+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+      "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.",
+      "published_at": "2026-11-02T08:56:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.",
+      "published_at": "2026-11-02T07:50:36+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
