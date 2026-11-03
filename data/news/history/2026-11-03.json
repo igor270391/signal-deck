@@ -1,8 +1,192 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T17:44:33.926735+00:00",
-  "count": 47,
+  "generated_at": "2026-11-03T23:10:56.202208+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US midterms election 2026 live: What they mean for crypto",
+      "link": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
+      "published_at": "2026-11-03T23:01:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "link": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "snippet": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around…",
+      "published_at": "2026-11-03T23:00:07+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "theft"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+      "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+      "snippet": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
+      "published_at": "2026-11-03T22:46:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-03T22:39:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "link": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "snippet": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands.",
+      "published_at": "2026-11-03T22:14:44+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+      "link": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+      "snippet": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
+      "published_at": "2026-11-03T21:50:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+      "link": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
+      "published_at": "2026-11-03T21:47:20+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+      "link": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+      "snippet": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
+      "published_at": "2026-11-03T21:16:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch",
+        "launches"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+      "snippet": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal…",
+      "published_at": "2026-11-03T20:36:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "link": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.",
+      "published_at": "2026-11-03T20:24:55+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+      "link": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+      "snippet": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
+      "published_at": "2026-11-03T19:46:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "link": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil’s runoff.",
+      "published_at": "2026-11-03T19:38:19+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+      "link": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+      "snippet": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
+      "published_at": "2026-11-03T19:16:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+      "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+      "snippet": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
+      "published_at": "2026-11-03T18:16:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+      "snippet": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
+      "published_at": "2026-11-03T17:46:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
@@ -231,19 +415,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-11-03T13:50:51+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
       "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors.",
@@ -324,16 +495,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
       "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-      "snippet": "But there’s a catch: validators that fail to deliver on their commitments currently face no financial compensation requirement under the service.",
+      "snippet": "The proposed service would offer sanctions screening and qualified validators, but current compensation for failed commitments is set at zero.",
       "published_at": "2026-11-03T12:01:05+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [
         "ETH"
       ],
-      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "institutional"
+      ]
     },
     {
       "source": "Cointelegraph",
