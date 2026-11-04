@@ -1,8 +1,46 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T23:10:56.202208+00:00",
-  "count": 61,
+  "generated_at": "2026-11-04T05:54:27.584062+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+      "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.",
+      "published_at": "2026-11-03T23:56:09+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "rallies"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+      "link": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+      "snippet": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
+      "published_at": "2026-11-03T23:48:32+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What voters said about their views on crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "snippet": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry.",
+      "published_at": "2026-11-03T23:19:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "US midterms election 2026 live: What they mean for crypto",
