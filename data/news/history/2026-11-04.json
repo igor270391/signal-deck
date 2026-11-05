@@ -1,8 +1,122 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T21:16:51.509840+00:00",
-  "count": 55,
+  "generated_at": "2026-11-05T02:13:43.743388+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+      "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks.",
+      "published_at": "2026-11-04T23:20:17+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "snippet": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts…",
+      "published_at": "2026-11-04T22:55:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-04T22:54:23+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "snippet": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
+      "published_at": "2026-11-04T22:51:42+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "adoption",
+        "institutional"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+      "link": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+      "snippet": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
+      "published_at": "2026-11-04T22:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The crypto exchange’s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack.",
+      "published_at": "2026-11-04T22:31:58+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
+      "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the prospect of tougher industry scrutiny.",
+      "published_at": "2026-11-04T22:17:33+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+      "link": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+      "snippet": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
+      "published_at": "2026-11-04T22:16:05+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
+      "link": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027’s massive CGT hike.",
+      "published_at": "2026-11-04T21:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
@@ -29,7 +143,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
       "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
       "snippet": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
       "published_at": "2026-11-04T20:29:12+00:00",
@@ -249,25 +363,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
       "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-      "snippet": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
+      "snippet": "The biggest losers were the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
       "published_at": "2026-11-04T14:00:53+00:00",
-      "impact": "негативний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
-      "triggers": [
-        "plunge"
-      ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-11-04T13:47:43+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
