@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-06T00:04:14.492458+00:00",
+  "generated_at": "2026-11-06T06:08:29.684524+00:00",
   "count": 64,
   "items": [
     {
@@ -172,13 +172,15 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
       "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
       "snippet": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
       "published_at": "2026-11-05T18:48:40+00:00",
       "impact": "негативний",
-      "coins": [],
-      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
       "triggers": [
         "liquidation",
         "plunge"
