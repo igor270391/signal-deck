@@ -1,8 +1,239 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T14:13:30.817696+00:00",
-  "count": 30,
+  "generated_at": "2026-11-06T20:52:12.036784+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
+      "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+      "published_at": "2026-11-06T20:36:25+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "theft"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+      "link": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+      "snippet": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
+      "published_at": "2026-11-06T20:36:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approved"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "snippet": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+      "published_at": "2026-11-06T20:09:18+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "link": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "While the proposal doesn’t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans.",
+      "published_at": "2026-11-06T20:04:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+      "link": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+      "snippet": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory…",
+      "published_at": "2026-11-06T19:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+      "link": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+      "snippet": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.",
+      "published_at": "2026-11-06T19:16:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "link": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
+      "published_at": "2026-11-06T18:47:45+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Позитивний тон для BTC, ETH за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+      "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+      "snippet": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+      "published_at": "2026-11-06T18:36:03+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "selloff"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
+      "published_at": "2026-11-06T18:22:42+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+      "published_at": "2026-11-06T17:49:33+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+      "link": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+      "snippet": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
+      "published_at": "2026-11-06T17:42:31+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "scam"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "snippet": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+      "published_at": "2026-11-06T17:42:28+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "snippet": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
+      "published_at": "2026-11-06T16:41:29+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+      "snippet": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
+      "published_at": "2026-11-06T16:34:07+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation",
+        "plunge"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+      "link": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
+      "snippet": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
+      "published_at": "2026-11-06T16:28:58+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "snippet": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+      "published_at": "2026-11-06T15:26:38+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "link": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "snippet": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+      "published_at": "2026-11-06T14:33:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
+      "published_at": "2026-11-06T14:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
@@ -120,16 +351,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
       "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-      "snippet": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
+      "snippet": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.",
       "published_at": "2026-11-06T11:58:40+00:00",
-      "impact": "нейтральний",
+      "impact": "позитивний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "rebound"
+      ]
     },
     {
       "source": "CoinDesk",
@@ -149,7 +382,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
       "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
       "published_at": "2026-11-06T11:26:30+00:00",
