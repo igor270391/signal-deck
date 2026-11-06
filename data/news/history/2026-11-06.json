@@ -1,20 +1,332 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T06:08:29.684524+00:00",
-  "count": 6,
+  "generated_at": "2026-11-06T14:13:30.817696+00:00",
+  "count": 30,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+      "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+      "snippet": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+      "published_at": "2026-11-06T14:04:18+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Негативний тон для BTC, ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "stolen"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "link": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+      "published_at": "2026-11-06T13:57:14+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "banned"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+      "link": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+      "snippet": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
+      "published_at": "2026-11-06T13:53:04+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-11-06T06:04:41+00:00",
+      "published_at": "2026-11-06T13:33:00+00:00",
       "impact": "нейтральний",
       "coins": [
         "BTC"
       ],
       "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "link": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "snippet": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more…",
+      "published_at": "2026-11-06T13:31:54+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+      "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+      "snippet": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
+      "published_at": "2026-11-06T13:29:20+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam’s EIP-8037 and EIP-8038.",
+      "published_at": "2026-11-06T13:23:08+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "snippet": "Your day-ahead look for Nov. 6, 2026",
+      "published_at": "2026-11-06T12:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+      "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News.",
+      "published_at": "2026-11-06T12:15:28+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+      "snippet": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
+      "published_at": "2026-11-06T11:58:40+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+      "snippet": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
+      "published_at": "2026-11-06T11:49:35+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "liquidation",
+        "selloff"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+      "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
+      "published_at": "2026-11-06T11:26:30+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
+      "published_at": "2026-11-06T11:16:53+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "link": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
+      "published_at": "2026-11-06T11:05:36+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approves",
+        "approved"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "link": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+      "snippet": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+      "published_at": "2026-11-06T10:57:06+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+      "link": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.",
+      "published_at": "2026-11-06T10:47:33+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+      "link": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits.",
+      "published_at": "2026-11-06T10:40:57+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+      "link": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+      "snippet": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.",
+      "published_at": "2026-11-06T10:13:27+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "snippet": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+      "published_at": "2026-11-06T09:53:27+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+      "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Zcash’s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.",
+      "published_at": "2026-11-06T09:00:36+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "link": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "snippet": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+      "published_at": "2026-11-06T08:47:42+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approves"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyperliquid Strategies seeks futures registration for perps",
+      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.",
+      "published_at": "2026-11-06T08:42:54+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
+      "published_at": "2026-11-06T08:19:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "link": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "snippet": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+      "published_at": "2026-11-06T08:04:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainalysis says breach exposed password hashes and live tokens",
+      "link": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
+      "published_at": "2026-11-06T06:54:34+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
     },
     {
       "source": "CoinDesk",
