@@ -1,8 +1,19 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T18:41:24.330292+00:00",
-  "count": 11,
+  "generated_at": "2026-11-07T22:42:38.876160+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "snippet": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+      "published_at": "2026-11-07T19:13:16+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
