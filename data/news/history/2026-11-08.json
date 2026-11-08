@@ -1,8 +1,32 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T16:42:31.916132+00:00",
-  "count": 6,
+  "generated_at": "2026-11-08T21:05:35.873983+00:00",
+  "count": 8,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "What the election results mean for crypto: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "snippet": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+      "published_at": "2026-11-08T19:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "snippet": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on…",
+      "published_at": "2026-11-08T19:16:42+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
