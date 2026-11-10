@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T02:01:55.968014+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
+      "published_at": "2026-11-10T00:42:39+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}

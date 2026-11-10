@@ -1,8 +1,145 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T18:42:04.937334+00:00",
-  "count": 43,
+  "generated_at": "2026-11-10T02:01:55.968014+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+      "snippet": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+      "published_at": "2026-11-09T22:56:27+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
+      "link": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
+      "snippet": "Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.",
+      "published_at": "2026-11-09T22:36:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-09T22:06:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years",
+      "link": "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
+      "snippet": "A shortage of new gas turbines is pushing AI developers toward refurbished power equipment and jet-engine-based generators, even as high prices, pollution concerns, and permitting delays threaten…",
+      "published_at": "2026-11-09T21:16:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+      "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
+      "published_at": "2026-11-09T21:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+      "published_at": "2026-11-09T20:26:34+00:00",
+      "impact": "негативний",
+      "coins": [
+        "NEAR"
+      ],
+      "note": "Негативний тон для NEAR за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+      "link": "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
+      "snippet": "Google’s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents.",
+      "published_at": "2026-11-09T20:16:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+      "published_at": "2026-11-09T19:52:34+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "link": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+      "snippet": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+      "published_at": "2026-11-09T19:36:15+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+      "snippet": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
+      "published_at": "2026-11-09T19:36:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+      "snippet": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.",
+      "published_at": "2026-11-09T19:06:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
@@ -187,19 +324,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-11-09T13:36:56+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
       "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
       "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.",
@@ -380,18 +504,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+      "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
       "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-      "snippet": "The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues.",
+      "snippet": "The Nasdaq, S&P 500, and DJIA all closed more than 2% higher despite Nvidia's steep decline on CEO Jensen Huang's personal issues.",
       "published_at": "2026-11-09T10:51:48+00:00",
-      "impact": "позитивний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Позитивний тон для BTC за ключовими словами.",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
       "triggers": [
-        "surge",
-        "surges"
+        "sues",
+        "plunge",
+        "plunges"
       ]
     },
     {
