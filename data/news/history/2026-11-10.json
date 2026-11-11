@@ -1,8 +1,32 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T23:09:07.372755+00:00",
-  "count": 58,
+  "generated_at": "2026-11-11T02:48:36.998182+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren’t live, according to Politico.",
+      "published_at": "2026-11-10T23:49:51+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "charges"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
+      "published_at": "2026-11-10T23:08:28+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",

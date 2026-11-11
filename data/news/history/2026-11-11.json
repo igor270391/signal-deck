@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T02:48:36.998182+00:00",
+  "count": 1,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
+      "published_at": "2026-11-11T01:16:58+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    }
+  ]
+}
