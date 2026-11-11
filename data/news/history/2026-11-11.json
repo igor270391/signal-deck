@@ -1,8 +1,138 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T02:48:36.998182+00:00",
-  "count": 1,
+  "generated_at": "2026-11-11T10:41:45.269896+00:00",
+  "count": 11,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+      "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
+      "snippet": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
+      "published_at": "2026-11-11T10:20:53+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "theft"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+      "link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase.",
+      "published_at": "2026-11-11T10:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+      "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.",
+      "published_at": "2026-11-11T09:58:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB warns legislative delays could postpone digital euro launch",
+      "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "ECB Executive Board member Piero Cipollone warned EU lawmakers that delays in finalizing digital euro legislation could push back its potential 2029 rollout.",
+      "published_at": "2026-11-11T09:03:49+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot Bitcoin ETFs have lost $1.6 billion in November, while stock funds attracted billions of dollars from investors buying the dip.",
+      "published_at": "2026-11-11T08:55:31+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+      "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
+      "published_at": "2026-11-11T08:43:30+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-11T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.",
+      "published_at": "2026-11-11T05:52:14+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit",
+        "exploited",
+        "stolen"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
+      "published_at": "2026-11-11T04:42:30+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+      "link": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+      "published_at": "2026-11-11T03:07:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
