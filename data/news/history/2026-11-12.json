@@ -1,19 +1,490 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T09:40:33.254433+00:00",
-  "count": 13,
+  "generated_at": "2026-11-12T18:07:42.009168+00:00",
+  "count": 50,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
+      "link": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+      "snippet": "Nvidia shares tumbled after Jensen Huang’s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.",
+      "published_at": "2026-11-12T18:06:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+      "link": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+      "snippet": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
+      "published_at": "2026-11-12T17:46:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "lawsuit"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
+      "link": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+      "snippet": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be honored to hire Huang.",
+      "published_at": "2026-11-12T17:14:42+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
       "source": "CoinDesk",
-      "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
-      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-      "snippet": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
-      "published_at": "2026-11-12T09:15:04+00:00",
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+      "snippet": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.",
+      "published_at": "2026-11-12T16:45:52+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
+      "link": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+      "snippet": "The Digital Crime Task Force aims to proactively trace illicit USDT on Tron and freeze funds before they move—just weeks after the trio’s near-identical T3 unit, built with rival firm TRM Labs,…",
+      "published_at": "2026-11-12T16:36:02+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "collapse"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+      "link": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+      "snippet": "Visa and eligible companies can now use Western Union’s USDPT—issued and custodied by the federally chartered Anchorage Digital Bank—to settle VisaNet obligations.",
+      "published_at": "2026-11-12T16:01:03+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "sued"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+      "link": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+      "snippet": "KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.",
+      "published_at": "2026-11-12T15:55:38+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
+      "published_at": "2026-11-12T15:46:06+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "snippet": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.",
+      "published_at": "2026-11-12T15:45:48+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "snippet": "",
+      "published_at": "2026-11-12T15:34:29+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+      "snippet": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
+      "published_at": "2026-11-12T14:45:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
+      "link": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
+      "snippet": "The Nvidia co-founder steps down after reports of affairs with an alleged Chinese spy and a company executive, ending his 33-year run.",
+      "published_at": "2026-11-12T14:44:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+      "snippet": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of…",
+      "published_at": "2026-11-12T14:24:51+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+      "link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+      "snippet": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
+      "published_at": "2026-11-12T14:01:02+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH",
+        "SOL"
+      ],
+      "note": "Негативний тон для ETH, SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban",
+        "sued"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.",
+      "published_at": "2026-11-12T13:59:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "plunge"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "snippet": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble.",
+      "published_at": "2026-11-12T13:57:53+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "link": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall.",
+      "published_at": "2026-11-12T13:52:39+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.",
+      "published_at": "2026-11-12T13:44:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+      "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.",
+      "published_at": "2026-11-12T13:31:59+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.",
+      "published_at": "2026-11-12T13:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+      "link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+      "snippet": "Wall Street's main settlement firm will add Solana to its tokenization service, which went live last month on Canton and a private network.",
+      "published_at": "2026-11-12T13:25:47+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Нейтрально щодо SOL -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.",
+      "published_at": "2026-11-12T13:21:56+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
+      "link": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
+      "snippet": "Plus, a second Jensen Huang affair is rocking markets while MSCI’s MSTR removal decision sends crypto lower.",
+      "published_at": "2026-11-12T13:06:24+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval",
+        "launch"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.",
+      "published_at": "2026-11-12T12:21:43+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+      "snippet": "Your day-ahead look for Nov. 12, 2026",
+      "published_at": "2026-11-12T12:15:00+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "bullish"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+      "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+      "snippet": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.",
+      "published_at": "2026-11-12T12:04:42+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ONDO"
+      ],
+      "note": "Негативний тон для ONDO за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+      "link": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
+      "snippet": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity.",
+      "published_at": "2026-11-12T12:03:10+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "snippet": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.",
+      "published_at": "2026-11-12T11:43:41+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+      "link": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.",
+      "published_at": "2026-11-12T11:38:50+00:00",
       "impact": "позитивний",
       "coins": [],
       "note": "Позитивний тон для загального ринку за ключовими словами.",
       "triggers": [
         "rally"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+      "snippet": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
+      "published_at": "2026-11-12T11:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+      "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+      "snippet": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44…",
+      "published_at": "2026-11-12T11:24:19+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster.",
+      "published_at": "2026-11-12T11:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+      "link": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+      "snippet": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan.",
+      "published_at": "2026-11-12T10:42:06+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "surge",
+        "surges"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+      "link": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+      "snippet": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses.",
+      "published_at": "2026-11-12T10:32:35+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+      "link": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.",
+      "published_at": "2026-11-12T10:30:29+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+      "link": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+      "snippet": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.",
+      "published_at": "2026-11-12T10:10:48+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+      "link": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+      "snippet": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading.",
+      "published_at": "2026-11-12T09:47:18+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
+      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "snippet": "The Fed continued amping up its hawkishness on Thursday; meanwhile, existing home sales fell to their weakest level in 16 years.",
+      "published_at": "2026-11-12T09:15:04+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "surge"
       ]
     },
     {
