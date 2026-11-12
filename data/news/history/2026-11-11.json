@@ -1,8 +1,173 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T18:36:02.932816+00:00",
-  "count": 38,
+  "generated_at": "2026-11-12T01:29:55.546119+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
+      "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past month.",
+      "published_at": "2026-11-11T23:18:44+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
+      "link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The report about Huang’s possible departure came after the New York Times reported that he had a second extramarital affair.",
+      "published_at": "2026-11-11T22:44:47+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
+      "link": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
+      "snippet": "CoreWeave's 168% revenue jump sent its shares soaring and lifted Nvidia and other AI stocks. Strong demand is reassuring investors, but the cost of building it remains enormous.",
+      "published_at": "2026-11-11T22:36:03+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "soar"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-11T22:15:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as “an opportunity” for outreach.",
+      "published_at": "2026-11-11T22:05:17+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "snippet": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
+      "published_at": "2026-11-11T21:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.",
+      "published_at": "2026-11-11T21:36:01+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "snippet": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
+      "published_at": "2026-11-11T21:16:03+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Позитивний тон для BTC за ключовими словами.",
+      "triggers": [
+        "inflow",
+        "inflows"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
+      "published_at": "2026-11-11T20:43:19+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
+      "link": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
+      "snippet": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results, though niche genres remain a challenge.",
+      "published_at": "2026-11-11T20:16:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+      "link": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+      "snippet": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its push into decentralized artificial intelligence.",
+      "published_at": "2026-11-11T19:36:02+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Позитивний тон для ETH за ключовими словами.",
+      "triggers": [
+        "expands"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+      "link": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+      "snippet": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
+      "published_at": "2026-11-11T19:06:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+      "link": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
+      "published_at": "2026-11-11T18:30:43+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
@@ -115,19 +280,6 @@
         "launch",
         "launches"
       ]
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-11-11T13:38:15+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
     },
     {
       "source": "Cointelegraph",
