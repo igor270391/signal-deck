@@ -1,11 +1,35 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T16:33:49.899238+00:00",
-  "count": 13,
+  "generated_at": "2026-11-14T21:20:35.893726+00:00",
+  "count": 15,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+      "link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+      "snippet": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the…",
+      "published_at": "2026-11-14T18:01:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "link": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+      "snippet": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+      "published_at": "2026-11-14T17:01:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "lawsuit"
+      ]
+    },
+    {
       "source": "CoinDesk",
-      "title": "Bitcoin drifts back to $65,000; 'deep value zone,' says analyst",
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "snippet": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
       "published_at": "2026-11-14T16:33:29+00:00",
