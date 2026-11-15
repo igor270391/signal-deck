@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T21:20:35.893726+00:00",
+  "generated_at": "2026-11-15T01:45:59.080089+00:00",
   "count": 15,
   "items": [
     {
@@ -29,16 +29,19 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "snippet": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
       "published_at": "2026-11-14T16:33:29+00:00",
-      "impact": "нейтральний",
+      "impact": "негативний",
       "coins": [
         "BTC"
       ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "crashes"
+      ]
     },
     {
       "source": "CoinDesk",
