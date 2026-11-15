@@ -1,8 +1,19 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T16:21:32.338017+00:00",
-  "count": 9,
+  "generated_at": "2026-11-15T21:41:41.001106+00:00",
+  "count": 10,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "snippet": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+      "published_at": "2026-11-15T19:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
