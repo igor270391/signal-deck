@@ -1,7 +1,7 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-16T01:49:54.152602+00:00",
-  "count": 12,
+  "generated_at": "2026-11-16T09:25:44.493481+00:00",
+  "count": 13,
   "items": [
     {
       "source": "Cointelegraph",
@@ -104,7 +104,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
       "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
       "published_at": "2026-11-15T10:23:17+00:00",
@@ -135,8 +135,21 @@
       ]
     },
     {
+      "source": "CoinDesk",
+      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+      "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+      "snippet": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
+      "published_at": "2026-11-15T07:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
       "source": "Cointelegraph",
-      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+      "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
       "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
       "published_at": "2026-11-15T06:27:26+00:00",
