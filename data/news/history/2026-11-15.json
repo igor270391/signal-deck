@@ -1,8 +1,35 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T21:41:41.001106+00:00",
-  "count": 10,
+  "generated_at": "2026-11-16T01:49:54.152602+00:00",
+  "count": 12,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
+      "published_at": "2026-11-15T23:47:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+      "published_at": "2026-11-15T22:50:59+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "crash",
+        "selloff"
+      ]
+    },
     {
       "source": "CoinDesk",
       "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
