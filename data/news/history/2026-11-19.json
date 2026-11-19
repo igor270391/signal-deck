@@ -1,8 +1,296 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T03:08:24.547684+00:00",
-  "count": 3,
+  "generated_at": "2026-11-19T11:33:09.305114+00:00",
+  "count": 25,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+      "snippet": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance…",
+      "published_at": "2026-11-19T11:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+      "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.",
+      "published_at": "2026-11-19T11:19:58+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "note": "Нейтрально щодо BTC, ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
+      "link": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
+      "snippet": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy.",
+      "published_at": "2026-11-19T11:15:08+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic’s $107 billion raise set to top SpaceX’s IPO as tokenized stocks gain traction",
+      "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+      "snippet": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs.",
+      "published_at": "2026-11-19T11:06:13+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "record high"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "‘Highly advanced’ quantum computers could crack financial encryption in five years",
+      "link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+      "snippet": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.",
+      "published_at": "2026-11-19T10:55:29+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+      "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+      "snippet": "Nasdaq futures jumped nearly 2% with Anthropic shares indicated as much as 24% higher, and one analyst said IPO money could flow back into crypto.",
+      "published_at": "2026-11-19T10:48:26+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+      "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+      "snippet": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027.",
+      "published_at": "2026-11-19T10:39:36+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+      "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
+      "published_at": "2026-11-19T10:32:05+00:00",
+      "impact": "позитивний",
+      "coins": [
+        "SOL"
+      ],
+      "note": "Позитивний тон для SOL за ключовими словами.",
+      "triggers": [
+        "upgrade"
+      ]
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+      "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+      "snippet": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
+      "published_at": "2026-11-19T10:25:05+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+      "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+      "snippet": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized…",
+      "published_at": "2026-11-19T10:22:12+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "SOL",
+        "XRP"
+      ],
+      "note": "Нейтрально щодо SOL, XRP -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+      "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
+      "published_at": "2026-11-19T08:54:58+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sued"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
+      "published_at": "2026-11-19T08:26:19+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTCPay Server issues emergency update for 5 security flaws",
+      "link": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in.",
+      "published_at": "2026-11-19T08:04:37+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "sues"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+      "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
+      "published_at": "2026-11-19T07:55:56+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed's rate hike push may be a mistake. Here's why",
+      "link": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+      "snippet": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing.",
+      "published_at": "2026-11-19T06:23:19+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
+      "published_at": "2026-11-19T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-19T06:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+      "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+      "snippet": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.",
+      "published_at": "2026-11-19T05:39:06+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+      "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
+      "published_at": "2026-11-19T05:27:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+      "link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens.",
+      "published_at": "2026-11-19T05:09:45+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+      "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+      "snippet": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt.",
+      "published_at": "2026-11-19T04:46:10+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+      "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+      "snippet": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with…",
+      "published_at": "2026-11-19T03:40:48+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BNB",
+        "ONDO"
+      ],
+      "note": "Нейтрально щодо BNB, ONDO -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Cointelegraph",
       "title": "Trump administration unveils new center to choke off scam payments",
