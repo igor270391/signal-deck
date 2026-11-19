@@ -1,8 +1,69 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T21:20:53.463344+00:00",
-  "count": 51,
+  "generated_at": "2026-11-19T03:08:24.547684+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+      "snippet": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
+      "published_at": "2026-11-18T22:30:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+      "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+      "snippet": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia.",
+      "published_at": "2026-11-18T22:16:02+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-18T22:09:15+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
+      "published_at": "2026-11-18T21:57:35+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
+      "link": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests",
+      "snippet": "Federal investigators bypassed safeguards on four popular chatbots, producing viable attack plans within hours.",
+      "published_at": "2026-11-18T21:46:03+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "Decrypt",
       "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
@@ -297,19 +358,6 @@
       "impact": "нейтральний",
       "coins": [],
       "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
-      "triggers": []
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "published_at": "2026-11-18T13:34:00+00:00",
-      "impact": "нейтральний",
-      "coins": [
-        "BTC"
-      ],
-      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
       "triggers": []
     },
     {

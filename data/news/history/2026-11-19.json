@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T03:08:24.547684+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Trump administration unveils new center to choke off scam payments",
+      "link": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Americans reported more than $17.7 billion in online fraud losses in 2025.",
+      "published_at": "2026-11-19T01:45:33+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "fraud",
+        "scam"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+      "link": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike.",
+      "published_at": "2026-11-19T00:35:49+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "snippet": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way.",
+      "published_at": "2026-11-19T00:33:46+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    }
+  ]
+}
