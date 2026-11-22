@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-22T11:03:08.902584+00:00",
-  "count": 14,
+  "generated_at": "2026-11-22T18:27:10.815849+00:00",
+  "count": 15,
   "items": [
     {
       "source": "Decrypt",
@@ -78,6 +78,19 @@
         "crash",
         "crashes"
       ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "link": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+      "snippet": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+      "published_at": "2026-11-21T14:00:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
     },
     {
       "source": "CoinDesk",
