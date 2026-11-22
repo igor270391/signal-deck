@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T11:03:08.902584+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+      "published_at": "2026-11-22T09:33:06+00:00",
+      "impact": "негативний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Негативний тон для BTC за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "breach"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+      "published_at": "2026-11-22T07:24:05+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH",
+        "SOL"
+      ],
+      "note": "Негативний тон для ETH, SOL за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "exploit"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
+      "published_at": "2026-11-22T05:28:43+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack",
+        "stolen"
+      ]
+    }
+  ]
+}
