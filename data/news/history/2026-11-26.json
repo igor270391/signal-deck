@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T04:57:46.962307+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+      "snippet": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
+      "published_at": "2026-11-26T04:46:01+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+      "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+      "published_at": "2026-11-26T04:24:45+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "link": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
+      "published_at": "2026-11-26T01:33:20+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "breakthrough"
+      ]
+    }
+  ]
+}
