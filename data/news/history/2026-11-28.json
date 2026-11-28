@@ -1,8 +1,119 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-28T10:08:55.337013+00:00",
-  "count": 2,
+  "generated_at": "2026-11-28T18:14:20.740806+00:00",
+  "count": 11,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Usage Is Soaring But Spending Has Stalled. Here's What It Means",
+      "link": "https://decrypt.co/384204/ai-usage-soaring-spending-stalled-openrouter",
+      "snippet": "Paid AI token usage on OpenRouter has soared this year as prices plunged, but spending has barely grown since October, challenging a key assumption behind the AI infrastructure investment boom.",
+      "published_at": "2026-11-28T18:01:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bank of Japan Explores Bringing Stablecoins and Tokenized Finance Into Traditional Banking",
+      "link": "https://decrypt.co/384221/bank-of-japan-stablecoins-tokenized-finance-banking",
+      "snippet": "Japan’s central bank is exploring how blockchain-based money could work with conventional payment systems, as officials weigh the risks of stablecoins and the potential benefits of faster settlement…",
+      "published_at": "2026-11-28T17:01:02+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "ban"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether adds $10 million in Bitdeer stock after holding through an 87% drop",
+      "link": "https://www.coindesk.com/business/2026/11/28/tether-adds-usd10-million-in-bitdeer-stock-after-holding-through-an-87-drop",
+      "snippet": "The purchase increased Tether's total holding by nearly 10% to 41.45 million shares, while its Class A voting stake dropped to 17.9% due to share dilution.",
+      "published_at": "2026-11-28T16:01:54+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Нейтрально щодо ETH -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Decrypt",
+      "title": "Russia Is Turning Pigeons Into Cyborg Drones—and You Can Now Hire Them",
+      "link": "https://decrypt.co/384126/russia-pigeons-icyborg-drones-you-can-now-hire-them",
+      "snippet": "A Russian neurotechnology company is taking commercial orders for brain-implanted pigeons that it says can follow remote commands and fly for more than 10 hours.",
+      "published_at": "2026-11-28T14:01:02+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it.",
+      "link": "https://www.coindesk.com/business/2026/11/28/bybit-s-usd1-4-billion-hack-postmortem-is-ready-you-won-t-get-to-see-it",
+      "snippet": "Bybit’s public account still rests on preliminary 2025 forensic reports. Chief Technology Officer Rockman Zhang said more detail could help attackers like those who hit Binance.",
+      "published_at": "2026-11-28T14:00:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "hack"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "published_at": "2026-11-28T13:55:00+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+      "link": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "Sun also urged exchanges to issue warnings, restrict deposits and require disclosure of where funds had gone.",
+      "published_at": "2026-11-28T13:28:00+00:00",
+      "impact": "негативний",
+      "coins": [],
+      "note": "Негативний тон для загального ринку за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "delist"
+      ]
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+      "link": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+      "snippet": "There's rock bottom, and then there's something many layers below that, and that's where bitcoin sentiment is right now.",
+      "published_at": "2026-11-28T13:02:18+00:00",
+      "impact": "нейтральний",
+      "coins": [
+        "BTC"
+      ],
+      "note": "Нейтрально щодо BTC -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "link": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "A working group will examine enhancing connectivity between domestic digital payment networks and bringing their regulations into more alignment.",
+      "published_at": "2026-11-28T10:31:00+00:00",
+      "impact": "нейтральний",
+      "coins": [],
+      "note": "Нейтрально щодо загального ринку -- прямого сигналу на ціну за ключовими словами не видно.",
+      "triggers": []
+    },
     {
       "source": "CoinDesk",
       "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
@@ -21,7 +132,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+      "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
       "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "snippet": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025.",
       "published_at": "2026-11-28T07:43:00+00:00",
