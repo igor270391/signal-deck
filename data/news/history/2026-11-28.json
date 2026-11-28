@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T10:08:55.337013+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+      "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+      "snippet": "As prices tanked, blockchain trackers flagged a large outflow of ether from a wallet linked to World Liberty Financial.",
+      "published_at": "2026-11-28T09:32:51+00:00",
+      "impact": "негативний",
+      "coins": [
+        "ETH"
+      ],
+      "note": "Негативний тон для ETH за ключовими словами -- варто звернути увагу.",
+      "triggers": [
+        "plunge",
+        "plunges"
+      ]
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+      "link": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "snippet": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025.",
+      "published_at": "2026-11-28T07:43:00+00:00",
+      "impact": "позитивний",
+      "coins": [],
+      "note": "Позитивний тон для загального ринку за ключовими словами.",
+      "triggers": [
+        "approval",
+        "launch",
+        "milestone"
+      ]
+    }
+  ]
+}
